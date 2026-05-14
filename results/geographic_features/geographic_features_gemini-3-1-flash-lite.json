@@ -1,0 +1,2119 @@
+{
+  "_metadata": {
+    "provider": "gemini",
+    "model": "gemini-3.1-flash-lite",
+    "temperature": 0,
+    "prompt_file": "address_user_prompt.txt",
+    "benchmark_version": "2.0",
+    "prompt_version": "v2",
+    "taxonomy_version": "v3",
+    "uses_external_tools": false
+  },
+  "results_by_country": {
+    "United States": [
+      {
+        "city": "New York",
+        "address": "50 W 45th St, New York, NY 10036, EUA",
+        "latitude": 40.7579041,
+        "longitude": -73.9858081,
+        "prediction": {
+          "geographic_features": [
+            {
+              "feature": "commercial_area",
+              "osm_tags": [
+                {
+                  "landuse": "commercial"
+                },
+                {
+                  "building": "commercial"
+                }
+              ]
+            },
+            {
+              "feature": "dense_urban_area",
+              "osm_tags": [
+                {
+                  "landuse": "retail"
+                },
+                {
+                  "building": "yes"
+                }
+              ]
+            },
+            {
+              "feature": "pedestrian_area",
+              "osm_tags": [
+                {
+                  "highway": "pedestrian"
+                },
+                {
+                  "area:highway": "pedestrian"
+                }
+              ]
+            },
+            {
+              "feature": "transportation_corridor",
+              "osm_tags": [
+                {
+                  "highway": "primary"
+                },
+                {
+                  "highway": "secondary"
+                }
+              ]
+            }
+          ]
+        },
+        "usage": {
+          "input_tokens": 1023,
+          "output_tokens": 245
+        }
+      },
+      {
+        "city": "New York",
+        "address": "930-938 5th Ave, New York, NY 10021, EUA",
+        "latitude": 40.7740965,
+        "longitude": -73.9664851,
+        "prediction": {
+          "geographic_features": [
+            {
+              "feature": "high_density_area",
+              "osm_tags": [
+                {
+                  "landuse": "residential"
+                },
+                {
+                  "building": "apartments"
+                }
+              ]
+            },
+            {
+              "feature": "green_area",
+              "osm_tags": [
+                {
+                  "leisure": "park"
+                },
+                {
+                  "landuse": "grass"
+                }
+              ]
+            },
+            {
+              "feature": "transportation_corridor",
+              "osm_tags": [
+                {
+                  "highway": "primary"
+                }
+              ]
+            }
+          ]
+        },
+        "usage": {
+          "input_tokens": 1026,
+          "output_tokens": 173
+        }
+      },
+      {
+        "city": "New York",
+        "address": "Nova Iorque, NY 10021, EUA",
+        "latitude": 40.774704,
+        "longitude": -73.9692068,
+        "prediction": {
+          "geographic_features": [
+            {
+              "feature": "residential_area",
+              "osm_tags": [
+                {
+                  "landuse": "residential"
+                },
+                {
+                  "building": "apartments"
+                }
+              ]
+            },
+            {
+              "feature": "dense_urban_area",
+              "osm_tags": [
+                {
+                  "landuse": "retail"
+                },
+                {
+                  "building": "yes"
+                }
+              ]
+            },
+            {
+              "feature": "transportation_corridor",
+              "osm_tags": [
+                {
+                  "highway": "primary"
+                },
+                {
+                  "highway": "secondary"
+                }
+              ]
+            },
+            {
+              "feature": "green_area",
+              "osm_tags": [
+                {
+                  "leisure": "park"
+                },
+                {
+                  "landuse": "grass"
+                }
+              ]
+            }
+          ]
+        },
+        "usage": {
+          "input_tokens": 1014,
+          "output_tokens": 243
+        }
+      },
+      {
+        "city": "New York",
+        "address": "2-26 N 3rd St, Brooklyn, NY 11249, EUA",
+        "latitude": 40.7185865,
+        "longitude": -73.966248,
+        "prediction": {
+          "geographic_features": [
+            {
+              "feature": "mixed_use_area",
+              "osm_tags": [
+                {
+                  "landuse": "mixed"
+                }
+              ]
+            },
+            {
+              "feature": "dense_urban_area",
+              "osm_tags": [
+                {
+                  "building": "apartments"
+                },
+                {
+                  "building": "commercial"
+                }
+              ]
+            },
+            {
+              "feature": "waterfront",
+              "osm_tags": [
+                {
+                  "natural": "water"
+                },
+                {
+                  "waterway": "river"
+                }
+              ]
+            },
+            {
+              "feature": "pedestrian_area",
+              "osm_tags": [
+                {
+                  "highway": "pedestrian"
+                }
+              ]
+            }
+          ]
+        },
+        "usage": {
+          "input_tokens": 1022,
+          "output_tokens": 214
+        }
+      },
+      {
+        "city": "New York",
+        "address": "West Dr, Brooklyn, NY 11215, EUA",
+        "latitude": 40.668186,
+        "longitude": -73.9743779,
+        "prediction": {
+          "geographic_features": [
+            {
+              "feature": "green_area",
+              "osm_tags": [
+                {
+                  "leisure": "park"
+                },
+                {
+                  "landuse": "grass"
+                }
+              ]
+            },
+            {
+              "feature": "forest",
+              "osm_tags": [
+                {
+                  "natural": "wood"
+                }
+              ]
+            },
+            {
+              "feature": "transportation_corridor",
+              "osm_tags": [
+                {
+                  "highway": "secondary"
+                }
+              ]
+            }
+          ]
+        },
+        "usage": {
+          "input_tokens": 1014,
+          "output_tokens": 153
+        }
+      },
+      {
+        "city": "Aspen",
+        "address": "301-399 E Hopkins Ave, Aspen, CO 81611, EUA",
+        "latitude": 39.1899869,
+        "longitude": -106.8213156,
+        "prediction": {
+          "geographic_features": [
+            {
+              "feature": "commercial_area",
+              "osm_tags": [
+                {
+                  "landuse": "commercial"
+                },
+                {
+                  "building": "commercial"
+                }
+              ]
+            },
+            {
+              "feature": "pedestrian_area",
+              "osm_tags": [
+                {
+                  "highway": "pedestrian"
+                }
+              ]
+            },
+            {
+              "feature": "transportation_corridor",
+              "osm_tags": [
+                {
+                  "highway": "secondary"
+                }
+              ]
+            }
+          ]
+        },
+        "usage": {
+          "input_tokens": 1024,
+          "output_tokens": 156
+        }
+      },
+      {
+        "city": "Aspen",
+        "address": "414-406 Lacet Ln, Aspen, CO 81611, EUA",
+        "latitude": 39.1854693,
+        "longitude": -106.8110411,
+        "prediction": {
+          "geographic_features": [
+            {
+              "feature": "residential_area",
+              "osm_tags": [
+                {
+                  "landuse": "residential"
+                }
+              ]
+            },
+            {
+              "feature": "low_density_area",
+              "osm_tags": [
+                {
+                  "residential": "low_density"
+                }
+              ]
+            },
+            {
+              "feature": "forest",
+              "osm_tags": [
+                {
+                  "natural": "wood"
+                }
+              ]
+            }
+          ]
+        },
+        "usage": {
+          "input_tokens": 1024,
+          "output_tokens": 140
+        }
+      },
+      {
+        "city": "Aspen",
+        "address": "470 Rio Grande Pl, Aspen, CO 81611, Estados Unidos",
+        "latitude": 39.192332,
+        "longitude": -106.8178957,
+        "prediction": {
+          "geographic_features": [
+            {
+              "feature": "residential_area",
+              "osm_tags": [
+                {
+                  "landuse": "residential"
+                }
+              ]
+            },
+            {
+              "feature": "mixed_use_area",
+              "osm_tags": [
+                {
+                  "landuse": "mixed"
+                }
+              ]
+            },
+            {
+              "feature": "green_area",
+              "osm_tags": [
+                {
+                  "leisure": "park"
+                }
+              ]
+            },
+            {
+              "feature": "transportation_corridor",
+              "osm_tags": [
+                {
+                  "highway": "residential"
+                }
+              ]
+            }
+          ]
+        },
+        "usage": {
+          "input_tokens": 1020,
+          "output_tokens": 186
+        }
+      },
+      {
+        "city": "Aspen",
+        "address": "586-590 N Mill St, Aspen, CO 81611, EUA",
+        "latitude": 39.1943052,
+        "longitude": -106.8196529,
+        "prediction": {
+          "geographic_features": [
+            {
+              "feature": "residential_area",
+              "osm_tags": [
+                {
+                  "landuse": "residential"
+                }
+              ]
+            },
+            {
+              "feature": "mixed_use_area",
+              "osm_tags": [
+                {
+                  "landuse": "mixed"
+                }
+              ]
+            },
+            {
+              "feature": "transportation_corridor",
+              "osm_tags": [
+                {
+                  "highway": "secondary"
+                }
+              ]
+            },
+            {
+              "feature": "green_area",
+              "osm_tags": [
+                {
+                  "landuse": "grass"
+                }
+              ]
+            }
+          ]
+        },
+        "usage": {
+          "input_tokens": 1024,
+          "output_tokens": 186
+        }
+      },
+      {
+        "city": "Aspen",
+        "address": "898-800 Summit St, Aspen, CO 81611, EUA",
+        "latitude": 39.1853375,
+        "longitude": -106.8218775,
+        "prediction": {
+          "geographic_features": [
+            {
+              "feature": "residential_area",
+              "osm_tags": [
+                {
+                  "landuse": "residential"
+                },
+                {
+                  "building": "residential"
+                }
+              ]
+            },
+            {
+              "feature": "low_density_area",
+              "osm_tags": [
+                {
+                  "residential": "low_density"
+                }
+              ]
+            },
+            {
+              "feature": "green_area",
+              "osm_tags": [
+                {
+                  "landuse": "grass"
+                },
+                {
+                  "natural": "grassland"
+                }
+              ]
+            }
+          ]
+        },
+        "usage": {
+          "input_tokens": 1023,
+          "output_tokens": 172
+        }
+      }
+    ],
+    "Canada": [
+      {
+        "city": "Vancouver",
+        "address": "616-600 Robson St, Vancouver, BC V6B 2B9, Canadá",
+        "latitude": 49.2808868,
+        "longitude": -123.1215217,
+        "prediction": {
+          "geographic_features": [
+            {
+              "feature": "commercial_area",
+              "osm_tags": [
+                {
+                  "landuse": "commercial"
+                },
+                {
+                  "building": "commercial"
+                }
+              ]
+            },
+            {
+              "feature": "dense_urban_area",
+              "osm_tags": [
+                {
+                  "landuse": "retail"
+                },
+                {
+                  "building": "apartments"
+                }
+              ]
+            },
+            {
+              "feature": "transportation_corridor",
+              "osm_tags": [
+                {
+                  "highway": "primary"
+                }
+              ]
+            },
+            {
+              "feature": "pedestrian_area",
+              "osm_tags": [
+                {
+                  "highway": "pedestrian"
+                }
+              ]
+            }
+          ]
+        },
+        "usage": {
+          "input_tokens": 1024,
+          "output_tokens": 215
+        }
+      },
+      {
+        "city": "Vancouver",
+        "address": "305-389 W 14th Ave, Vancouver, BC V5Y 1X3, Canadá",
+        "latitude": 49.2586938,
+        "longitude": -123.1127361,
+        "prediction": {
+          "geographic_features": [
+            {
+              "feature": "residential_area",
+              "osm_tags": [
+                {
+                  "landuse": "residential"
+                },
+                {
+                  "building": "apartments"
+                }
+              ]
+            },
+            {
+              "feature": "transportation_corridor",
+              "osm_tags": [
+                {
+                  "highway": "secondary"
+                }
+              ]
+            },
+            {
+              "feature": "mixed_use_area",
+              "osm_tags": [
+                {
+                  "landuse": "retail"
+                }
+              ]
+            }
+          ]
+        },
+        "usage": {
+          "input_tokens": 1028,
+          "output_tokens": 158
+        }
+      },
+      {
+        "city": "Vancouver",
+        "address": "Pipeline Rd, Vancouver, BC V6G 3E2, Canadá",
+        "latitude": 49.3033454,
+        "longitude": -123.1370093,
+        "prediction": {
+          "geographic_features": [
+            {
+              "feature": "forest",
+              "osm_tags": [
+                {
+                  "natural": "wood"
+                },
+                {
+                  "landuse": "forest"
+                }
+              ]
+            },
+            {
+              "feature": "recreational_area",
+              "osm_tags": [
+                {
+                  "leisure": "park"
+                }
+              ]
+            },
+            {
+              "feature": "transportation_corridor",
+              "osm_tags": [
+                {
+                  "highway": "secondary"
+                }
+              ]
+            }
+          ]
+        },
+        "usage": {
+          "input_tokens": 1016,
+          "output_tokens": 154
+        }
+      },
+      {
+        "city": "Vancouver",
+        "address": "1790 Denman St, Vancouver, BC V6G 0A8, Canadá",
+        "latitude": 49.2864497,
+        "longitude": -123.1437665,
+        "prediction": {
+          "geographic_features": [
+            {
+              "feature": "high_density_area",
+              "osm_tags": [
+                {
+                  "landuse": "residential"
+                },
+                {
+                  "building": "apartments"
+                }
+              ]
+            },
+            {
+              "feature": "green_area",
+              "osm_tags": [
+                {
+                  "leisure": "park"
+                },
+                {
+                  "landuse": "grass"
+                }
+              ]
+            },
+            {
+              "feature": "waterfront",
+              "osm_tags": [
+                {
+                  "natural": "coastline"
+                },
+                {
+                  "water": "bay"
+                }
+              ]
+            },
+            {
+              "feature": "transportation_corridor",
+              "osm_tags": [
+                {
+                  "highway": "primary"
+                }
+              ]
+            }
+          ]
+        },
+        "usage": {
+          "input_tokens": 1022,
+          "output_tokens": 228
+        }
+      },
+      {
+        "city": "Vancouver",
+        "address": "2049-2075 Comox St, Vancouver, BC, Canadá",
+        "latitude": 49.2912262,
+        "longitude": -123.1442994,
+        "prediction": {
+          "geographic_features": [
+            {
+              "feature": "high_density_area",
+              "osm_tags": [
+                {
+                  "landuse": "residential"
+                },
+                {
+                  "building": "apartments"
+                }
+              ]
+            },
+            {
+              "feature": "green_area",
+              "osm_tags": [
+                {
+                  "leisure": "park"
+                },
+                {
+                  "landuse": "grass"
+                }
+              ]
+            },
+            {
+              "feature": "waterfront",
+              "osm_tags": [
+                {
+                  "natural": "coastline"
+                }
+              ]
+            },
+            {
+              "feature": "transportation_corridor",
+              "osm_tags": [
+                {
+                  "highway": "residential"
+                }
+              ]
+            }
+          ]
+        },
+        "usage": {
+          "input_tokens": 1020,
+          "output_tokens": 214
+        }
+      }
+    ],
+    "Brazil": [
+      {
+        "city": "São Paulo",
+        "address": "R. Vinte e Cinco de Março, 975-959 - Centro Histórico de São Paulo, São Paulo - SP, 01021-200",
+        "latitude": -23.5412709,
+        "longitude": -46.6327688,
+        "prediction": {
+          "geographic_features": [
+            {
+              "feature": "commercial_area",
+              "osm_tags": [
+                {
+                  "landuse": "commercial"
+                },
+                {
+                  "building": "commercial"
+                }
+              ]
+            },
+            {
+              "feature": "dense_urban_area",
+              "osm_tags": [
+                {
+                  "landuse": "retail"
+                }
+              ]
+            },
+            {
+              "feature": "pedestrian_area",
+              "osm_tags": [
+                {
+                  "highway": "pedestrian"
+                }
+              ]
+            },
+            {
+              "feature": "transportation_corridor",
+              "osm_tags": [
+                {
+                  "highway": "primary"
+                }
+              ]
+            }
+          ]
+        },
+        "usage": {
+          "input_tokens": 1042,
+          "output_tokens": 200
+        }
+      },
+      {
+        "city": "São Paulo",
+        "address": "R. César Augusto, 76 - Vila Romana, São Paulo - SP, 05044-020",
+        "latitude": -23.527676,
+        "longitude": -46.6950329,
+        "prediction": {
+          "geographic_features": [
+            {
+              "feature": "residential_area",
+              "osm_tags": [
+                {
+                  "landuse": "residential"
+                },
+                {
+                  "building": "apartments"
+                }
+              ]
+            },
+            {
+              "feature": "mixed_use_area",
+              "osm_tags": [
+                {
+                  "landuse": "retail"
+                },
+                {
+                  "building": "mixed"
+                }
+              ]
+            },
+            {
+              "feature": "transportation_corridor",
+              "osm_tags": [
+                {
+                  "highway": "secondary"
+                },
+                {
+                  "highway": "residential"
+                }
+              ]
+            }
+          ]
+        },
+        "usage": {
+          "input_tokens": 1027,
+          "output_tokens": 186
+        }
+      },
+      {
+        "city": "São Paulo",
+        "address": "Av. Pedro Álvares Cabral, s/n - Vila Mariana, São Paulo - SP, 04094-050",
+        "latitude": -23.5864867,
+        "longitude": -46.6581154,
+        "prediction": {
+          "geographic_features": [
+            {
+              "feature": "green_area",
+              "osm_tags": [
+                {
+                  "leisure": "park"
+                },
+                {
+                  "landuse": "grass"
+                }
+              ]
+            },
+            {
+              "feature": "transportation_corridor",
+              "osm_tags": [
+                {
+                  "highway": "primary"
+                }
+              ]
+            },
+            {
+              "feature": "dense_urban_area",
+              "osm_tags": [
+                {
+                  "landuse": "residential"
+                },
+                {
+                  "building": "apartments"
+                }
+              ]
+            }
+          ]
+        },
+        "usage": {
+          "input_tokens": 1032,
+          "output_tokens": 173
+        }
+      },
+      {
+        "city": "São Paulo",
+        "address": "Marginal Pinheiros, 359 - Jardim Morumbi, São Paulo - SP",
+        "latitude": -23.6241759,
+        "longitude": -46.7116402,
+        "prediction": {
+          "geographic_features": [
+            {
+              "feature": "transportation_corridor",
+              "osm_tags": [
+                {
+                  "highway": "trunk"
+                }
+              ]
+            },
+            {
+              "feature": "waterfront",
+              "osm_tags": [
+                {
+                  "waterway": "river"
+                }
+              ]
+            },
+            {
+              "feature": "commercial_area",
+              "osm_tags": [
+                {
+                  "landuse": "commercial"
+                }
+              ]
+            },
+            {
+              "feature": "high_density_area",
+              "osm_tags": [
+                {
+                  "building": "apartments"
+                }
+              ]
+            }
+          ]
+        },
+        "usage": {
+          "input_tokens": 1018,
+          "output_tokens": 184
+        }
+      },
+      {
+        "city": "São Paulo",
+        "address": "Av. Prof. Lineu Prestes - Butantã, São Paulo - SP, 05508-000",
+        "latitude": -23.5658132,
+        "longitude": -46.7269206,
+        "prediction": {
+          "geographic_features": [
+            {
+              "feature": "institutional_area",
+              "osm_tags": [
+                {
+                  "landuse": "institutional"
+                },
+                {
+                  "amenity": "university"
+                }
+              ]
+            },
+            {
+              "feature": "forest",
+              "osm_tags": [
+                {
+                  "natural": "wood"
+                },
+                {
+                  "landuse": "forest"
+                }
+              ]
+            },
+            {
+              "feature": "transportation_corridor",
+              "osm_tags": [
+                {
+                  "highway": "primary"
+                }
+              ]
+            }
+          ]
+        },
+        "usage": {
+          "input_tokens": 1029,
+          "output_tokens": 168
+        }
+      },
+      {
+        "city": "Campina Grande",
+        "address": "R. Venâncio Neiva, 85b - Centro, Campina Grande - PB, 58400-090",
+        "latitude": -7.2187418,
+        "longitude": -35.8854092,
+        "prediction": {
+          "geographic_features": [
+            {
+              "feature": "dense_urban_area",
+              "osm_tags": [
+                {
+                  "landuse": "residential"
+                },
+                {
+                  "building": "apartments"
+                }
+              ]
+            },
+            {
+              "feature": "commercial_area",
+              "osm_tags": [
+                {
+                  "landuse": "commercial"
+                },
+                {
+                  "building": "commercial"
+                }
+              ]
+            },
+            {
+              "feature": "pedestrian_area",
+              "osm_tags": [
+                {
+                  "highway": "pedestrian"
+                }
+              ]
+            },
+            {
+              "feature": "transportation_corridor",
+              "osm_tags": [
+                {
+                  "highway": "secondary"
+                }
+              ]
+            }
+          ]
+        },
+        "usage": {
+          "input_tokens": 1032,
+          "output_tokens": 215
+        }
+      },
+      {
+        "city": "Campina Grande",
+        "address": "R. Absalão Emerenciano, 231-15 - Cruzeiro, Campina Grande - PB, 58415-580",
+        "latitude": -7.2509104,
+        "longitude": -35.9066501,
+        "prediction": {
+          "geographic_features": [
+            {
+              "feature": "residential_area",
+              "osm_tags": [
+                {
+                  "landuse": "residential"
+                }
+              ]
+            },
+            {
+              "feature": "transportation_corridor",
+              "osm_tags": [
+                {
+                  "highway": "secondary"
+                }
+              ]
+            },
+            {
+              "feature": "low_density_area",
+              "osm_tags": [
+                {
+                  "building": "house"
+                }
+              ]
+            }
+          ]
+        },
+        "usage": {
+          "input_tokens": 1037,
+          "output_tokens": 142
+        }
+      },
+      {
+        "city": "Campina Grande",
+        "address": "Av. Dr. Elpídio de Almeida, 215 - Catolé, Campina Grande - PB, 58410-725",
+        "latitude": -7.226974,
+        "longitude": -35.878447,
+        "prediction": {
+          "geographic_features": [
+            {
+              "feature": "mixed_use_area",
+              "osm_tags": [
+                {
+                  "landuse": "mixed"
+                }
+              ]
+            },
+            {
+              "feature": "transportation_corridor",
+              "osm_tags": [
+                {
+                  "highway": "secondary"
+                }
+              ]
+            },
+            {
+              "feature": "residential_area",
+              "osm_tags": [
+                {
+                  "landuse": "residential"
+                }
+              ]
+            }
+          ]
+        },
+        "usage": {
+          "input_tokens": 1033,
+          "output_tokens": 143
+        }
+      },
+      {
+        "city": "Campina Grande",
+        "address": "R. Dr. Severino Cruz, 491-301 - Centro, Campina Grande - PB",
+        "latitude": -7.2250527,
+        "longitude": -35.8816382,
+        "prediction": {
+          "geographic_features": [
+            {
+              "feature": "dense_urban_area",
+              "osm_tags": [
+                {
+                  "landuse": "residential"
+                },
+                {
+                  "building": "apartments"
+                }
+              ]
+            },
+            {
+              "feature": "commercial_area",
+              "osm_tags": [
+                {
+                  "landuse": "commercial"
+                },
+                {
+                  "building": "commercial"
+                }
+              ]
+            },
+            {
+              "feature": "transportation_corridor",
+              "osm_tags": [
+                {
+                  "highway": "secondary"
+                }
+              ]
+            }
+          ]
+        },
+        "usage": {
+          "input_tokens": 1025,
+          "output_tokens": 172
+        }
+      },
+      {
+        "city": "Campina Grande",
+        "address": "R. Leniel Sucupira M Deajmeira, 288-394 - Monte Santo, Campina Grande - PB",
+        "latitude": -7.2132595,
+        "longitude": -35.9069415,
+        "prediction": {
+          "geographic_features": [
+            {
+              "feature": "residential_area",
+              "osm_tags": [
+                {
+                  "landuse": "residential"
+                }
+              ]
+            },
+            {
+              "feature": "low_density_area",
+              "osm_tags": [
+                {
+                  "building": "detached"
+                }
+              ]
+            },
+            {
+              "feature": "transportation_corridor",
+              "osm_tags": [
+                {
+                  "highway": "residential"
+                }
+              ]
+            }
+          ]
+        },
+        "usage": {
+          "input_tokens": 1031,
+          "output_tokens": 142
+        }
+      },
+      {
+        "city": "Tibau do Sul",
+        "address": "Av. Baía dos Golfinhos, 802-814, Tibau do Sul - RN, 59178-000",
+        "latitude": -6.2290625,
+        "longitude": -35.0501158,
+        "prediction": {
+          "geographic_features": [
+            {
+              "feature": "mixed_use_area",
+              "osm_tags": [
+                {
+                  "landuse": "mixed"
+                }
+              ]
+            },
+            {
+              "feature": "transportation_corridor",
+              "osm_tags": [
+                {
+                  "highway": "secondary"
+                }
+              ]
+            },
+            {
+              "feature": "waterfront",
+              "osm_tags": [
+                {
+                  "natural": "coastline"
+                }
+              ]
+            }
+          ]
+        },
+        "usage": {
+          "input_tokens": 1036,
+          "output_tokens": 142
+        }
+      },
+      {
+        "city": "Tibau do Sul",
+        "address": "Tv. Harmonia 02, Pipa (Tibau do Sul) - RN, 59178-000",
+        "latitude": -6.2431176,
+        "longitude": -35.0506577,
+        "prediction": {
+          "geographic_features": [
+            {
+              "feature": "residential_area",
+              "osm_tags": [
+                {
+                  "landuse": "residential"
+                }
+              ]
+            },
+            {
+              "feature": "mixed_use_area",
+              "osm_tags": [
+                {
+                  "landuse": "retail"
+                },
+                {
+                  "building": "apartments"
+                }
+              ]
+            },
+            {
+              "feature": "pedestrian_area",
+              "osm_tags": [
+                {
+                  "highway": "pedestrian"
+                }
+              ]
+            },
+            {
+              "feature": "green_area",
+              "osm_tags": [
+                {
+                  "natural": "grassland"
+                }
+              ]
+            }
+          ]
+        },
+        "usage": {
+          "input_tokens": 1031,
+          "output_tokens": 200
+        }
+      },
+      {
+        "city": "Tibau do Sul",
+        "address": "PWWP+GP, Tibau do Sul - RN, 59178-000",
+        "latitude": -6.2537015,
+        "longitude": -35.0657486,
+        "prediction": {
+          "geographic_features": [
+            {
+              "feature": "residential_area",
+              "osm_tags": [
+                {
+                  "landuse": "residential"
+                }
+              ]
+            },
+            {
+              "feature": "waterfront",
+              "osm_tags": [
+                {
+                  "natural": "coastline"
+                }
+              ]
+            },
+            {
+              "feature": "green_area",
+              "osm_tags": [
+                {
+                  "natural": "scrub"
+                }
+              ]
+            },
+            {
+              "feature": "transportation_corridor",
+              "osm_tags": [
+                {
+                  "highway": "secondary"
+                }
+              ]
+            }
+          ]
+        },
+        "usage": {
+          "input_tokens": 1025,
+          "output_tokens": 182
+        }
+      },
+      {
+        "city": "Tibau do Sul",
+        "address": "Largo São Sebastião, 35-37, Tibau do Sul - RN, 59178-000",
+        "latitude": -6.2279973,
+        "longitude": -35.046775,
+        "prediction": {
+          "geographic_features": [
+            {
+              "feature": "mixed_use_area",
+              "osm_tags": [
+                {
+                  "landuse": "mixed"
+                }
+              ]
+            },
+            {
+              "feature": "waterfront",
+              "osm_tags": [
+                {
+                  "natural": "coastline"
+                },
+                {
+                  "water": "bay"
+                }
+              ]
+            },
+            {
+              "feature": "pedestrian_area",
+              "osm_tags": [
+                {
+                  "highway": "pedestrian"
+                }
+              ]
+            },
+            {
+              "feature": "residential_area",
+              "osm_tags": [
+                {
+                  "landuse": "residential"
+                }
+              ]
+            }
+          ]
+        },
+        "usage": {
+          "input_tokens": 1030,
+          "output_tokens": 198
+        }
+      },
+      {
+        "city": "Tibau do Sul",
+        "address": "R. das Acácias, 31, Tibau do Sul - RN, 59178-000",
+        "latitude": -6.2325947,
+        "longitude": -35.0425869,
+        "prediction": {
+          "geographic_features": [
+            {
+              "feature": "residential_area",
+              "osm_tags": [
+                {
+                  "landuse": "residential"
+                }
+              ]
+            },
+            {
+              "feature": "green_area",
+              "osm_tags": [
+                {
+                  "natural": "grassland"
+                }
+              ]
+            },
+            {
+              "feature": "waterfront",
+              "osm_tags": [
+                {
+                  "natural": "water"
+                }
+              ]
+            }
+          ]
+        },
+        "usage": {
+          "input_tokens": 1029,
+          "output_tokens": 138
+        }
+      }
+    ],
+    "United Kingdom": [
+      {
+        "city": "Londres",
+        "address": "3-15 Whitcomb St., London, Reino Unido",
+        "latitude": 51.508712,
+        "longitude": -0.130183,
+        "prediction": {
+          "geographic_features": [
+            {
+              "feature": "dense_urban_area",
+              "osm_tags": [
+                {
+                  "landuse": "residential"
+                },
+                {
+                  "building": "yes"
+                }
+              ]
+            },
+            {
+              "feature": "commercial_area",
+              "osm_tags": [
+                {
+                  "landuse": "commercial"
+                },
+                {
+                  "building": "commercial"
+                }
+              ]
+            },
+            {
+              "feature": "pedestrian_area",
+              "osm_tags": [
+                {
+                  "highway": "pedestrian"
+                },
+                {
+                  "area:highway": "pedestrian"
+                }
+              ]
+            },
+            {
+              "feature": "transportation_corridor",
+              "osm_tags": [
+                {
+                  "highway": "primary"
+                },
+                {
+                  "highway": "secondary"
+                }
+              ]
+            }
+          ]
+        },
+        "usage": {
+          "input_tokens": 1010,
+          "output_tokens": 245
+        }
+      },
+      {
+        "city": "Londres",
+        "address": "50-2 Collingbourne Rd, London, Reino Unido",
+        "latitude": 51.509025,
+        "longitude": -0.23513,
+        "prediction": {
+          "geographic_features": [
+            {
+              "feature": "residential_area",
+              "osm_tags": [
+                {
+                  "landuse": "residential"
+                },
+                {
+                  "building": "residential"
+                }
+              ]
+            },
+            {
+              "feature": "transportation_corridor",
+              "osm_tags": [
+                {
+                  "highway": "residential"
+                }
+              ]
+            },
+            {
+              "feature": "green_area",
+              "osm_tags": [
+                {
+                  "landuse": "grass"
+                }
+              ]
+            }
+          ]
+        },
+        "usage": {
+          "input_tokens": 1010,
+          "output_tokens": 155
+        }
+      },
+      {
+        "city": "Londres",
+        "address": "Emma FitzGerald Walk, London W2 2UH, Reino Unido",
+        "latitude": 51.508826,
+        "longitude": -0.163524,
+        "prediction": {
+          "geographic_features": [
+            {
+              "feature": "residential_area",
+              "osm_tags": [
+                {
+                  "landuse": "residential"
+                },
+                {
+                  "building": "apartments"
+                }
+              ]
+            },
+            {
+              "feature": "pedestrian_area",
+              "osm_tags": [
+                {
+                  "highway": "pedestrian"
+                },
+                {
+                  "area:highway": "pedestrian"
+                }
+              ]
+            },
+            {
+              "feature": "dense_urban_area",
+              "osm_tags": [
+                {
+                  "landuse": "urban"
+                }
+              ]
+            }
+          ]
+        },
+        "usage": {
+          "input_tokens": 1011,
+          "output_tokens": 175
+        }
+      },
+      {
+        "city": "Londres",
+        "address": "The Queen's Walk, London SE1 7PB, Reino Unido",
+        "latitude": 51.50206,
+        "longitude": -0.119699,
+        "prediction": {
+          "geographic_features": [
+            {
+              "feature": "waterfront",
+              "osm_tags": [
+                {
+                  "waterway": "river"
+                },
+                {
+                  "natural": "water"
+                }
+              ]
+            },
+            {
+              "feature": "pedestrian_area",
+              "osm_tags": [
+                {
+                  "highway": "pedestrian"
+                }
+              ]
+            },
+            {
+              "feature": "dense_urban_area",
+              "osm_tags": [
+                {
+                  "landuse": "retail"
+                },
+                {
+                  "building": "yes"
+                }
+              ]
+            },
+            {
+              "feature": "green_area",
+              "osm_tags": [
+                {
+                  "landuse": "grass"
+                }
+              ]
+            }
+          ]
+        },
+        "usage": {
+          "input_tokens": 1011,
+          "output_tokens": 213
+        }
+      },
+      {
+        "city": "Londres",
+        "address": "86-85 De Laune St, London SE17 3UT, Reino Unido",
+        "latitude": 51.48564,
+        "longitude": -0.107424,
+        "prediction": {
+          "geographic_features": [
+            {
+              "feature": "residential_area",
+              "osm_tags": [
+                {
+                  "landuse": "residential"
+                },
+                {
+                  "building": "apartments"
+                }
+              ]
+            },
+            {
+              "feature": "dense_urban_area",
+              "osm_tags": [
+                {
+                  "landuse": "residential"
+                },
+                {
+                  "building": "yes"
+                }
+              ]
+            },
+            {
+              "feature": "transportation_corridor",
+              "osm_tags": [
+                {
+                  "highway": "residential"
+                },
+                {
+                  "highway": "secondary"
+                }
+              ]
+            }
+          ]
+        },
+        "usage": {
+          "input_tokens": 1017,
+          "output_tokens": 186
+        }
+      },
+      {
+        "city": "Bath",
+        "address": "Pierrepont St, Bath BA2 4AF, Reino Unido",
+        "latitude": 51.379944,
+        "longitude": -2.357126,
+        "prediction": {
+          "geographic_features": [
+            {
+              "feature": "dense_urban_area",
+              "osm_tags": [
+                {
+                  "landuse": "residential"
+                },
+                {
+                  "building": "apartments"
+                }
+              ]
+            },
+            {
+              "feature": "commercial_area",
+              "osm_tags": [
+                {
+                  "landuse": "commercial"
+                }
+              ]
+            },
+            {
+              "feature": "transportation_corridor",
+              "osm_tags": [
+                {
+                  "highway": "primary"
+                }
+              ]
+            },
+            {
+              "feature": "transit_infrastructure",
+              "osm_tags": [
+                {
+                  "railway": "station"
+                }
+              ]
+            },
+            {
+              "feature": "green_area",
+              "osm_tags": [
+                {
+                  "landuse": "grass"
+                }
+              ]
+            }
+          ]
+        },
+        "usage": {
+          "input_tokens": 1011,
+          "output_tokens": 242
+        }
+      },
+      {
+        "city": "Bath",
+        "address": "Quarry Rock Gardens, Bath BA2 6EF, Reino Unido",
+        "latitude": 51.373304,
+        "longitude": -2.332214,
+        "prediction": {
+          "geographic_features": [
+            {
+              "feature": "residential_area",
+              "osm_tags": [
+                {
+                  "landuse": "residential"
+                }
+              ]
+            },
+            {
+              "feature": "green_area",
+              "osm_tags": [
+                {
+                  "landuse": "grass"
+                },
+                {
+                  "leisure": "garden"
+                }
+              ]
+            },
+            {
+              "feature": "low_density_area",
+              "osm_tags": [
+                {
+                  "building": "detached"
+                }
+              ]
+            }
+          ]
+        },
+        "usage": {
+          "input_tokens": 1010,
+          "output_tokens": 156
+        }
+      },
+      {
+        "city": "Bath",
+        "address": "Bath BA1 2LZ, Reino Unido",
+        "latitude": 51.38802,
+        "longitude": -2.376018,
+        "prediction": {
+          "geographic_features": [
+            {
+              "feature": "dense_urban_area",
+              "osm_tags": [
+                {
+                  "landuse": "residential"
+                },
+                {
+                  "building": "apartments"
+                }
+              ]
+            },
+            {
+              "feature": "pedestrian_area",
+              "osm_tags": [
+                {
+                  "highway": "pedestrian"
+                }
+              ]
+            },
+            {
+              "feature": "commercial_area",
+              "osm_tags": [
+                {
+                  "landuse": "commercial"
+                }
+              ]
+            },
+            {
+              "feature": "transportation_corridor",
+              "osm_tags": [
+                {
+                  "highway": "secondary"
+                }
+              ]
+            }
+          ]
+        },
+        "usage": {
+          "input_tokens": 1005,
+          "output_tokens": 201
+        }
+      },
+      {
+        "city": "Bath",
+        "address": "Bristol And Bath Railway Path, Bath, Reino Unido",
+        "latitude": 51.38279,
+        "longitude": -2.384838,
+        "prediction": {
+          "geographic_features": [
+            {
+              "feature": "transportation_corridor",
+              "osm_tags": [
+                {
+                  "highway": "cycleway"
+                },
+                {
+                  "railway": "abandoned"
+                }
+              ]
+            },
+            {
+              "feature": "green_area",
+              "osm_tags": [
+                {
+                  "landuse": "grass"
+                },
+                {
+                  "natural": "wood"
+                }
+              ]
+            },
+            {
+              "feature": "residential_area",
+              "osm_tags": [
+                {
+                  "landuse": "residential"
+                }
+              ]
+            }
+          ]
+        },
+        "usage": {
+          "input_tokens": 1006,
+          "output_tokens": 172
+        }
+      },
+      {
+        "city": "Bath",
+        "address": "35 Calton Gardens, Bath BA2 4QG, Reino Unido",
+        "latitude": 51.37577,
+        "longitude": -2.360877,
+        "prediction": {
+          "geographic_features": [
+            {
+              "feature": "residential_area",
+              "osm_tags": [
+                {
+                  "landuse": "residential"
+                },
+                {
+                  "building": "residential"
+                }
+              ]
+            },
+            {
+              "feature": "dense_urban_area",
+              "osm_tags": [
+                {
+                  "building": "apartments"
+                },
+                {
+                  "building": "terrace"
+                }
+              ]
+            },
+            {
+              "feature": "green_area",
+              "osm_tags": [
+                {
+                  "landuse": "grass"
+                },
+                {
+                  "leisure": "garden"
+                }
+              ]
+            }
+          ]
+        },
+        "usage": {
+          "input_tokens": 1013,
+          "output_tokens": 186
+        }
+      }
+    ],
+    "Netherlands": [
+      {
+        "city": "Amsterdam",
+        "address": "Rokin, Amsterdam, Países Baixos",
+        "latitude": 52.371757,
+        "longitude": 4.892806,
+        "prediction": {
+          "geographic_features": [
+            {
+              "feature": "dense_urban_area",
+              "osm_tags": [
+                {
+                  "landuse": "residential"
+                },
+                {
+                  "building": "apartments"
+                }
+              ]
+            },
+            {
+              "feature": "commercial_area",
+              "osm_tags": [
+                {
+                  "landuse": "commercial"
+                }
+              ]
+            },
+            {
+              "feature": "waterfront",
+              "osm_tags": [
+                {
+                  "waterway": "canal"
+                },
+                {
+                  "natural": "water"
+                }
+              ]
+            },
+            {
+              "feature": "pedestrian_area",
+              "osm_tags": [
+                {
+                  "highway": "pedestrian"
+                }
+              ]
+            },
+            {
+              "feature": "transit_infrastructure",
+              "osm_tags": [
+                {
+                  "public_transport": "station"
+                },
+                {
+                  "railway": "subway_entrance"
+                }
+              ]
+            }
+          ]
+        },
+        "usage": {
+          "input_tokens": 1006,
+          "output_tokens": 274
+        }
+      },
+      {
+        "city": "Amsterdam",
+        "address": "Govert Flinckstraat 127II, 1072 EG Amsterdam, Países Baixos",
+        "latitude": 52.354877,
+        "longitude": 4.892269,
+        "prediction": {
+          "geographic_features": [
+            {
+              "feature": "residential_area",
+              "osm_tags": [
+                {
+                  "landuse": "residential"
+                },
+                {
+                  "building": "apartments"
+                }
+              ]
+            },
+            {
+              "feature": "dense_urban_area",
+              "osm_tags": [
+                {
+                  "building": "yes"
+                }
+              ]
+            },
+            {
+              "feature": "transportation_corridor",
+              "osm_tags": [
+                {
+                  "highway": "residential"
+                }
+              ]
+            }
+          ]
+        },
+        "usage": {
+          "input_tokens": 1021,
+          "output_tokens": 157
+        }
+      },
+      {
+        "city": "Amsterdam",
+        "address": "Heimanspad, 1073 CX Amsterdam, Países Baixos",
+        "latitude": 52.354118,
+        "longitude": 4.897775,
+        "prediction": {
+          "geographic_features": [
+            {
+              "feature": "residential_area",
+              "osm_tags": [
+                {
+                  "landuse": "residential"
+                },
+                {
+                  "building": "apartments"
+                }
+              ]
+            },
+            {
+              "feature": "green_area",
+              "osm_tags": [
+                {
+                  "landuse": "grass"
+                },
+                {
+                  "leisure": "park"
+                }
+              ]
+            },
+            {
+              "feature": "waterfront",
+              "osm_tags": [
+                {
+                  "waterway": "canal"
+                }
+              ]
+            }
+          ]
+        },
+        "usage": {
+          "input_tokens": 1013,
+          "output_tokens": 169
+        }
+      },
+      {
+        "city": "Amsterdam",
+        "address": "Smederij 2-20, 1021 NG Amsterdam, Países Baixos",
+        "latitude": 52.381379,
+        "longitude": 4.914643,
+        "prediction": {
+          "geographic_features": [
+            {
+              "feature": "mixed_use_area",
+              "osm_tags": [
+                {
+                  "landuse": "mixed"
+                }
+              ]
+            },
+            {
+              "feature": "industrial_area",
+              "osm_tags": [
+                {
+                  "landuse": "industrial"
+                }
+              ]
+            },
+            {
+              "feature": "waterfront",
+              "osm_tags": [
+                {
+                  "waterway": "dock"
+                },
+                {
+                  "natural": "water"
+                }
+              ]
+            },
+            {
+              "feature": "transportation_corridor",
+              "osm_tags": [
+                {
+                  "highway": "secondary"
+                }
+              ]
+            }
+          ]
+        },
+        "usage": {
+          "input_tokens": 1019,
+          "output_tokens": 198
+        }
+      },
+      {
+        "city": "Amsterdam",
+        "address": "Meidoornweg 16-20, 1031 GM Amsterdam, Países Baixos",
+        "latitude": 52.387055,
+        "longitude": 4.910223,
+        "prediction": {
+          "geographic_features": [
+            {
+              "feature": "residential_area",
+              "osm_tags": [
+                {
+                  "landuse": "residential"
+                },
+                {
+                  "building": "apartments"
+                }
+              ]
+            },
+            {
+              "feature": "mixed_use_area",
+              "osm_tags": [
+                {
+                  "landuse": "mixed"
+                }
+              ]
+            },
+            {
+              "feature": "transportation_corridor",
+              "osm_tags": [
+                {
+                  "highway": "secondary"
+                }
+              ]
+            },
+            {
+              "feature": "green_area",
+              "osm_tags": [
+                {
+                  "landuse": "grass"
+                }
+              ]
+            }
+          ]
+        },
+        "usage": {
+          "input_tokens": 1020,
+          "output_tokens": 200
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,3740 @@
+{
+  "_metadata": {
+    "provider": "gemini",
+    "model": "gemini-3.1-flash-lite",
+    "temperature": 0
+  },
+  "results": [
+    {
+      "country": "Estados Unidos",
+      "city": "New York",
+      "address": "50 W 45th St, New York, NY 10036, EUA",
+      "latitude": 40.7579041,
+      "longitude": -73.9858081,
+      "pois": [
+        {
+          "name": "Bryant Park",
+          "type": "park",
+          "distance_km": 0.25,
+          "direction": "E",
+          "confidence": "high"
+        },
+        {
+          "name": "Times Square",
+          "type": "landmark",
+          "distance_km": 0.35,
+          "direction": "W",
+          "confidence": "high"
+        },
+        {
+          "name": "Grand Central Terminal",
+          "type": "transport",
+          "distance_km": 0.75,
+          "direction": "E",
+          "confidence": "high"
+        },
+        {
+          "name": "Rockefeller Center",
+          "type": "landmark",
+          "distance_km": 0.8,
+          "direction": "N",
+          "confidence": "high"
+        },
+        {
+          "name": "New York Public Library Main Branch",
+          "type": "landmark",
+          "distance_km": 0.85,
+          "direction": "SE",
+          "confidence": "high"
+        },
+        {
+          "name": "Port Authority Bus Terminal",
+          "type": "transport",
+          "distance_km": 0.95,
+          "direction": "W",
+          "confidence": "high"
+        },
+        {
+          "name": "St. Patrick's Cathedral",
+          "type": "religious",
+          "distance_km": 1.05,
+          "direction": "N",
+          "confidence": "high"
+        },
+        {
+          "name": "Radio City Music Hall",
+          "type": "landmark",
+          "distance_km": 1.1,
+          "direction": "N",
+          "confidence": "high"
+        },
+        {
+          "name": "Empire State Building",
+          "type": "landmark",
+          "distance_km": 1.2,
+          "direction": "S",
+          "confidence": "high"
+        },
+        {
+          "name": "Museum of Modern Art",
+          "type": "landmark",
+          "distance_km": 1.35,
+          "direction": "N",
+          "confidence": "high"
+        }
+      ],
+      "usage": {
+        "input_tokens": 665,
+        "output_tokens": 550
+      }
+    },
+    {
+      "country": "Estados Unidos",
+      "city": "New York",
+      "address": "930-938 5th Ave, New York, NY 10021, EUA",
+      "latitude": 40.7740965,
+      "longitude": -73.9664851,
+      "pois": [
+        {
+          "name": "Central Park",
+          "type": "park",
+          "distance_km": 0.05,
+          "direction": "W",
+          "confidence": "high"
+        },
+        {
+          "name": "The Frick Collection",
+          "type": "landmark",
+          "distance_km": 0.45,
+          "direction": "S",
+          "confidence": "high"
+        },
+        {
+          "name": "The Metropolitan Museum of Art",
+          "type": "landmark",
+          "distance_km": 0.65,
+          "direction": "N",
+          "confidence": "high"
+        },
+        {
+          "name": "77th Street Station",
+          "type": "transport",
+          "distance_km": 0.75,
+          "direction": "E",
+          "confidence": "high"
+        },
+        {
+          "name": "Lenox Hill Hospital",
+          "type": "hospital",
+          "distance_km": 0.85,
+          "direction": "SE",
+          "confidence": "high"
+        },
+        {
+          "name": "Temple Emanu-El",
+          "type": "religious",
+          "distance_km": 0.95,
+          "direction": "S",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hunter College",
+          "type": "school",
+          "distance_km": 1.2,
+          "direction": "S",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bloomingdale's 59th Street",
+          "type": "retail",
+          "distance_km": 1.45,
+          "direction": "S",
+          "confidence": "high"
+        },
+        {
+          "name": "Guggenheim Museum",
+          "type": "landmark",
+          "distance_km": 1.55,
+          "direction": "N",
+          "confidence": "high"
+        },
+        {
+          "name": "Roosevelt Island Tramway",
+          "type": "transport",
+          "distance_km": 1.85,
+          "direction": "SE",
+          "confidence": "medium"
+        }
+      ],
+      "usage": {
+        "input_tokens": 668,
+        "output_tokens": 557
+      }
+    },
+    {
+      "country": "Estados Unidos",
+      "city": "New York",
+      "address": "Nova Iorque, NY 10021, EUA",
+      "latitude": 40.774704,
+      "longitude": -73.9692068,
+      "pois": [
+        {
+          "name": "Central Park",
+          "type": "park",
+          "distance_km": 0.25,
+          "direction": "W",
+          "confidence": "high"
+        },
+        {
+          "name": "77th Street Station",
+          "type": "transport",
+          "distance_km": 0.45,
+          "direction": "SE",
+          "confidence": "high"
+        },
+        {
+          "name": "The Metropolitan Museum of Art",
+          "type": "landmark",
+          "distance_km": 0.65,
+          "direction": "N",
+          "confidence": "high"
+        },
+        {
+          "name": "Lenox Hill Hospital",
+          "type": "hospital",
+          "distance_km": 0.85,
+          "direction": "S",
+          "confidence": "high"
+        },
+        {
+          "name": "Hunter College",
+          "type": "school",
+          "distance_km": 1.1,
+          "direction": "S",
+          "confidence": "medium"
+        },
+        {
+          "name": "Guggenheim Museum",
+          "type": "landmark",
+          "distance_km": 1.25,
+          "direction": "N",
+          "confidence": "high"
+        },
+        {
+          "name": "Bloomingdale's 59th Street",
+          "type": "retail",
+          "distance_km": 1.4,
+          "direction": "S",
+          "confidence": "medium"
+        },
+        {
+          "name": "St. Catherine of Siena Church",
+          "type": "religious",
+          "distance_km": 1.55,
+          "direction": "E",
+          "confidence": "medium"
+        },
+        {
+          "name": "Carl Schurz Park",
+          "type": "park",
+          "distance_km": 1.75,
+          "direction": "E",
+          "confidence": "medium"
+        },
+        {
+          "name": "68th Street-Hunter College Station",
+          "type": "transport",
+          "distance_km": 1.9,
+          "direction": "S",
+          "confidence": "high"
+        }
+      ],
+      "usage": {
+        "input_tokens": 656,
+        "output_tokens": 561
+      }
+    },
+    {
+      "country": "Estados Unidos",
+      "city": "New York",
+      "address": "2-26 N 3rd St, Brooklyn, NY 11249, EUA",
+      "latitude": 40.7185865,
+      "longitude": -73.966248,
+      "pois": [
+        {
+          "name": "Bushwick Inlet Park",
+          "type": "park",
+          "distance_km": 0.35,
+          "direction": "N",
+          "confidence": "high"
+        },
+        {
+          "name": "Bedford Avenue Station",
+          "type": "transport",
+          "distance_km": 0.45,
+          "direction": "SE",
+          "confidence": "high"
+        },
+        {
+          "name": "Whole Foods Market",
+          "type": "retail",
+          "distance_km": 0.55,
+          "direction": "SE",
+          "confidence": "high"
+        },
+        {
+          "name": "Domino Park",
+          "type": "park",
+          "distance_km": 0.65,
+          "direction": "SW",
+          "confidence": "high"
+        },
+        {
+          "name": "Williamsburg Bridge",
+          "type": "landmark",
+          "distance_km": 0.85,
+          "direction": "S",
+          "confidence": "high"
+        },
+        {
+          "name": "Nassau Avenue Station",
+          "type": "transport",
+          "distance_km": 1.1,
+          "direction": "NE",
+          "confidence": "medium"
+        },
+        {
+          "name": "McCarren Park",
+          "type": "park",
+          "distance_km": 1.2,
+          "direction": "NE",
+          "confidence": "high"
+        },
+        {
+          "name": "Brooklyn Brewery",
+          "type": "retail",
+          "distance_km": 1.35,
+          "direction": "E",
+          "confidence": "medium"
+        },
+        {
+          "name": "Woodhull Hospital",
+          "type": "hospital",
+          "distance_km": 1.75,
+          "direction": "SE",
+          "confidence": "medium"
+        },
+        {
+          "name": "Marcy Avenue Station",
+          "type": "transport",
+          "distance_km": 1.9,
+          "direction": "S",
+          "confidence": "high"
+        }
+      ],
+      "usage": {
+        "input_tokens": 664,
+        "output_tokens": 547
+      }
+    },
+    {
+      "country": "Estados Unidos",
+      "city": "New York",
+      "address": "West Dr, Brooklyn, NY 11215, EUA",
+      "latitude": 40.668186,
+      "longitude": -73.9743779,
+      "pois": [
+        {
+          "name": "Prospect Park",
+          "type": "park",
+          "distance_km": 0.15,
+          "direction": "E",
+          "confidence": "high"
+        },
+        {
+          "name": "Grand Army Plaza",
+          "type": "landmark",
+          "distance_km": 0.45,
+          "direction": "NE",
+          "confidence": "high"
+        },
+        {
+          "name": "Brooklyn Public Library Central Branch",
+          "type": "landmark",
+          "distance_km": 0.62,
+          "direction": "NE",
+          "confidence": "high"
+        },
+        {
+          "name": "Brooklyn Museum",
+          "type": "landmark",
+          "distance_km": 0.85,
+          "direction": "SE",
+          "confidence": "high"
+        },
+        {
+          "name": "Brooklyn Botanic Garden",
+          "type": "park",
+          "distance_km": 0.95,
+          "direction": "SE",
+          "confidence": "high"
+        },
+        {
+          "name": "7th Avenue Station",
+          "type": "transport",
+          "distance_km": 1.1,
+          "direction": "NW",
+          "confidence": "high"
+        },
+        {
+          "name": "NewYork-Presbyterian Brooklyn Methodist Hospital",
+          "type": "hospital",
+          "distance_km": 1.25,
+          "direction": "W",
+          "confidence": "high"
+        },
+        {
+          "name": "Prospect Park Zoo",
+          "type": "landmark",
+          "distance_km": 1.4,
+          "direction": "S",
+          "confidence": "medium"
+        },
+        {
+          "name": "Park Slope Food Coop",
+          "type": "retail",
+          "distance_km": 1.55,
+          "direction": "NW",
+          "confidence": "high"
+        },
+        {
+          "name": "Prospect Heights High School",
+          "type": "school",
+          "distance_km": 1.85,
+          "direction": "NE",
+          "confidence": "medium"
+        }
+      ],
+      "usage": {
+        "input_tokens": 656,
+        "output_tokens": 550
+      }
+    },
+    {
+      "country": "Canada",
+      "city": "Vancouver",
+      "address": "616-600 Robson St, Vancouver, BC V6B 2B9, Canadá",
+      "latitude": 49.2808868,
+      "longitude": -123.1215217,
+      "pois": [
+        {
+          "name": "Vancouver Public Library, Central Branch",
+          "type": "landmark",
+          "distance_km": 0.25,
+          "direction": "SE",
+          "confidence": "high"
+        },
+        {
+          "name": "Pacific Centre",
+          "type": "retail",
+          "distance_km": 0.35,
+          "direction": "NE",
+          "confidence": "high"
+        },
+        {
+          "name": "Vancouver City Centre Station",
+          "type": "transport",
+          "distance_km": 0.45,
+          "direction": "NE",
+          "confidence": "high"
+        },
+        {
+          "name": "Orpheum Theatre",
+          "type": "landmark",
+          "distance_km": 0.5,
+          "direction": "SE",
+          "confidence": "high"
+        },
+        {
+          "name": "Robson Square",
+          "type": "park",
+          "distance_km": 0.55,
+          "direction": "NW",
+          "confidence": "high"
+        },
+        {
+          "name": "St. Paul's Hospital",
+          "type": "hospital",
+          "distance_km": 0.75,
+          "direction": "NW",
+          "confidence": "high"
+        },
+        {
+          "name": "BC Place Stadium",
+          "type": "landmark",
+          "distance_km": 1.1,
+          "direction": "SE",
+          "confidence": "high"
+        },
+        {
+          "name": "Rogers Arena",
+          "type": "landmark",
+          "distance_km": 1.2,
+          "direction": "SE",
+          "confidence": "high"
+        },
+        {
+          "name": "Coal Harbour Park",
+          "type": "park",
+          "distance_km": 1.35,
+          "direction": "N",
+          "confidence": "medium"
+        },
+        {
+          "name": "King George Secondary School",
+          "type": "school",
+          "distance_km": 1.6,
+          "direction": "W",
+          "confidence": "medium"
+        }
+      ],
+      "usage": {
+        "input_tokens": 666,
+        "output_tokens": 549
+      }
+    },
+    {
+      "country": "Canada",
+      "city": "Vancouver",
+      "address": "305-389 W 14th Ave, Vancouver, BC V5Y 1X3, Canadá",
+      "latitude": 49.2586938,
+      "longitude": -123.1127361,
+      "pois": [
+        {
+          "name": "Mount Pleasant Park",
+          "type": "park",
+          "distance_km": 0.45,
+          "direction": "NE",
+          "confidence": "high"
+        },
+        {
+          "name": "City Square Shopping Centre",
+          "type": "retail",
+          "distance_km": 0.65,
+          "direction": "NW",
+          "confidence": "high"
+        },
+        {
+          "name": "Broadway-City Hall Station",
+          "type": "transport",
+          "distance_km": 0.75,
+          "direction": "NW",
+          "confidence": "high"
+        },
+        {
+          "name": "Vancouver General Hospital",
+          "type": "hospital",
+          "distance_km": 0.85,
+          "direction": "W",
+          "confidence": "high"
+        },
+        {
+          "name": "Mount Pleasant Community Centre",
+          "type": "landmark",
+          "distance_km": 0.95,
+          "direction": "NE",
+          "confidence": "medium"
+        },
+        {
+          "name": "Simon Fraser University - Vancouver Campus",
+          "type": "school",
+          "distance_km": 1.1,
+          "direction": "NW",
+          "confidence": "medium"
+        },
+        {
+          "name": "Jonathan Rogers Park",
+          "type": "park",
+          "distance_km": 1.25,
+          "direction": "NE",
+          "confidence": "high"
+        },
+        {
+          "name": "St. Patrick's Parish",
+          "type": "religious",
+          "distance_km": 1.4,
+          "direction": "SE",
+          "confidence": "medium"
+        },
+        {
+          "name": "Olympic Village Station",
+          "type": "transport",
+          "distance_km": 1.65,
+          "direction": "N",
+          "confidence": "high"
+        },
+        {
+          "name": "Main Street-Science World Station",
+          "type": "transport",
+          "distance_km": 1.95,
+          "direction": "NE",
+          "confidence": "medium"
+        }
+      ],
+      "usage": {
+        "input_tokens": 670,
+        "output_tokens": 555
+      }
+    },
+    {
+      "country": "Canada",
+      "city": "Vancouver",
+      "address": "Pipeline Rd, Vancouver, BC V6G 3E2, Canadá",
+      "latitude": 49.3033454,
+      "longitude": -123.1370093,
+      "pois": [
+        {
+          "name": "Stanley Park Pavilion",
+          "type": "landmark",
+          "distance_km": 0.35,
+          "direction": "NW",
+          "confidence": "high"
+        },
+        {
+          "name": "Rose Garden",
+          "type": "park",
+          "distance_km": 0.45,
+          "direction": "NW",
+          "confidence": "high"
+        },
+        {
+          "name": "Vancouver Aquarium",
+          "type": "landmark",
+          "distance_km": 0.65,
+          "direction": "N",
+          "confidence": "high"
+        },
+        {
+          "name": "Lost Lagoon",
+          "type": "park",
+          "distance_km": 0.75,
+          "direction": "SW",
+          "confidence": "high"
+        },
+        {
+          "name": "Brockton Point Lighthouse",
+          "type": "landmark",
+          "distance_km": 1.1,
+          "direction": "NE",
+          "confidence": "medium"
+        },
+        {
+          "name": "Devonian Harbour Park",
+          "type": "park",
+          "distance_km": 1.25,
+          "direction": "SE",
+          "confidence": "high"
+        },
+        {
+          "name": "Coal Harbour Community Centre",
+          "type": "landmark",
+          "distance_km": 1.45,
+          "direction": "SE",
+          "confidence": "medium"
+        },
+        {
+          "name": "Cardero's Restaurant",
+          "type": "restaurant",
+          "distance_km": 1.6,
+          "direction": "SE",
+          "confidence": "medium"
+        },
+        {
+          "name": "Westin Bayshore Hotel",
+          "type": "landmark",
+          "distance_km": 1.75,
+          "direction": "SE",
+          "confidence": "high"
+        },
+        {
+          "name": "Denman Street Shopping District",
+          "type": "retail",
+          "distance_km": 1.9,
+          "direction": "S",
+          "confidence": "medium"
+        }
+      ],
+      "usage": {
+        "input_tokens": 658,
+        "output_tokens": 548
+      }
+    },
+    {
+      "country": "Canada",
+      "city": "Vancouver",
+      "address": "1790 Denman St, Vancouver, BC V6G 0A8, Canadá",
+      "latitude": 49.2864497,
+      "longitude": -123.1437665,
+      "pois": [
+        {
+          "name": "Stanley Park",
+          "type": "park",
+          "distance_km": 0.15,
+          "direction": "NW",
+          "confidence": "high"
+        },
+        {
+          "name": "Denman Village Mall",
+          "type": "retail",
+          "distance_km": 0.35,
+          "direction": "SE",
+          "confidence": "high"
+        },
+        {
+          "name": "Lost Lagoon",
+          "type": "park",
+          "distance_km": 0.45,
+          "direction": "W",
+          "confidence": "high"
+        },
+        {
+          "name": "English Bay Beach",
+          "type": "landmark",
+          "distance_km": 0.65,
+          "direction": "S",
+          "confidence": "high"
+        },
+        {
+          "name": "Coal Harbour Community Centre",
+          "type": "landmark",
+          "distance_km": 0.85,
+          "direction": "E",
+          "confidence": "medium"
+        },
+        {
+          "name": "King George Secondary School",
+          "type": "school",
+          "distance_km": 0.95,
+          "direction": "SE",
+          "confidence": "high"
+        },
+        {
+          "name": "St. Paul's Hospital",
+          "type": "hospital",
+          "distance_km": 1.45,
+          "direction": "SE",
+          "confidence": "medium"
+        },
+        {
+          "name": "Vancouver Aquatic Centre",
+          "type": "landmark",
+          "distance_km": 1.65,
+          "direction": "S",
+          "confidence": "high"
+        },
+        {
+          "name": "Burrard Skytrain Station",
+          "type": "transport",
+          "distance_km": 1.85,
+          "direction": "SE",
+          "confidence": "medium"
+        },
+        {
+          "name": "Holy Rosary Cathedral",
+          "type": "religious",
+          "distance_km": 1.95,
+          "direction": "SE",
+          "confidence": "medium"
+        }
+      ],
+      "usage": {
+        "input_tokens": 664,
+        "output_tokens": 550
+      }
+    },
+    {
+      "country": "Canada",
+      "city": "Vancouver",
+      "address": "2049-2075 Comox St, Vancouver, BC, Canadá",
+      "latitude": 49.2912262,
+      "longitude": -123.1442994,
+      "pois": [
+        {
+          "name": "English Bay Beach",
+          "type": "landmark",
+          "distance_km": 0.35,
+          "direction": "W",
+          "confidence": "high"
+        },
+        {
+          "name": "Morton Park",
+          "type": "park",
+          "distance_km": 0.45,
+          "direction": "W",
+          "confidence": "high"
+        },
+        {
+          "name": "Denman Street Shopping District",
+          "type": "retail",
+          "distance_km": 0.55,
+          "direction": "E",
+          "confidence": "high"
+        },
+        {
+          "name": "Stanley Park Entrance",
+          "type": "park",
+          "distance_km": 0.75,
+          "direction": "NW",
+          "confidence": "high"
+        },
+        {
+          "name": "St. Paul's Hospital",
+          "type": "hospital",
+          "distance_km": 1.1,
+          "direction": "SE",
+          "confidence": "medium"
+        },
+        {
+          "name": "Vancouver Aquatic Centre",
+          "type": "landmark",
+          "distance_km": 1.2,
+          "direction": "S",
+          "confidence": "high"
+        },
+        {
+          "name": "Sunset Beach Park",
+          "type": "park",
+          "distance_km": 1.35,
+          "direction": "S",
+          "confidence": "high"
+        },
+        {
+          "name": "Coal Harbour Community Centre",
+          "type": "landmark",
+          "distance_km": 1.5,
+          "direction": "NE",
+          "confidence": "medium"
+        },
+        {
+          "name": "Burrard Skytrain Station",
+          "type": "transport",
+          "distance_km": 1.85,
+          "direction": "SE",
+          "confidence": "high"
+        },
+        {
+          "name": "Holy Rosary Cathedral",
+          "type": "religious",
+          "distance_km": 1.95,
+          "direction": "SE",
+          "confidence": "medium"
+        }
+      ],
+      "usage": {
+        "input_tokens": 662,
+        "output_tokens": 552
+      }
+    },
+    {
+      "country": "Estados Unidos",
+      "city": "Aspen",
+      "address": "301-399 E Hopkins Ave, Aspen, CO 81611, EUA",
+      "latitude": 39.1899869,
+      "longitude": -106.8213156,
+      "pois": [
+        {
+          "name": "Wagner Park",
+          "type": "park",
+          "distance_km": 0.15,
+          "direction": "W",
+          "confidence": "high"
+        },
+        {
+          "name": "Aspen Art Museum",
+          "type": "landmark",
+          "distance_km": 0.25,
+          "direction": "NW",
+          "confidence": "high"
+        },
+        {
+          "name": "Wheeler Opera House",
+          "type": "landmark",
+          "distance_km": 0.3,
+          "direction": "W",
+          "confidence": "high"
+        },
+        {
+          "name": "City Market",
+          "type": "retail",
+          "distance_km": 0.45,
+          "direction": "E",
+          "confidence": "high"
+        },
+        {
+          "name": "Rubey Park Transit Center",
+          "type": "transport",
+          "distance_km": 0.5,
+          "direction": "SW",
+          "confidence": "high"
+        },
+        {
+          "name": "Silver Queen Gondola",
+          "type": "transport",
+          "distance_km": 0.65,
+          "direction": "SW",
+          "confidence": "high"
+        },
+        {
+          "name": "Aspen Mountain",
+          "type": "park",
+          "distance_km": 0.75,
+          "direction": "S",
+          "confidence": "high"
+        },
+        {
+          "name": "Aspen Valley Hospital",
+          "type": "hospital",
+          "distance_km": 1.2,
+          "direction": "NE",
+          "confidence": "medium"
+        },
+        {
+          "name": "The Aspen Institute",
+          "type": "landmark",
+          "distance_km": 1.45,
+          "direction": "NW",
+          "confidence": "medium"
+        },
+        {
+          "name": "John Denver Sanctuary",
+          "type": "park",
+          "distance_km": 1.6,
+          "direction": "NW",
+          "confidence": "high"
+        }
+      ],
+      "usage": {
+        "input_tokens": 666,
+        "output_tokens": 546
+      }
+    },
+    {
+      "country": "Estados Unidos",
+      "city": "Aspen",
+      "address": "414-406 Lacet Ln, Aspen, CO 81611, EUA",
+      "latitude": 39.1854693,
+      "longitude": -106.8110411,
+      "pois": [
+        {
+          "name": "Aspen Mountain Gondola",
+          "type": "transport",
+          "distance_km": 0.65,
+          "direction": "NW",
+          "confidence": "high"
+        },
+        {
+          "name": "Wagner Park",
+          "type": "park",
+          "distance_km": 0.72,
+          "direction": "NW",
+          "confidence": "high"
+        },
+        {
+          "name": "Aspen Art Museum",
+          "type": "landmark",
+          "distance_km": 0.85,
+          "direction": "NW",
+          "confidence": "high"
+        },
+        {
+          "name": "City Market",
+          "type": "retail",
+          "distance_km": 0.95,
+          "direction": "N",
+          "confidence": "high"
+        },
+        {
+          "name": "Wheeler Opera House",
+          "type": "landmark",
+          "distance_km": 1.05,
+          "direction": "NW",
+          "confidence": "high"
+        },
+        {
+          "name": "Aspen Valley Hospital",
+          "type": "hospital",
+          "distance_km": 1.2,
+          "direction": "E",
+          "confidence": "medium"
+        },
+        {
+          "name": "Paepcke Park",
+          "type": "park",
+          "distance_km": 1.35,
+          "direction": "NW",
+          "confidence": "high"
+        },
+        {
+          "name": "Aspen Elementary School",
+          "type": "school",
+          "distance_km": 1.55,
+          "direction": "NE",
+          "confidence": "high"
+        },
+        {
+          "name": "St. Mary Catholic Church",
+          "type": "religious",
+          "distance_km": 1.65,
+          "direction": "NW",
+          "confidence": "medium"
+        },
+        {
+          "name": "The Aspen Institute",
+          "type": "landmark",
+          "distance_km": 1.85,
+          "direction": "NW",
+          "confidence": "medium"
+        }
+      ],
+      "usage": {
+        "input_tokens": 666,
+        "output_tokens": 549
+      }
+    },
+    {
+      "country": "Estados Unidos",
+      "city": "Aspen",
+      "address": "470 Rio Grande Pl, Aspen, CO 81611, Estados Unidos",
+      "latitude": 39.192332,
+      "longitude": -106.8178957,
+      "pois": [
+        {
+          "name": "Rio Grande Park",
+          "type": "park",
+          "distance_km": 0.15,
+          "direction": "NW",
+          "confidence": "high"
+        },
+        {
+          "name": "Aspen Art Museum",
+          "type": "landmark",
+          "distance_km": 0.25,
+          "direction": "NW",
+          "confidence": "high"
+        },
+        {
+          "name": "Wheeler Opera House",
+          "type": "landmark",
+          "distance_km": 0.45,
+          "direction": "SE",
+          "confidence": "high"
+        },
+        {
+          "name": "Wagner Park",
+          "type": "park",
+          "distance_km": 0.55,
+          "direction": "SE",
+          "confidence": "high"
+        },
+        {
+          "name": "Aspen Chamber of Commerce",
+          "type": "retail",
+          "distance_km": 0.6,
+          "direction": "SE",
+          "confidence": "medium"
+        },
+        {
+          "name": "Rubey Park Transit Center",
+          "type": "transport",
+          "distance_km": 0.65,
+          "direction": "S",
+          "confidence": "high"
+        },
+        {
+          "name": "Aspen Mountain Gondola",
+          "type": "transport",
+          "distance_km": 0.85,
+          "direction": "S",
+          "confidence": "high"
+        },
+        {
+          "name": "St. Mary Catholic Church",
+          "type": "religious",
+          "distance_km": 0.95,
+          "direction": "SE",
+          "confidence": "medium"
+        },
+        {
+          "name": "Aspen Valley Hospital",
+          "type": "hospital",
+          "distance_km": 1.45,
+          "direction": "NE",
+          "confidence": "medium"
+        },
+        {
+          "name": "The Aspen Institute",
+          "type": "landmark",
+          "distance_km": 1.8,
+          "direction": "W",
+          "confidence": "medium"
+        }
+      ],
+      "usage": {
+        "input_tokens": 662,
+        "output_tokens": 552
+      }
+    },
+    {
+      "country": "Estados Unidos",
+      "city": "Aspen",
+      "address": "586-590 N Mill St, Aspen, CO 81611, EUA",
+      "latitude": 39.1943052,
+      "longitude": -106.8196529,
+      "pois": [
+        {
+          "name": "Paepcke Park",
+          "type": "park",
+          "distance_km": 0.25,
+          "direction": "S",
+          "confidence": "high"
+        },
+        {
+          "name": "Aspen Art Museum",
+          "type": "landmark",
+          "distance_km": 0.35,
+          "direction": "NE",
+          "confidence": "high"
+        },
+        {
+          "name": "Wheeler Opera House",
+          "type": "landmark",
+          "distance_km": 0.45,
+          "direction": "SW",
+          "confidence": "high"
+        },
+        {
+          "name": "Aspen Chamber of Commerce",
+          "type": "retail",
+          "distance_km": 0.5,
+          "direction": "SW",
+          "confidence": "medium"
+        },
+        {
+          "name": "Wagner Park",
+          "type": "park",
+          "distance_km": 0.55,
+          "direction": "SW",
+          "confidence": "high"
+        },
+        {
+          "name": "Aspen Mountain Gondola",
+          "type": "transport",
+          "distance_km": 0.75,
+          "direction": "SW",
+          "confidence": "high"
+        },
+        {
+          "name": "Aspen Valley Hospital",
+          "type": "hospital",
+          "distance_km": 1.1,
+          "direction": "NE",
+          "confidence": "medium"
+        },
+        {
+          "name": "The Aspen Institute",
+          "type": "school",
+          "distance_km": 1.2,
+          "direction": "NW",
+          "confidence": "high"
+        },
+        {
+          "name": "Rio Grande Park",
+          "type": "park",
+          "distance_km": 1.35,
+          "direction": "NW",
+          "confidence": "high"
+        },
+        {
+          "name": "Aspen Chapel",
+          "type": "religious",
+          "distance_km": 1.85,
+          "direction": "NW",
+          "confidence": "medium"
+        }
+      ],
+      "usage": {
+        "input_tokens": 666,
+        "output_tokens": 549
+      }
+    },
+    {
+      "country": "Estados Unidos",
+      "city": "Aspen",
+      "address": "898-800 Summit St, Aspen, CO 81611, EUA",
+      "latitude": 39.1853375,
+      "longitude": -106.8218775,
+      "pois": [
+        {
+          "name": "Wagner Park",
+          "type": "park",
+          "distance_km": 0.35,
+          "direction": "SE",
+          "confidence": "high"
+        },
+        {
+          "name": "Aspen Art Museum",
+          "type": "landmark",
+          "distance_km": 0.45,
+          "direction": "E",
+          "confidence": "high"
+        },
+        {
+          "name": "Wheeler Opera House",
+          "type": "landmark",
+          "distance_km": 0.55,
+          "direction": "SE",
+          "confidence": "high"
+        },
+        {
+          "name": "Aspen Mountain Gondola",
+          "type": "transport",
+          "distance_km": 0.65,
+          "direction": "SE",
+          "confidence": "high"
+        },
+        {
+          "name": "City Market",
+          "type": "retail",
+          "distance_km": 0.75,
+          "direction": "NW",
+          "confidence": "high"
+        },
+        {
+          "name": "Aspen Library",
+          "type": "landmark",
+          "distance_km": 0.85,
+          "direction": "SE",
+          "confidence": "medium"
+        },
+        {
+          "name": "St. Mary Catholic Church",
+          "type": "religious",
+          "distance_km": 0.95,
+          "direction": "SE",
+          "confidence": "medium"
+        },
+        {
+          "name": "Aspen Valley Hospital",
+          "type": "hospital",
+          "distance_km": 1.2,
+          "direction": "NW",
+          "confidence": "high"
+        },
+        {
+          "name": "Rio Grande Park",
+          "type": "park",
+          "distance_km": 1.35,
+          "direction": "W",
+          "confidence": "medium"
+        },
+        {
+          "name": "Aspen High School",
+          "type": "school",
+          "distance_km": 1.85,
+          "direction": "NW",
+          "confidence": "high"
+        }
+      ],
+      "usage": {
+        "input_tokens": 665,
+        "output_tokens": 548
+      }
+    },
+    {
+      "country": "Brasil",
+      "city": "São Paulo",
+      "address": "R. Vinte e Cinco de Março, 975-959 - Centro Histórico de São Paulo, São Paulo - SP, 01021-200",
+      "latitude": -23.5412709,
+      "longitude": -46.6327688,
+      "pois": [
+        {
+          "name": "Mercado Municipal de São Paulo",
+          "type": "landmark",
+          "distance_km": 0.25,
+          "direction": "E",
+          "confidence": "high"
+        },
+        {
+          "name": "Estação São Bento",
+          "type": "transport",
+          "distance_km": 0.45,
+          "direction": "SW",
+          "confidence": "high"
+        },
+        {
+          "name": "Mosteiro de São Bento",
+          "type": "religious",
+          "distance_km": 0.55,
+          "direction": "SW",
+          "confidence": "high"
+        },
+        {
+          "name": "Parque Dom Pedro II",
+          "type": "park",
+          "distance_km": 0.65,
+          "direction": "SE",
+          "confidence": "high"
+        },
+        {
+          "name": "Farol Santander",
+          "type": "landmark",
+          "distance_km": 0.85,
+          "direction": "SW",
+          "confidence": "medium"
+        },
+        {
+          "name": "Shopping Porto Geral",
+          "type": "retail",
+          "distance_km": 0.9,
+          "direction": "W",
+          "confidence": "high"
+        },
+        {
+          "name": "Catedral da Sé",
+          "type": "religious",
+          "distance_km": 1.1,
+          "direction": "S",
+          "confidence": "high"
+        },
+        {
+          "name": "Pátio do Colégio",
+          "type": "landmark",
+          "distance_km": 1.25,
+          "direction": "S",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hospital Sancta Maggiore",
+          "type": "hospital",
+          "distance_km": 1.4,
+          "direction": "SE",
+          "confidence": "medium"
+        },
+        {
+          "name": "Terminal Parque Dom Pedro II",
+          "type": "transport",
+          "distance_km": 1.55,
+          "direction": "SE",
+          "confidence": "high"
+        }
+      ],
+      "usage": {
+        "input_tokens": 684,
+        "output_tokens": 557
+      }
+    },
+    {
+      "country": "Brasil",
+      "city": "São Paulo",
+      "address": "R. César Augusto, 76 - Vila Romana, São Paulo - SP, 05044-020",
+      "latitude": -23.527676,
+      "longitude": -46.6950329,
+      "pois": [
+        {
+          "name": "Praça Cornélia",
+          "type": "park",
+          "distance_km": 0.45,
+          "direction": "SE",
+          "confidence": "high"
+        },
+        {
+          "name": "Sesc Pompeia",
+          "type": "landmark",
+          "distance_km": 0.65,
+          "direction": "SE",
+          "confidence": "high"
+        },
+        {
+          "name": "Bourbon Shopping São Paulo",
+          "type": "retail",
+          "distance_km": 0.85,
+          "direction": "SE",
+          "confidence": "high"
+        },
+        {
+          "name": "Allianz Parque",
+          "type": "landmark",
+          "distance_km": 0.95,
+          "direction": "SE",
+          "confidence": "high"
+        },
+        {
+          "name": "Estação Água Branca (CPTM)",
+          "type": "transport",
+          "distance_km": 1.1,
+          "direction": "NW",
+          "confidence": "high"
+        },
+        {
+          "name": "Parque da Água Branca",
+          "type": "park",
+          "distance_km": 1.25,
+          "direction": "E",
+          "confidence": "high"
+        },
+        {
+          "name": "Hospital Metropolitano",
+          "type": "hospital",
+          "distance_km": 1.35,
+          "direction": "SW",
+          "confidence": "medium"
+        },
+        {
+          "name": "Shopping West Plaza",
+          "type": "retail",
+          "distance_km": 1.45,
+          "direction": "E",
+          "confidence": "high"
+        },
+        {
+          "name": "Igreja Nossa Senhora da Lapa",
+          "type": "religious",
+          "distance_km": 1.6,
+          "direction": "W",
+          "confidence": "medium"
+        },
+        {
+          "name": "Terminal Lapa",
+          "type": "transport",
+          "distance_km": 1.85,
+          "direction": "NW",
+          "confidence": "high"
+        }
+      ],
+      "usage": {
+        "input_tokens": 669,
+        "output_tokens": 564
+      }
+    },
+    {
+      "country": "Brasil",
+      "city": "São Paulo",
+      "address": "Av. Pedro Álvares Cabral, s/n - Vila Mariana, São Paulo - SP, 04094-050",
+      "latitude": -23.5864867,
+      "longitude": -46.6581154,
+      "pois": [
+        {
+          "name": "Parque Ibirapuera",
+          "type": "park",
+          "distance_km": 0.15,
+          "direction": "W",
+          "confidence": "high"
+        },
+        {
+          "name": "Museu de Arte Moderna de São Paulo",
+          "type": "landmark",
+          "distance_km": 0.45,
+          "direction": "NW",
+          "confidence": "high"
+        },
+        {
+          "name": "Obelisco de São Paulo",
+          "type": "landmark",
+          "distance_km": 0.6,
+          "direction": "NW",
+          "confidence": "high"
+        },
+        {
+          "name": "Assembleia Legislativa do Estado de São Paulo",
+          "type": "landmark",
+          "distance_km": 0.75,
+          "direction": "NW",
+          "confidence": "high"
+        },
+        {
+          "name": "Monumento às Bandeiras",
+          "type": "landmark",
+          "distance_km": 0.95,
+          "direction": "NW",
+          "confidence": "high"
+        },
+        {
+          "name": "Hospital Edmundo Vasconcelos",
+          "type": "hospital",
+          "distance_km": 1.1,
+          "direction": "SE",
+          "confidence": "high"
+        },
+        {
+          "name": "Estação AACD-Servidor",
+          "type": "transport",
+          "distance_km": 1.35,
+          "direction": "SE",
+          "confidence": "high"
+        },
+        {
+          "name": "Shopping Ibirapuera",
+          "type": "retail",
+          "distance_km": 1.6,
+          "direction": "S",
+          "confidence": "medium"
+        },
+        {
+          "name": "Paróquia Nossa Senhora Aparecida",
+          "type": "religious",
+          "distance_km": 1.75,
+          "direction": "E",
+          "confidence": "medium"
+        },
+        {
+          "name": "Escola Paulista de Medicina",
+          "type": "school",
+          "distance_km": 1.9,
+          "direction": "SE",
+          "confidence": "high"
+        }
+      ],
+      "usage": {
+        "input_tokens": 674,
+        "output_tokens": 578
+      }
+    },
+    {
+      "country": "Brasil",
+      "city": "São Paulo",
+      "address": "Marginal Pinheiros, 359 - Jardim Morumbi, São Paulo - SP",
+      "latitude": -23.6241759,
+      "longitude": -46.7116402,
+      "pois": [
+        {
+          "name": "Parque Burle Marx",
+          "type": "park",
+          "distance_km": 0.65,
+          "direction": "SW",
+          "confidence": "high"
+        },
+        {
+          "name": "Shopping Jardim Sul",
+          "type": "retail",
+          "distance_km": 0.85,
+          "direction": "S",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hospital Albert Einstein",
+          "type": "hospital",
+          "distance_km": 0.92,
+          "direction": "SE",
+          "confidence": "high"
+        },
+        {
+          "name": "Ponte Itapaiuna",
+          "type": "landmark",
+          "distance_km": 1.1,
+          "direction": "NW",
+          "confidence": "high"
+        },
+        {
+          "name": "Estação Morumbi (CPTM)",
+          "type": "transport",
+          "distance_km": 1.25,
+          "direction": "NE",
+          "confidence": "medium"
+        },
+        {
+          "name": "Palácio Tangará",
+          "type": "landmark",
+          "distance_km": 1.35,
+          "direction": "W",
+          "confidence": "high"
+        },
+        {
+          "name": "Colégio Visconde de Porto Seguro",
+          "type": "school",
+          "distance_km": 1.45,
+          "direction": "S",
+          "confidence": "medium"
+        },
+        {
+          "name": "Parque Severo Gomes",
+          "type": "park",
+          "distance_km": 1.6,
+          "direction": "E",
+          "confidence": "medium"
+        },
+        {
+          "name": "Igreja de São Pedro e São Paulo",
+          "type": "religious",
+          "distance_km": 1.75,
+          "direction": "SE",
+          "confidence": "low"
+        },
+        {
+          "name": "Shopping Morumbi",
+          "type": "retail",
+          "distance_km": 1.95,
+          "direction": "NE",
+          "confidence": "medium"
+        }
+      ],
+      "usage": {
+        "input_tokens": 660,
+        "output_tokens": 563
+      }
+    },
+    {
+      "country": "Brasil",
+      "city": "São Paulo",
+      "address": "Av. Prof. Lineu Prestes - Butantã, São Paulo - SP, 05508-000",
+      "latitude": -23.5658132,
+      "longitude": -46.7269206,
+      "pois": [
+        {
+          "name": "Instituto de Física da USP",
+          "type": "school",
+          "distance_km": 0.35,
+          "direction": "NW",
+          "confidence": "high"
+        },
+        {
+          "name": "Centro de Práticas Esportivas da USP (CEPEUSP)",
+          "type": "park",
+          "distance_km": 0.65,
+          "direction": "W",
+          "confidence": "high"
+        },
+        {
+          "name": "Instituto de Química da USP",
+          "type": "school",
+          "distance_km": 0.72,
+          "direction": "NW",
+          "confidence": "high"
+        },
+        {
+          "name": "Hospital Universitário da USP",
+          "type": "hospital",
+          "distance_km": 0.85,
+          "direction": "SW",
+          "confidence": "high"
+        },
+        {
+          "name": "Praça do Relógio Solar",
+          "type": "landmark",
+          "distance_km": 0.95,
+          "direction": "NW",
+          "confidence": "high"
+        },
+        {
+          "name": "Estação Cidade Universitária (CPTM)",
+          "type": "transport",
+          "distance_km": 1.15,
+          "direction": "E",
+          "confidence": "high"
+        },
+        {
+          "name": "MAC USP (Museu de Arte Contemporânea)",
+          "type": "landmark",
+          "distance_km": 1.3,
+          "direction": "SE",
+          "confidence": "high"
+        },
+        {
+          "name": "Parque Villa-Lobos",
+          "type": "park",
+          "distance_km": 1.55,
+          "direction": "NE",
+          "confidence": "medium"
+        },
+        {
+          "name": "Butantã Shopping",
+          "type": "retail",
+          "distance_km": 1.75,
+          "direction": "S",
+          "confidence": "medium"
+        },
+        {
+          "name": "Estação Butantã (Metrô)",
+          "type": "transport",
+          "distance_km": 1.95,
+          "direction": "S",
+          "confidence": "medium"
+        }
+      ],
+      "usage": {
+        "input_tokens": 671,
+        "output_tokens": 582
+      }
+    },
+    {
+      "country": "Brasil",
+      "city": "Campina Grande",
+      "address": "R. Venâncio Neiva, 85b - Centro, Campina Grande - PB, 58400-090",
+      "latitude": -7.2187418,
+      "longitude": -35.8854092,
+      "pois": [
+        {
+          "name": "Catedral de Nossa Senhora da Conceição",
+          "type": "religious",
+          "distance_km": 0.15,
+          "direction": "NW",
+          "confidence": "high"
+        },
+        {
+          "name": "Parque do Povo",
+          "type": "park",
+          "distance_km": 0.25,
+          "direction": "SE",
+          "confidence": "high"
+        },
+        {
+          "name": "Mercado Central de Campina Grande",
+          "type": "retail",
+          "distance_km": 0.35,
+          "direction": "SW",
+          "confidence": "high"
+        },
+        {
+          "name": "Museu Histórico de Campina Grande",
+          "type": "landmark",
+          "distance_km": 0.45,
+          "direction": "N",
+          "confidence": "high"
+        },
+        {
+          "name": "Terminal de Integração de Passageiros",
+          "type": "transport",
+          "distance_km": 0.55,
+          "direction": "W",
+          "confidence": "high"
+        },
+        {
+          "name": "Teatro Municipal Severino Cabral",
+          "type": "landmark",
+          "distance_km": 0.7,
+          "direction": "NE",
+          "confidence": "high"
+        },
+        {
+          "name": "Hospital da Criança e do Adolescente",
+          "type": "hospital",
+          "distance_km": 0.95,
+          "direction": "S",
+          "confidence": "medium"
+        },
+        {
+          "name": "Açude Velho",
+          "type": "park",
+          "distance_km": 1.1,
+          "direction": "NE",
+          "confidence": "high"
+        },
+        {
+          "name": "Escola Estadual Monsenhor Sales",
+          "type": "school",
+          "distance_km": 1.3,
+          "direction": "NW",
+          "confidence": "medium"
+        },
+        {
+          "name": "Shopping Cirne Center",
+          "type": "retail",
+          "distance_km": 1.5,
+          "direction": "E",
+          "confidence": "medium"
+        }
+      ],
+      "usage": {
+        "input_tokens": 674,
+        "output_tokens": 580
+      }
+    },
+    {
+      "country": "Brasil",
+      "city": "Campina Grande",
+      "address": "R. Absalão Emerenciano, 231-15 - Cruzeiro, Campina Grande - PB, 58415-580",
+      "latitude": -7.2509104,
+      "longitude": -35.9066501,
+      "pois": [
+        {
+          "name": "Parque da Criança",
+          "type": "park",
+          "distance_km": 0.45,
+          "direction": "NE",
+          "confidence": "high"
+        },
+        {
+          "name": "Escola Estadual Dr. Elpídio de Almeida",
+          "type": "school",
+          "distance_km": 0.62,
+          "direction": "SE",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hospital da Criança e do Adolescente",
+          "type": "hospital",
+          "distance_km": 0.78,
+          "direction": "E",
+          "confidence": "high"
+        },
+        {
+          "name": "Igreja de Nossa Senhora de Fátima",
+          "type": "religious",
+          "distance_km": 0.85,
+          "direction": "S",
+          "confidence": "medium"
+        },
+        {
+          "name": "Supermercado Mateus",
+          "type": "retail",
+          "distance_km": 0.95,
+          "direction": "NW",
+          "confidence": "high"
+        },
+        {
+          "name": "Terminal de Integração de Campina Grande",
+          "type": "transport",
+          "distance_km": 1.2,
+          "direction": "E",
+          "confidence": "high"
+        },
+        {
+          "name": "Parque Evaldo Cruz",
+          "type": "park",
+          "distance_km": 1.35,
+          "direction": "SE",
+          "confidence": "high"
+        },
+        {
+          "name": "Universidade Estadual da Paraíba (UEPB)",
+          "type": "school",
+          "distance_km": 1.55,
+          "direction": "SW",
+          "confidence": "high"
+        },
+        {
+          "name": "Feira Central de Campina Grande",
+          "type": "retail",
+          "distance_km": 1.7,
+          "direction": "E",
+          "confidence": "high"
+        },
+        {
+          "name": "Catedral de Nossa Senhora da Conceição",
+          "type": "landmark",
+          "distance_km": 1.95,
+          "direction": "SE",
+          "confidence": "medium"
+        }
+      ],
+      "usage": {
+        "input_tokens": 679,
+        "output_tokens": 592
+      }
+    },
+    {
+      "country": "Brasil",
+      "city": "Campina Grande",
+      "address": "Av. Dr. Elpídio de Almeida, 215 - Catolé, Campina Grande - PB, 58410-725",
+      "latitude": -7.226974,
+      "longitude": -35.878447,
+      "pois": [
+        {
+          "name": "Shopping Luiza Motta",
+          "type": "retail",
+          "distance_km": 0.25,
+          "direction": "NW",
+          "confidence": "high"
+        },
+        {
+          "name": "Parque da Criança",
+          "type": "park",
+          "distance_km": 0.45,
+          "direction": "NE",
+          "confidence": "high"
+        },
+        {
+          "name": "FIEP - Federação das Indústrias do Estado da Paraíba",
+          "type": "landmark",
+          "distance_km": 0.6,
+          "direction": "SE",
+          "confidence": "high"
+        },
+        {
+          "name": "Hospital da Criança e do Adolescente",
+          "type": "hospital",
+          "distance_km": 0.75,
+          "direction": "SW",
+          "confidence": "medium"
+        },
+        {
+          "name": "Assaí Atacadista",
+          "type": "retail",
+          "distance_km": 0.85,
+          "direction": "NW",
+          "confidence": "high"
+        },
+        {
+          "name": "Igreja de Nossa Senhora de Fátima",
+          "type": "religious",
+          "distance_km": 1.1,
+          "direction": "E",
+          "confidence": "medium"
+        },
+        {
+          "name": "Terminal Rodoviário de Campina Grande",
+          "type": "transport",
+          "distance_km": 1.35,
+          "direction": "NW",
+          "confidence": "high"
+        },
+        {
+          "name": "Escola Estadual Dr. Elpídio de Almeida",
+          "type": "school",
+          "distance_km": 1.5,
+          "direction": "S",
+          "confidence": "medium"
+        },
+        {
+          "name": "Parque Evaldo Cruz",
+          "type": "park",
+          "distance_km": 1.75,
+          "direction": "NE",
+          "confidence": "medium"
+        },
+        {
+          "name": "Centro de Convenções Raymundo Asfora",
+          "type": "landmark",
+          "distance_km": 1.95,
+          "direction": "NW",
+          "confidence": "medium"
+        }
+      ],
+      "usage": {
+        "input_tokens": 675,
+        "output_tokens": 597
+      }
+    },
+    {
+      "country": "Brasil",
+      "city": "Campina Grande",
+      "address": "R. Dr. Severino Cruz, 491-301 - Centro, Campina Grande - PB",
+      "latitude": -7.2250527,
+      "longitude": -35.8816382,
+      "pois": [
+        {
+          "name": "Parque da Criança",
+          "type": "park",
+          "distance_km": 0.35,
+          "direction": "NW",
+          "confidence": "high"
+        },
+        {
+          "name": "Açude Velho",
+          "type": "landmark",
+          "distance_km": 0.45,
+          "direction": "W",
+          "confidence": "high"
+        },
+        {
+          "name": "Museu de Arte Popular da Paraíba",
+          "type": "landmark",
+          "distance_km": 0.65,
+          "direction": "NW",
+          "confidence": "high"
+        },
+        {
+          "name": "Catedral de Nossa Senhora da Conceição",
+          "type": "religious",
+          "distance_km": 0.85,
+          "direction": "SE",
+          "confidence": "high"
+        },
+        {
+          "name": "Feira Central de Campina Grande",
+          "type": "retail",
+          "distance_km": 0.95,
+          "direction": "SE",
+          "confidence": "high"
+        },
+        {
+          "name": "Terminal de Integração de Passageiros",
+          "type": "transport",
+          "distance_km": 1.1,
+          "direction": "S",
+          "confidence": "high"
+        },
+        {
+          "name": "Hospital da Criança e do Adolescente",
+          "type": "hospital",
+          "distance_km": 1.25,
+          "direction": "NE",
+          "confidence": "medium"
+        },
+        {
+          "name": "Parque Evaldo Cruz",
+          "type": "park",
+          "distance_km": 1.4,
+          "direction": "S",
+          "confidence": "high"
+        },
+        {
+          "name": "Universidade Estadual da Paraíba - Campus I",
+          "type": "school",
+          "distance_km": 1.65,
+          "direction": "NE",
+          "confidence": "high"
+        },
+        {
+          "name": "Shopping Cirne Center",
+          "type": "retail",
+          "distance_km": 1.8,
+          "direction": "SE",
+          "confidence": "medium"
+        }
+      ],
+      "usage": {
+        "input_tokens": 667,
+        "output_tokens": 583
+      }
+    },
+    {
+      "country": "Brasil",
+      "city": "Campina Grande",
+      "address": "R. Leniel Sucupira M Deajmeira, 288-394 - Monte Santo, Campina Grande - PB",
+      "latitude": -7.2132595,
+      "longitude": -35.9069415,
+      "pois": [
+        {
+          "name": "Escola Municipal Maria Anunciada Gomes de Barros",
+          "type": "school",
+          "distance_km": 0.35,
+          "direction": "NW",
+          "confidence": "high"
+        },
+        {
+          "name": "Praça do Monte Santo",
+          "type": "park",
+          "distance_km": 0.48,
+          "direction": "NE",
+          "confidence": "high"
+        },
+        {
+          "name": "Igreja de Nossa Senhora do Monte Santo",
+          "type": "religious",
+          "distance_km": 0.55,
+          "direction": "NE",
+          "confidence": "high"
+        },
+        {
+          "name": "Mercadinho Monte Santo",
+          "type": "retail",
+          "distance_km": 0.62,
+          "direction": "S",
+          "confidence": "medium"
+        },
+        {
+          "name": "Unidade Básica de Saúde Monte Santo",
+          "type": "hospital",
+          "distance_km": 0.75,
+          "direction": "SE",
+          "confidence": "high"
+        },
+        {
+          "name": "Parque da Criança",
+          "type": "park",
+          "distance_km": 1.15,
+          "direction": "SW",
+          "confidence": "high"
+        },
+        {
+          "name": "Terminal de Integração de Campina Grande",
+          "type": "transport",
+          "distance_km": 1.45,
+          "direction": "E",
+          "confidence": "medium"
+        },
+        {
+          "name": "Açude Velho",
+          "type": "landmark",
+          "distance_km": 1.6,
+          "direction": "SE",
+          "confidence": "high"
+        },
+        {
+          "name": "Museu de Arte Popular da Paraíba",
+          "type": "landmark",
+          "distance_km": 1.85,
+          "direction": "SE",
+          "confidence": "high"
+        },
+        {
+          "name": "Shopping Luiza Motta",
+          "type": "retail",
+          "distance_km": 1.95,
+          "direction": "E",
+          "confidence": "medium"
+        }
+      ],
+      "usage": {
+        "input_tokens": 673,
+        "output_tokens": 583
+      }
+    },
+    {
+      "country": "Brasil",
+      "city": "Tibau do Sul",
+      "address": "Av. Baía dos Golfinhos, 802-814, Tibau do Sul - RN, 59178-000",
+      "latitude": -6.2290625,
+      "longitude": -35.0501158,
+      "pois": [
+        {
+          "name": "Praia da Pipa",
+          "type": "landmark",
+          "distance_km": 0.15,
+          "direction": "E",
+          "confidence": "high"
+        },
+        {
+          "name": "Baía dos Golfinhos",
+          "type": "landmark",
+          "distance_km": 0.35,
+          "direction": "NE",
+          "confidence": "high"
+        },
+        {
+          "name": "Restaurante Aprecie",
+          "type": "restaurant",
+          "distance_km": 0.45,
+          "direction": "S",
+          "confidence": "medium"
+        },
+        {
+          "name": "Praia do Centro",
+          "type": "landmark",
+          "distance_km": 0.6,
+          "direction": "S",
+          "confidence": "high"
+        },
+        {
+          "name": "Pipa Shopping",
+          "type": "retail",
+          "distance_km": 0.75,
+          "direction": "S",
+          "confidence": "high"
+        },
+        {
+          "name": "Igreja de São Sebastião",
+          "type": "religious",
+          "distance_km": 0.85,
+          "direction": "S",
+          "confidence": "medium"
+        },
+        {
+          "name": "Praia do Amor",
+          "type": "landmark",
+          "distance_km": 1.2,
+          "direction": "SE",
+          "confidence": "high"
+        },
+        {
+          "name": "Chapadão de Pipa",
+          "type": "landmark",
+          "distance_km": 1.45,
+          "direction": "SE",
+          "confidence": "high"
+        },
+        {
+          "name": "Escola Municipal de Pipa",
+          "type": "school",
+          "distance_km": 1.6,
+          "direction": "SW",
+          "confidence": "medium"
+        },
+        {
+          "name": "Terminal Rodoviário de Pipa",
+          "type": "transport",
+          "distance_km": 1.85,
+          "direction": "SW",
+          "confidence": "medium"
+        }
+      ],
+      "usage": {
+        "input_tokens": 678,
+        "output_tokens": 564
+      }
+    },
+    {
+      "country": "Brasil",
+      "city": "Tibau do Sul",
+      "address": "Tv. Harmonia 02, Pipa (Tibau do Sul) - RN, 59178-000",
+      "latitude": -6.2431176,
+      "longitude": -35.0506577,
+      "pois": [
+        {
+          "name": "Praia do Amor",
+          "type": "landmark",
+          "distance_km": 0.35,
+          "direction": "SE",
+          "confidence": "high"
+        },
+        {
+          "name": "Chapadão de Pipa",
+          "type": "landmark",
+          "distance_km": 0.45,
+          "direction": "SE",
+          "confidence": "high"
+        },
+        {
+          "name": "Praia da Pipa",
+          "type": "landmark",
+          "distance_km": 0.65,
+          "direction": "NE",
+          "confidence": "high"
+        },
+        {
+          "name": "Avenida Baía dos Golfinhos",
+          "type": "retail",
+          "distance_km": 0.75,
+          "direction": "N",
+          "confidence": "high"
+        },
+        {
+          "name": "Igreja de São Sebastião",
+          "type": "religious",
+          "distance_km": 0.85,
+          "direction": "N",
+          "confidence": "medium"
+        },
+        {
+          "name": "Praça do Pescador",
+          "type": "landmark",
+          "distance_km": 0.95,
+          "direction": "N",
+          "confidence": "medium"
+        },
+        {
+          "name": "Restaurante Tá Na Mesa",
+          "type": "restaurant",
+          "distance_km": 1.05,
+          "direction": "N",
+          "confidence": "medium"
+        },
+        {
+          "name": "Baía dos Golfinhos",
+          "type": "landmark",
+          "distance_km": 1.35,
+          "direction": "NW",
+          "confidence": "high"
+        },
+        {
+          "name": "Escola Municipal de Pipa",
+          "type": "school",
+          "distance_km": 1.45,
+          "direction": "NW",
+          "confidence": "medium"
+        },
+        {
+          "name": "Terminal Rodoviário de Pipa",
+          "type": "transport",
+          "distance_km": 1.65,
+          "direction": "NW",
+          "confidence": "high"
+        }
+      ],
+      "usage": {
+        "input_tokens": 673,
+        "output_tokens": 571
+      }
+    },
+    {
+      "country": "Brasil",
+      "city": "Tibau do Sul",
+      "address": "PWWP+GP, Tibau do Sul - RN, 59178-000",
+      "latitude": -6.2537015,
+      "longitude": -35.0657486,
+      "pois": [
+        {
+          "name": "Praia do Giz",
+          "type": "landmark",
+          "distance_km": 0.35,
+          "direction": "SE",
+          "confidence": "high"
+        },
+        {
+          "name": "Mirante de Tibau do Sul",
+          "type": "landmark",
+          "distance_km": 0.62,
+          "direction": "N",
+          "confidence": "high"
+        },
+        {
+          "name": "Pousada Thalassa",
+          "type": "residential",
+          "distance_km": 0.75,
+          "direction": "NW",
+          "confidence": "medium"
+        },
+        {
+          "name": "Igreja Matriz de Tibau do Sul",
+          "type": "religious",
+          "distance_km": 0.88,
+          "direction": "N",
+          "confidence": "high"
+        },
+        {
+          "name": "Praça Central de Tibau do Sul",
+          "type": "landmark",
+          "distance_km": 0.95,
+          "direction": "N",
+          "confidence": "high"
+        },
+        {
+          "name": "Restaurante O Pescador",
+          "type": "restaurant",
+          "distance_km": 1.05,
+          "direction": "N",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mercadinho Tibau",
+          "type": "retail",
+          "distance_km": 1.12,
+          "direction": "N",
+          "confidence": "medium"
+        },
+        {
+          "name": "Escola Municipal Professora Maria de Lourdes",
+          "type": "school",
+          "distance_km": 1.35,
+          "direction": "NW",
+          "confidence": "high"
+        },
+        {
+          "name": "Lagoa de Guaraíras",
+          "type": "landmark",
+          "distance_km": 1.55,
+          "direction": "W",
+          "confidence": "high"
+        },
+        {
+          "name": "Terminal Rodoviário de Tibau do Sul",
+          "type": "transport",
+          "distance_km": 1.85,
+          "direction": "N",
+          "confidence": "medium"
+        }
+      ],
+      "usage": {
+        "input_tokens": 667,
+        "output_tokens": 582
+      }
+    },
+    {
+      "country": "Brasil",
+      "city": "Tibau do Sul",
+      "address": "Largo São Sebastião, 35-37, Tibau do Sul - RN, 59178-000",
+      "latitude": -6.2279973,
+      "longitude": -35.046775,
+      "pois": [
+        {
+          "name": "Igreja Matriz de Nossa Senhora da Conceição",
+          "type": "religious",
+          "distance_km": 0.05,
+          "direction": "N",
+          "confidence": "high"
+        },
+        {
+          "name": "Praça Central de Tibau do Sul",
+          "type": "landmark",
+          "distance_km": 0.08,
+          "direction": "NE",
+          "confidence": "high"
+        },
+        {
+          "name": "Prefeitura Municipal de Tibau do Sul",
+          "type": "landmark",
+          "distance_km": 0.12,
+          "direction": "NW",
+          "confidence": "high"
+        },
+        {
+          "name": "Mercadinho Central",
+          "type": "retail",
+          "distance_km": 0.15,
+          "direction": "S",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mirante de Tibau do Sul",
+          "type": "landmark",
+          "distance_km": 0.25,
+          "direction": "E",
+          "confidence": "high"
+        },
+        {
+          "name": "Restaurante O Pescador",
+          "type": "restaurant",
+          "distance_km": 0.3,
+          "direction": "E",
+          "confidence": "medium"
+        },
+        {
+          "name": "Escola Municipal Professora Maria de Lourdes",
+          "type": "school",
+          "distance_km": 0.45,
+          "direction": "W",
+          "confidence": "high"
+        },
+        {
+          "name": "Terminal Rodoviário de Tibau do Sul",
+          "type": "transport",
+          "distance_km": 0.6,
+          "direction": "SW",
+          "confidence": "high"
+        },
+        {
+          "name": "Praia do Centro",
+          "type": "park",
+          "distance_km": 0.75,
+          "direction": "E",
+          "confidence": "high"
+        },
+        {
+          "name": "Unidade Básica de Saúde Tibau do Sul",
+          "type": "hospital",
+          "distance_km": 0.9,
+          "direction": "NW",
+          "confidence": "medium"
+        }
+      ],
+      "usage": {
+        "input_tokens": 672,
+        "output_tokens": 589
+      }
+    },
+    {
+      "country": "Brasil",
+      "city": "Tibau do Sul",
+      "address": "R. das Acácias, 31, Tibau do Sul - RN, 59178-000",
+      "latitude": -6.2325947,
+      "longitude": -35.0425869,
+      "pois": [
+        {
+          "name": "Praia do Centro",
+          "type": "landmark",
+          "distance_km": 0.35,
+          "direction": "E",
+          "confidence": "high"
+        },
+        {
+          "name": "Igreja Matriz de Tibau do Sul",
+          "type": "religious",
+          "distance_km": 0.45,
+          "direction": "SE",
+          "confidence": "high"
+        },
+        {
+          "name": "Prefeitura Municipal de Tibau do Sul",
+          "type": "landmark",
+          "distance_km": 0.55,
+          "direction": "SE",
+          "confidence": "high"
+        },
+        {
+          "name": "Praça Central de Tibau",
+          "type": "park",
+          "distance_km": 0.6,
+          "direction": "SE",
+          "confidence": "high"
+        },
+        {
+          "name": "Mercadinho do Povo",
+          "type": "retail",
+          "distance_km": 0.65,
+          "direction": "S",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pousada Thalassa",
+          "type": "residential",
+          "distance_km": 0.85,
+          "direction": "NE",
+          "confidence": "medium"
+        },
+        {
+          "name": "Terminal Rodoviário de Tibau do Sul",
+          "type": "transport",
+          "distance_km": 0.95,
+          "direction": "SW",
+          "confidence": "high"
+        },
+        {
+          "name": "Restaurante O Pescador",
+          "type": "restaurant",
+          "distance_km": 1.1,
+          "direction": "E",
+          "confidence": "medium"
+        },
+        {
+          "name": "Escola Municipal Professora Maria de Lourdes",
+          "type": "school",
+          "distance_km": 1.25,
+          "direction": "W",
+          "confidence": "medium"
+        },
+        {
+          "name": "Mirante de Tibau do Sul",
+          "type": "landmark",
+          "distance_km": 1.4,
+          "direction": "NE",
+          "confidence": "high"
+        }
+      ],
+      "usage": {
+        "input_tokens": 671,
+        "output_tokens": 582
+      }
+    },
+    {
+      "country":"Inglaterra",
+      "city": "Londres",
+      "address": "3-15 Whitcomb St., London, Reino Unido",
+      "latitude": 51.508712,
+      "longitude": -0.130183,
+      "pois": [
+        {
+          "name": "National Gallery",
+          "type": "landmark",
+          "distance_km": 0.15,
+          "direction": "W",
+          "confidence": "high"
+        },
+        {
+          "name": "Leicester Square Station",
+          "type": "transport",
+          "distance_km": 0.22,
+          "direction": "NE",
+          "confidence": "high"
+        },
+        {
+          "name": "Trafalgar Square",
+          "type": "landmark",
+          "distance_km": 0.25,
+          "direction": "SW",
+          "confidence": "high"
+        },
+        {
+          "name": "Charing Cross Station",
+          "type": "transport",
+          "distance_km": 0.45,
+          "direction": "S",
+          "confidence": "high"
+        },
+        {
+          "name": "Piccadilly Circus",
+          "type": "landmark",
+          "distance_km": 0.55,
+          "direction": "NW",
+          "confidence": "high"
+        },
+        {
+          "name": "Covent Garden Market",
+          "type": "retail",
+          "distance_km": 0.65,
+          "direction": "NE",
+          "confidence": "high"
+        },
+        {
+          "name": "St. James's Park",
+          "type": "park",
+          "distance_km": 0.85,
+          "direction": "SW",
+          "confidence": "high"
+        },
+        {
+          "name": "Royal Opera House",
+          "type": "landmark",
+          "distance_km": 0.9,
+          "direction": "NE",
+          "confidence": "high"
+        },
+        {
+          "name": "Somerset House",
+          "type": "landmark",
+          "distance_km": 1.1,
+          "direction": "SE",
+          "confidence": "medium"
+        },
+        {
+          "name": "St. Thomas' Hospital",
+          "type": "hospital",
+          "distance_km": 1.85,
+          "direction": "S",
+          "confidence": "medium"
+        }
+      ],
+      "usage": {
+        "input_tokens": 652,
+        "output_tokens": 549
+      }
+    },
+    {
+      "country":"Inglaterra",
+      "city": "Londres",
+      "address": "50-2 Collingbourne Rd, London, Reino Unido",
+      "latitude": 51.509025,
+      "longitude": -0.23513,
+      "pois": [
+        {
+          "name": "Shepherd's Bush Market",
+          "type": "retail",
+          "distance_km": 0.45,
+          "direction": "SE",
+          "confidence": "high"
+        },
+        {
+          "name": "Shepherd's Bush Station",
+          "type": "transport",
+          "distance_km": 0.65,
+          "direction": "SE",
+          "confidence": "high"
+        },
+        {
+          "name": "Westfield London",
+          "type": "retail",
+          "distance_km": 0.85,
+          "direction": "E",
+          "confidence": "high"
+        },
+        {
+          "name": "Ravenscourt Park",
+          "type": "park",
+          "distance_km": 0.95,
+          "direction": "S",
+          "confidence": "high"
+        },
+        {
+          "name": "Hammersmith Hospital",
+          "type": "hospital",
+          "distance_km": 1.1,
+          "direction": "NW",
+          "confidence": "high"
+        },
+        {
+          "name": "White City Station",
+          "type": "transport",
+          "distance_km": 1.2,
+          "direction": "NE",
+          "confidence": "high"
+        },
+        {
+          "name": "Loftus Road Stadium",
+          "type": "landmark",
+          "distance_km": 1.35,
+          "direction": "E",
+          "confidence": "high"
+        },
+        {
+          "name": "St Stephen's Church",
+          "type": "religious",
+          "distance_km": 1.45,
+          "direction": "SE",
+          "confidence": "medium"
+        },
+        {
+          "name": "Hammersmith Academy",
+          "type": "school",
+          "distance_km": 1.6,
+          "direction": "S",
+          "confidence": "medium"
+        },
+        {
+          "name": "Holland Park",
+          "type": "park",
+          "distance_km": 1.95,
+          "direction": "E",
+          "confidence": "medium"
+        }
+      ],
+      "usage": {
+        "input_tokens": 652,
+        "output_tokens": 554
+      }
+    },
+    {
+      "country":"Inglaterra",
+      "city": "Londres",
+      "address": "Emma FitzGerald Walk, London W2 2UH, Reino Unido",
+      "latitude": 51.508826,
+      "longitude": -0.163524,
+      "pois": [
+        {
+          "name": "Hyde Park",
+          "type": "park",
+          "distance_km": 0.25,
+          "direction": "S",
+          "confidence": "high"
+        },
+        {
+          "name": "Lancaster Gate Underground Station",
+          "type": "transport",
+          "distance_km": 0.45,
+          "direction": "NW",
+          "confidence": "high"
+        },
+        {
+          "name": "Paddington Station",
+          "type": "transport",
+          "distance_km": 0.75,
+          "direction": "NW",
+          "confidence": "high"
+        },
+        {
+          "name": "Kensington Gardens",
+          "type": "park",
+          "distance_km": 0.8,
+          "direction": "SW",
+          "confidence": "high"
+        },
+        {
+          "name": "St James's Church",
+          "type": "religious",
+          "distance_km": 0.85,
+          "direction": "W",
+          "confidence": "medium"
+        },
+        {
+          "name": "Whiteleys Shopping Centre",
+          "type": "retail",
+          "distance_km": 1.1,
+          "direction": "W",
+          "confidence": "medium"
+        },
+        {
+          "name": "St Mary's Hospital",
+          "type": "hospital",
+          "distance_km": 1.2,
+          "direction": "NW",
+          "confidence": "high"
+        },
+        {
+          "name": "Marble Arch",
+          "type": "landmark",
+          "distance_km": 1.35,
+          "direction": "E",
+          "confidence": "high"
+        },
+        {
+          "name": "Royal Albert Hall",
+          "type": "landmark",
+          "distance_km": 1.6,
+          "direction": "SW",
+          "confidence": "high"
+        },
+        {
+          "name": "Oxford Street",
+          "type": "retail",
+          "distance_km": 1.85,
+          "direction": "E",
+          "confidence": "high"
+        }
+      ],
+      "usage": {
+        "input_tokens": 653,
+        "output_tokens": 547
+      }
+    },
+    {
+      "country":"Inglaterra",
+      "city": "Londres",
+      "address": "The Queen's Walk, London SE1 7PB, Reino Unido",
+      "latitude": 51.50206,
+      "longitude": -0.119699,
+      "pois": [
+        {
+          "name": "BFI Southbank",
+          "type": "landmark",
+          "distance_km": 0.15,
+          "direction": "W",
+          "confidence": "high"
+        },
+        {
+          "name": "National Theatre",
+          "type": "landmark",
+          "distance_km": 0.22,
+          "direction": "W",
+          "confidence": "high"
+        },
+        {
+          "name": "Waterloo Station",
+          "type": "transport",
+          "distance_km": 0.45,
+          "direction": "S",
+          "confidence": "high"
+        },
+        {
+          "name": "London Eye",
+          "type": "landmark",
+          "distance_km": 0.55,
+          "direction": "W",
+          "confidence": "high"
+        },
+        {
+          "name": "Tate Modern",
+          "type": "landmark",
+          "distance_km": 0.65,
+          "direction": "E",
+          "confidence": "high"
+        },
+        {
+          "name": "St Thomas' Hospital",
+          "type": "hospital",
+          "distance_km": 0.85,
+          "direction": "SW",
+          "confidence": "high"
+        },
+        {
+          "name": "Borough Market",
+          "type": "retail",
+          "distance_km": 1.1,
+          "direction": "SE",
+          "confidence": "high"
+        },
+        {
+          "name": "The Shard",
+          "type": "landmark",
+          "distance_km": 1.25,
+          "direction": "SE",
+          "confidence": "high"
+        },
+        {
+          "name": "St. Paul's Cathedral",
+          "type": "landmark",
+          "distance_km": 1.4,
+          "direction": "N",
+          "confidence": "high"
+        },
+        {
+          "name": "Southwark Cathedral",
+          "type": "religious",
+          "distance_km": 1.55,
+          "direction": "SE",
+          "confidence": "medium"
+        }
+      ],
+      "usage": {
+        "input_tokens": 653,
+        "output_tokens": 545
+      }
+    },
+    {
+      "country":"Inglaterra",
+      "city": "Londres",
+      "address": "86-85 De Laune St, London SE17 3UT, Reino Unido",
+      "latitude": 51.48564,
+      "longitude": -0.107424,
+      "pois": [
+        {
+          "name": "Kennington Park",
+          "type": "park",
+          "distance_km": 0.45,
+          "direction": "NW",
+          "confidence": "high"
+        },
+        {
+          "name": "Kennington Underground Station",
+          "type": "transport",
+          "distance_km": 0.65,
+          "direction": "NW",
+          "confidence": "high"
+        },
+        {
+          "name": "St Mark's Church",
+          "type": "religious",
+          "distance_km": 0.72,
+          "direction": "NW",
+          "confidence": "medium"
+        },
+        {
+          "name": "The Oval Cricket Ground",
+          "type": "landmark",
+          "distance_km": 0.85,
+          "direction": "W",
+          "confidence": "high"
+        },
+        {
+          "name": "Elephant & Castle Shopping Centre",
+          "type": "retail",
+          "distance_km": 0.95,
+          "direction": "NE",
+          "confidence": "high"
+        },
+        {
+          "name": "Elephant & Castle Station",
+          "type": "transport",
+          "distance_km": 1.05,
+          "direction": "NE",
+          "confidence": "high"
+        },
+        {
+          "name": "Imperial War Museum",
+          "type": "landmark",
+          "distance_km": 1.2,
+          "direction": "N",
+          "confidence": "high"
+        },
+        {
+          "name": "London South Bank University",
+          "type": "school",
+          "distance_km": 1.35,
+          "direction": "NE",
+          "confidence": "medium"
+        },
+        {
+          "name": "Burgess Park",
+          "type": "park",
+          "distance_km": 1.45,
+          "direction": "SE",
+          "confidence": "high"
+        },
+        {
+          "name": "Guy's Hospital",
+          "type": "hospital",
+          "distance_km": 1.95,
+          "direction": "NE",
+          "confidence": "medium"
+        }
+      ],
+      "usage": {
+        "input_tokens": 659,
+        "output_tokens": 551
+      }
+    },
+    {
+      "country":"Países Baixos",
+      "city": "Amsterdam",
+      "address": "Rokin, Amsterdam, Países Baixos",
+      "latitude": 52.371757,
+      "longitude": 4.892806,
+      "pois": [
+        {
+          "name": "Rokin Metro Station",
+          "type": "transport",
+          "distance_km": 0.15,
+          "direction": "N",
+          "confidence": "high"
+        },
+        {
+          "name": "Dam Square",
+          "type": "landmark",
+          "distance_km": 0.35,
+          "direction": "N",
+          "confidence": "high"
+        },
+        {
+          "name": "Allard Pierson Museum",
+          "type": "landmark",
+          "distance_km": 0.45,
+          "direction": "S",
+          "confidence": "high"
+        },
+        {
+          "name": "De Bijenkorf Amsterdam",
+          "type": "retail",
+          "distance_km": 0.5,
+          "direction": "N",
+          "confidence": "high"
+        },
+        {
+          "name": "Begijnhof",
+          "type": "landmark",
+          "distance_km": 0.55,
+          "direction": "W",
+          "confidence": "high"
+        },
+        {
+          "name": "Amsterdam Museum",
+          "type": "landmark",
+          "distance_km": 0.65,
+          "direction": "NW",
+          "confidence": "high"
+        },
+        {
+          "name": "Munttoren",
+          "type": "landmark",
+          "distance_km": 0.7,
+          "direction": "SE",
+          "confidence": "high"
+        },
+        {
+          "name": "Amsterdam Centraal Station",
+          "type": "transport",
+          "distance_km": 1.2,
+          "direction": "N",
+          "confidence": "high"
+        },
+        {
+          "name": "Westerkerk",
+          "type": "religious",
+          "distance_km": 1.35,
+          "direction": "NW",
+          "confidence": "medium"
+        },
+        {
+          "name": "Oosterkerk",
+          "type": "religious",
+          "distance_km": 1.85,
+          "direction": "E",
+          "confidence": "medium"
+        }
+      ],
+      "usage": {
+        "input_tokens": 648,
+        "output_tokens": 548
+      }
+    },
+    {
+      "country":"Países Baixos",
+      "city": "Amsterdam",
+      "address": "Govert Flinckstraat 127II, 1072 EG Amsterdam, Países Baixos",
+      "latitude": 52.354877,
+      "longitude": 4.892269,
+      "pois": [
+        {
+          "name": "Albert Cuypmarkt",
+          "type": "retail",
+          "distance_km": 0.35,
+          "direction": "N",
+          "confidence": "high"
+        },
+        {
+          "name": "Sarphatipark",
+          "type": "park",
+          "distance_km": 0.45,
+          "direction": "E",
+          "confidence": "high"
+        },
+        {
+          "name": "De Pijp Metro Station",
+          "type": "transport",
+          "distance_km": 0.55,
+          "direction": "NE",
+          "confidence": "high"
+        },
+        {
+          "name": "Heineken Experience",
+          "type": "landmark",
+          "distance_km": 0.75,
+          "direction": "N",
+          "confidence": "high"
+        },
+        {
+          "name": "Museumplein",
+          "type": "landmark",
+          "distance_km": 1.1,
+          "direction": "NW",
+          "confidence": "high"
+        },
+        {
+          "name": "Rijksmuseum",
+          "type": "landmark",
+          "distance_km": 1.25,
+          "direction": "NW",
+          "confidence": "high"
+        },
+        {
+          "name": "Vondelpark",
+          "type": "park",
+          "distance_km": 1.4,
+          "direction": "NW",
+          "confidence": "medium"
+        },
+        {
+          "name": "Amsterdam RAI",
+          "type": "landmark",
+          "distance_km": 1.65,
+          "direction": "S",
+          "confidence": "medium"
+        },
+        {
+          "name": "OLVG Hospital",
+          "type": "hospital",
+          "distance_km": 1.75,
+          "direction": "SE",
+          "confidence": "high"
+        },
+        {
+          "name": "Stedelijk Museum",
+          "type": "landmark",
+          "distance_km": 1.85,
+          "direction": "NW",
+          "confidence": "medium"
+        }
+      ],
+      "usage": {
+        "input_tokens": 663,
+        "output_tokens": 548
+      }
+    },
+    {
+      "country":"Países Baixos",
+      "city": "Amsterdam",
+      "address": "Heimanspad, 1073 CX Amsterdam, Países Baixos",
+      "latitude": 52.354118,
+      "longitude": 4.897775,
+      "pois": [
+        {
+          "name": "Sarphatipark",
+          "type": "park",
+          "distance_km": 0.35,
+          "direction": "NW",
+          "confidence": "high"
+        },
+        {
+          "name": "Albert Cuypmarkt",
+          "type": "retail",
+          "distance_km": 0.65,
+          "direction": "NW",
+          "confidence": "high"
+        },
+        {
+          "name": "De Pijp Metro Station",
+          "type": "transport",
+          "distance_km": 0.75,
+          "direction": "NW",
+          "confidence": "high"
+        },
+        {
+          "name": "Heineken Experience",
+          "type": "landmark",
+          "distance_km": 0.95,
+          "direction": "NW",
+          "confidence": "medium"
+        },
+        {
+          "name": "Amstelpark",
+          "type": "park",
+          "distance_km": 1.1,
+          "direction": "S",
+          "confidence": "medium"
+        },
+        {
+          "name": "RAI Amsterdam",
+          "type": "landmark",
+          "distance_km": 1.2,
+          "direction": "S",
+          "confidence": "high"
+        },
+        {
+          "name": "Amsterdam RAI Station",
+          "type": "transport",
+          "distance_km": 1.35,
+          "direction": "S",
+          "confidence": "high"
+        },
+        {
+          "name": "Rijksmuseum",
+          "type": "landmark",
+          "distance_km": 1.6,
+          "direction": "NW",
+          "confidence": "medium"
+        },
+        {
+          "name": "OLVG Hospital",
+          "type": "hospital",
+          "distance_km": 1.75,
+          "direction": "NE",
+          "confidence": "high"
+        },
+        {
+          "name": "Beatrixpark",
+          "type": "park",
+          "distance_km": 1.85,
+          "direction": "SW",
+          "confidence": "high"
+        }
+      ],
+      "usage": {
+        "input_tokens": 655,
+        "output_tokens": 548
+      }
+    },
+    {
+      "country":"Países Baixos",
+      "city": "Amsterdam",
+      "address": "Smederij 2-20, 1021 NG Amsterdam, Países Baixos",
+      "latitude": 52.381379,
+      "longitude": 4.914643,
+      "pois": [
+        {
+          "name": "EYE Film Museum",
+          "type": "landmark",
+          "distance_km": 0.45,
+          "direction": "NW",
+          "confidence": "high"
+        },
+        {
+          "name": "Amsterdam Centraal Ferry Terminal",
+          "type": "transport",
+          "distance_km": 0.55,
+          "direction": "W",
+          "confidence": "high"
+        },
+        {
+          "name": "A'DAM Lookout",
+          "type": "landmark",
+          "distance_km": 0.62,
+          "direction": "NW",
+          "confidence": "high"
+        },
+        {
+          "name": "Tolhuistuin",
+          "type": "park",
+          "distance_km": 0.75,
+          "direction": "NW",
+          "confidence": "high"
+        },
+        {
+          "name": "Stadsloket Noord",
+          "type": "landmark",
+          "distance_km": 0.85,
+          "direction": "N",
+          "confidence": "medium"
+        },
+        {
+          "name": "Van der Pekstraat Market",
+          "type": "retail",
+          "distance_km": 1.1,
+          "direction": "N",
+          "confidence": "medium"
+        },
+        {
+          "name": "Noorderpark",
+          "type": "park",
+          "distance_km": 1.35,
+          "direction": "N",
+          "confidence": "high"
+        },
+        {
+          "name": "IJ-Hallen",
+          "type": "retail",
+          "distance_km": 1.45,
+          "direction": "E",
+          "confidence": "medium"
+        },
+        {
+          "name": "Restaurant Pllek",
+          "type": "restaurant",
+          "distance_km": 1.6,
+          "direction": "E",
+          "confidence": "high"
+        },
+        {
+          "name": "Noorderparkbad",
+          "type": "landmark",
+          "distance_km": 1.85,
+          "direction": "N",
+          "confidence": "medium"
+        }
+      ],
+      "usage": {
+        "input_tokens": 661,
+        "output_tokens": 555
+      }
+    },
+    {
+      "country":"Países Baixos",
+      "city": "Amsterdam",
+      "address": "Meidoornweg 16-20, 1031 GM Amsterdam, Países Baixos",
+      "latitude": 52.387055,
+      "longitude": 4.910223,
+      "pois": [
+        {
+          "name": "Noorderpark",
+          "type": "park",
+          "distance_km": 0.35,
+          "direction": "NW",
+          "confidence": "high"
+        },
+        {
+          "name": "Noorderpark Station",
+          "type": "transport",
+          "distance_km": 0.45,
+          "direction": "NW",
+          "confidence": "high"
+        },
+        {
+          "name": "Albert Heijn",
+          "type": "retail",
+          "distance_km": 0.65,
+          "direction": "SE",
+          "confidence": "high"
+        },
+        {
+          "name": "Mosveld Shopping Center",
+          "type": "retail",
+          "distance_km": 0.75,
+          "direction": "SE",
+          "confidence": "high"
+        },
+        {
+          "name": "Eye Filmmuseum",
+          "type": "landmark",
+          "distance_km": 1.15,
+          "direction": "SW",
+          "confidence": "medium"
+        },
+        {
+          "name": "A'DAM Lookout",
+          "type": "landmark",
+          "distance_km": 1.25,
+          "direction": "SW",
+          "confidence": "high"
+        },
+        {
+          "name": "Buiksloterweg Ferry Terminal",
+          "type": "transport",
+          "distance_km": 1.35,
+          "direction": "SW",
+          "confidence": "high"
+        },
+        {
+          "name": "Tolhuistuin",
+          "type": "landmark",
+          "distance_km": 1.4,
+          "direction": "SW",
+          "confidence": "medium"
+        },
+        {
+          "name": "BovenIJ Ziekenhuis",
+          "type": "hospital",
+          "distance_km": 1.65,
+          "direction": "N",
+          "confidence": "medium"
+        },
+        {
+          "name": "St. Ritakerk",
+          "type": "religious",
+          "distance_km": 1.85,
+          "direction": "E",
+          "confidence": "medium"
+        }
+      ],
+      "usage": {
+        "input_tokens": 662,
+        "output_tokens": 555
+      }
+    },
+    {
+      "country":"Inglaterra",
+      "city": "Bath",
+      "address": "Pierrepont St, Bath BA2 4AF, Reino Unido",
+      "latitude": 51.379944,
+      "longitude": -2.357126,
+      "pois": [
+        {
+          "name": "Bath Spa Railway Station",
+          "type": "transport",
+          "distance_km": 0.15,
+          "direction": "S",
+          "confidence": "high"
+        },
+        {
+          "name": "SouthGate Bath",
+          "type": "retail",
+          "distance_km": 0.22,
+          "direction": "SW",
+          "confidence": "high"
+        },
+        {
+          "name": "Parade Gardens",
+          "type": "park",
+          "distance_km": 0.25,
+          "direction": "E",
+          "confidence": "high"
+        },
+        {
+          "name": "Roman Baths",
+          "type": "landmark",
+          "distance_km": 0.35,
+          "direction": "NW",
+          "confidence": "high"
+        },
+        {
+          "name": "Bath Abbey",
+          "type": "religious",
+          "distance_km": 0.4,
+          "direction": "NW",
+          "confidence": "high"
+        },
+        {
+          "name": "Pulteney Bridge",
+          "type": "landmark",
+          "distance_km": 0.55,
+          "direction": "NE",
+          "confidence": "high"
+        },
+        {
+          "name": "The Gainsborough Bath Spa",
+          "type": "landmark",
+          "distance_km": 0.6,
+          "direction": "NW",
+          "confidence": "medium"
+        },
+        {
+          "name": "Thermae Bath Spa",
+          "type": "landmark",
+          "distance_km": 0.65,
+          "direction": "W",
+          "confidence": "high"
+        },
+        {
+          "name": "Sydney Gardens",
+          "type": "park",
+          "distance_km": 1.1,
+          "direction": "E",
+          "confidence": "medium"
+        },
+        {
+          "name": "Royal Victoria Park",
+          "type": "park",
+          "distance_km": 1.45,
+          "direction": "NW",
+          "confidence": "medium"
+        }
+      ],
+      "usage": {
+        "input_tokens": 653,
+        "output_tokens": 544
+      }
+    },
+    {
+      "country":"Inglaterra",
+      "city": "Bath",
+      "address": "Quarry Rock Gardens, Bath BA2 6EF, Reino Unido",
+      "latitude": 51.373304,
+      "longitude": -2.332214,
+      "pois": [
+        {
+          "name": "Prior Park Landscape Garden",
+          "type": "park",
+          "distance_km": 0.45,
+          "direction": "SE",
+          "confidence": "high"
+        },
+        {
+          "name": "Ralph Allen School",
+          "type": "school",
+          "distance_km": 0.65,
+          "direction": "S",
+          "confidence": "high"
+        },
+        {
+          "name": "Combe Down Village Centre",
+          "type": "retail",
+          "distance_km": 0.85,
+          "direction": "SW",
+          "confidence": "medium"
+        },
+        {
+          "name": "Church of St. Andrew",
+          "type": "religious",
+          "distance_km": 0.92,
+          "direction": "SW",
+          "confidence": "high"
+        },
+        {
+          "name": "Firs Field",
+          "type": "park",
+          "distance_km": 1.05,
+          "direction": "SW",
+          "confidence": "high"
+        },
+        {
+          "name": "Bath Skyline Walk",
+          "type": "landmark",
+          "distance_km": 1.15,
+          "direction": "N",
+          "confidence": "high"
+        },
+        {
+          "name": "The Forester & Flower",
+          "type": "restaurant",
+          "distance_km": 1.2,
+          "direction": "SW",
+          "confidence": "medium"
+        },
+        {
+          "name": "Widcombe Parade",
+          "type": "retail",
+          "distance_km": 1.65,
+          "direction": "NW",
+          "confidence": "medium"
+        },
+        {
+          "name": "Bath Spa University (Newton Park Campus)",
+          "type": "school",
+          "distance_km": 1.8,
+          "direction": "SE",
+          "confidence": "low"
+        },
+        {
+          "name": "Bath Spa Railway Station",
+          "type": "transport",
+          "distance_km": 1.95,
+          "direction": "NW",
+          "confidence": "medium"
+        }
+      ],
+      "usage": {
+        "input_tokens": 652,
+        "output_tokens": 553
+      }
+    },
+    {
+      "country":"Inglaterra",
+      "city": "Bath",
+      "address": "Bath BA1 2LZ, Reino Unido",
+      "latitude": 51.38802,
+      "longitude": -2.376018,
+      "pois": [
+        {
+          "name": "Roman Baths",
+          "type": "landmark",
+          "distance_km": 0.05,
+          "direction": "SE",
+          "confidence": "high"
+        },
+        {
+          "name": "The Pump Room",
+          "type": "restaurant",
+          "distance_km": 0.08,
+          "direction": "SE",
+          "confidence": "high"
+        },
+        {
+          "name": "Bath Abbey",
+          "type": "landmark",
+          "distance_km": 0.12,
+          "direction": "SE",
+          "confidence": "high"
+        },
+        {
+          "name": "Thermae Bath Spa",
+          "type": "landmark",
+          "distance_km": 0.18,
+          "direction": "SW",
+          "confidence": "high"
+        },
+        {
+          "name": "Parade Gardens",
+          "type": "park",
+          "distance_km": 0.28,
+          "direction": "SE",
+          "confidence": "high"
+        },
+        {
+          "name": "Pulteney Bridge",
+          "type": "landmark",
+          "distance_km": 0.35,
+          "direction": "E",
+          "confidence": "high"
+        },
+        {
+          "name": "SouthGate Bath",
+          "type": "retail",
+          "distance_km": 0.4,
+          "direction": "S",
+          "confidence": "high"
+        },
+        {
+          "name": "Bath Spa Railway Station",
+          "type": "transport",
+          "distance_km": 0.45,
+          "direction": "S",
+          "confidence": "high"
+        },
+        {
+          "name": "Bath Assembly Rooms",
+          "type": "landmark",
+          "distance_km": 0.75,
+          "direction": "NW",
+          "confidence": "high"
+        },
+        {
+          "name": "The Royal Crescent",
+          "type": "landmark",
+          "distance_km": 0.95,
+          "direction": "NW",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "country":"Inglaterra",
+      "city": "Bath",
+      "address": "Bristol And Bath Railway Path, Bath, Reino Unido",
+      "latitude": 51.38279,
+      "longitude": -2.384838,
+      "pois": [
+        {
+          "name": "Bath Spa Railway Station",
+          "type": "transport",
+          "distance_km": 0.45,
+          "direction": "SW",
+          "confidence": "high"
+        },
+        {
+          "name": "Bath Bus Station",
+          "type": "transport",
+          "distance_km": 0.55,
+          "direction": "SW",
+          "confidence": "high"
+        },
+        {
+          "name": "SouthGate Bath",
+          "type": "retail",
+          "distance_km": 0.65,
+          "direction": "W",
+          "confidence": "high"
+        },
+        {
+          "name": "Parade Gardens",
+          "type": "park",
+          "distance_km": 0.85,
+          "direction": "NW",
+          "confidence": "high"
+        },
+        {
+          "name": "Pulteney Bridge",
+          "type": "landmark",
+          "distance_km": 0.95,
+          "direction": "NW",
+          "confidence": "high"
+        },
+        {
+          "name": "Bath Abbey",
+          "type": "religious",
+          "distance_km": 1.05,
+          "direction": "NW",
+          "confidence": "high"
+        },
+        {
+          "name": "The Roman Baths",
+          "type": "landmark",
+          "distance_km": 1.15,
+          "direction": "NW",
+          "confidence": "high"
+        },
+        {
+          "name": "Royal United Hospital Bath",
+          "type": "hospital",
+          "distance_km": 1.45,
+          "direction": "N",
+          "confidence": "medium"
+        },
+        {
+          "name": "University of Bath",
+          "type": "school",
+          "distance_km": 1.75,
+          "direction": "SE",
+          "confidence": "medium"
+        },
+        {
+          "name": "Sydney Gardens",
+          "type": "park",
+          "distance_km": 1.85,
+          "direction": "NE",
+          "confidence": "high"
+        }
+      ],
+      "usage": {
+        "input_tokens": 648,
+        "output_tokens": 543
+      }
+    },
+    {
+      "country":"Inglaterra",
+      "city": "Bath",
+      "address": "35 Calton Gardens, Bath BA2 4QG, Reino Unido",
+      "latitude": 51.37577,
+      "longitude": -2.360877,
+      "pois": [
+        {
+          "name": "Bath Spa Railway Station",
+          "type": "transport",
+          "distance_km": 0.45,
+          "direction": "NW",
+          "confidence": "high"
+        },
+        {
+          "name": "Prior Park Landscape Garden",
+          "type": "park",
+          "distance_km": 0.65,
+          "direction": "SE",
+          "confidence": "high"
+        },
+        {
+          "name": "Widcombe Parade",
+          "type": "retail",
+          "distance_km": 0.72,
+          "direction": "W",
+          "confidence": "high"
+        },
+        {
+          "name": "Alexandra Park",
+          "type": "park",
+          "distance_km": 0.85,
+          "direction": "SW",
+          "confidence": "high"
+        },
+        {
+          "name": "The Roman Baths",
+          "type": "landmark",
+          "distance_km": 0.95,
+          "direction": "NW",
+          "confidence": "high"
+        },
+        {
+          "name": "Bath Abbey",
+          "type": "religious",
+          "distance_km": 1.05,
+          "direction": "NW",
+          "confidence": "high"
+        },
+        {
+          "name": "SouthGate Bath",
+          "type": "retail",
+          "distance_km": 1.1,
+          "direction": "NW",
+          "confidence": "high"
+        },
+        {
+          "name": "University of Bath",
+          "type": "school",
+          "distance_km": 1.45,
+          "direction": "E",
+          "confidence": "medium"
+        },
+        {
+          "name": "Royal United Hospital",
+          "type": "hospital",
+          "distance_km": 1.85,
+          "direction": "NW",
+          "confidence": "medium"
+        },
+        {
+          "name": "Pulteney Bridge",
+          "type": "landmark",
+          "distance_km": 1.95,
+          "direction": "N",
+          "confidence": "high"
+        }
+      ],
+      "usage": {
+        "input_tokens": 655,
+        "output_tokens": 543
+      }
+    }
+  ]
+}

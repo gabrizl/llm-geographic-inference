@@ -1,0 +1,6309 @@
+{
+  "_metadata": {
+    "validator": "google_maps_api",
+    "provider": "unknown",
+    "model": "gemini-3-flash-preview"
+  },
+  "results": [
+    {
+      "country": "Estados Unidos",
+      "city": "New York",
+      "address": "50 W 45th St, New York, NY 10036, EUA",
+      "latitude": 40.7579041,
+      "longitude": -73.9858081,
+      "validated_pois": [
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Times Square",
+            "type": "landmark",
+            "distance_km": 0.32,
+            "direction": "W",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 52.75
+          }
+        }
+      ]
+    },
+    {
+      "country": "Estados Unidos",
+      "city": "New York",
+      "address": "930-938 5th Ave, New York, NY 10021, EUA",
+      "latitude": 40.7740965,
+      "longitude": -73.9664851,
+      "validated_pois": [
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Central Park (Conservatory Water)",
+            "type": "park",
+            "distance_km": 0.12,
+            "direction": "W",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 53.35
+          }
+        }
+      ]
+    },
+    {
+      "country": "Estados Unidos",
+      "city": "New York",
+      "address": "Nova Iorque, NY 10021, EUA",
+      "latitude": 40.774704,
+      "longitude": -73.9692068,
+      "validated_pois": [
+        {
+          "predicted": {
+            "name": "Central Park (79th St Entrance)",
+            "type": "park",
+            "distance_km": 0.12,
+            "direction": "W",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Central Park",
+            "latitude": 40.7825547,
+            "longitude": -73.9655834,
+            "walking_distance_km": 1.12,
+            "direction": "N"
+          },
+          "validation": {
+            "candidate_score": 105.0,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 1.0,
+            "within_2km": true,
+            "direction_match": false
+          }
+        },
+        {
+          "predicted": {
+            "name": "The Frick Collection",
+            "type": "landmark",
+            "distance_km": 0.38,
+            "direction": "S",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "The Frick Collection",
+            "latitude": 40.7710857,
+            "longitude": -73.9673861,
+            "walking_distance_km": 0.59,
+            "direction": "S"
+          },
+          "validation": {
+            "candidate_score": 121.85,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.21,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "The Metropolitan Museum of Art",
+            "type": "landmark",
+            "distance_km": 0.48,
+            "direction": "N",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "The Metropolitan Museum of Art",
+            "latitude": 40.7794366,
+            "longitude": -73.963244,
+            "walking_distance_km": 0.87,
+            "direction": "NE"
+          },
+          "validation": {
+            "candidate_score": 119.15,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.39,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "Apple Upper East Side",
+            "type": "retail",
+            "distance_km": 0.55,
+            "direction": "SE",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Apple Upper East Side",
+            "latitude": 40.7733573,
+            "longitude": -73.96453679999999,
+            "walking_distance_km": 0.72,
+            "direction": "E"
+          },
+          "validation": {
+            "candidate_score": 122.45,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.17,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "77th Street Subway Station",
+            "type": "transport",
+            "distance_km": 0.68,
+            "direction": "SE",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": -999
+          }
+        },
+        {
+          "predicted": {
+            "name": "Lenox Hill Hospital",
+            "type": "hospital",
+            "distance_km": 0.78,
+            "direction": "SE",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Lenox Hill Hospital",
+            "latitude": 40.7737304,
+            "longitude": -73.9608219,
+            "walking_distance_km": 0.89,
+            "direction": "E"
+          },
+          "validation": {
+            "candidate_score": 123.35,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.11,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "Solomon R. Guggenheim Museum",
+            "type": "landmark",
+            "distance_km": 1.15,
+            "direction": "N",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Solomon R. Guggenheim Museum",
+            "latitude": 40.7829796,
+            "longitude": -73.9589706,
+            "walking_distance_km": 1.37,
+            "direction": "NE"
+          },
+          "validation": {
+            "candidate_score": 121.7,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.22,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "Hunter College",
+            "type": "school",
+            "distance_km": 1.25,
+            "direction": "S",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Hunter College",
+            "latitude": 40.7678398,
+            "longitude": -73.9645291,
+            "walking_distance_km": 1.12,
+            "direction": "SE"
+          },
+          "validation": {
+            "candidate_score": 123.05,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.13,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "86th Street Subway Station",
+            "type": "transport",
+            "distance_km": 1.4,
+            "direction": "NE",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": -999
+          }
+        },
+        {
+          "predicted": {
+            "name": "Carl Schurz Park",
+            "type": "park",
+            "distance_km": 1.95,
+            "direction": "NE",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Carl Schurz Park",
+            "latitude": 40.7751302,
+            "longitude": -73.9436973,
+            "walking_distance_km": 2.8,
+            "direction": "E"
+          },
+          "validation": {
+            "candidate_score": 82.25,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.85,
+            "within_2km": false,
+            "direction_match": true
+          }
+        }
+      ]
+    },
+    {
+      "country": "Estados Unidos",
+      "city": "New York",
+      "address": "2-26 N 3rd St, Brooklyn, NY 11249, EUA",
+      "latitude": 40.7185865,
+      "longitude": -73.966248,
+      "validated_pois": [
+        {
+          "predicted": {
+            "name": "Marsha P. Johnson State Park",
+            "type": "park",
+            "distance_km": 0.22,
+            "direction": "NW",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Marsha P. Johnson State Park",
+            "latitude": 40.7215481,
+            "longitude": -73.9609675,
+            "walking_distance_km": 0.7,
+            "direction": "NE"
+          },
+          "validation": {
+            "candidate_score": 117.8,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.48,
+            "within_2km": true,
+            "direction_match": false
+          }
+        },
+        {
+          "predicted": {
+            "name": "Apple Williamsburg",
+            "type": "retail",
+            "distance_km": 0.41,
+            "direction": "E",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Apple Williamsburg",
+            "latitude": 40.7155589,
+            "longitude": -73.9598644,
+            "walking_distance_km": 0.63,
+            "direction": "SE"
+          },
+          "validation": {
+            "candidate_score": 121.7,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.22,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "North 5th Street Pier and Park",
+            "type": "park",
+            "distance_km": 0.45,
+            "direction": "NW",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "North 5th Street Pier and Park",
+            "latitude": 40.7202338,
+            "longitude": -73.96413439999999,
+            "walking_distance_km": 0.54,
+            "direction": "NE"
+          },
+          "validation": {
+            "candidate_score": 123.65,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.09,
+            "within_2km": true,
+            "direction_match": false
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Music Hall of Williamsburg",
+            "type": "landmark",
+            "distance_km": 0.52,
+            "direction": "NE",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 59.85
+          }
+        },
+        {
+          "predicted": {
+            "name": "Bedford Avenue Station",
+            "type": "transport",
+            "distance_km": 0.68,
+            "direction": "NE",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Bedford Av",
+            "latitude": 40.7177978,
+            "longitude": -73.95751709999999,
+            "walking_distance_km": 0.95,
+            "direction": "E"
+          },
+          "validation": {
+            "candidate_score": 115.95,
+            "name_similarity": 82.35294117647058,
+            "name_match": false,
+            "distance_difference_km": 0.27,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "Bushwick Inlet Park",
+            "type": "park",
+            "distance_km": 0.75,
+            "direction": "N",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Bushwick Inlet Park",
+            "latitude": 40.7223145,
+            "longitude": -73.961308,
+            "walking_distance_km": 0.8,
+            "direction": "NE"
+          },
+          "validation": {
+            "candidate_score": 124.25,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.05,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "Domino Park",
+            "type": "park",
+            "distance_km": 0.82,
+            "direction": "S",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Domino Park",
+            "latitude": 40.7148803,
+            "longitude": -73.967851,
+            "walking_distance_km": 0.5,
+            "direction": "S"
+          },
+          "validation": {
+            "candidate_score": 120.2,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.32,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Wythe Hotel",
+            "type": "landmark",
+            "distance_km": 0.95,
+            "direction": "N",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 59.25
+          }
+        },
+        {
+          "predicted": {
+            "name": "McCarren Park",
+            "type": "park",
+            "distance_km": 1.15,
+            "direction": "NE",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "McCarren Park",
+            "latitude": 40.7210405,
+            "longitude": -73.95134879999999,
+            "walking_distance_km": 1.71,
+            "direction": "E"
+          },
+          "validation": {
+            "candidate_score": 116.6,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.56,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Williamsburg Bridge Pedestrian Entrance",
+            "type": "transport",
+            "distance_km": 1.45,
+            "direction": "S",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 24.58
+          }
+        }
+      ]
+    },
+    {
+      "country": "Estados Unidos",
+      "city": "New York",
+      "address": "West Dr, Brooklyn, NY 11215, EUA",
+      "latitude": 40.668186,
+      "longitude": -73.9743779,
+      "validated_pois": [
+        {
+          "predicted": {
+            "name": "Litchfield Villa",
+            "type": "landmark",
+            "distance_km": 0.15,
+            "direction": "NW",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Litchfield Villa: Brooklyn Department of Parks & Recreation",
+            "latitude": 40.6669731,
+            "longitude": -73.9737797,
+            "walking_distance_km": 0.26,
+            "direction": "S"
+          },
+          "validation": {
+            "candidate_score": 118.35,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.11,
+            "within_2km": true,
+            "direction_match": false
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Picnic House in Prospect Park",
+            "type": "landmark",
+            "distance_km": 0.35,
+            "direction": "NE",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 52.75
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Long Meadow",
+            "type": "park",
+            "distance_km": 0.4,
+            "direction": "NE",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 43.3
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "7th Avenue Retail Corridor",
+            "type": "retail",
+            "distance_km": 0.65,
+            "direction": "W",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 47.76
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Grand Army Plaza",
+            "type": "landmark",
+            "distance_km": 0.95,
+            "direction": "N",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 55.8
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "7th Avenue Subway Station",
+            "type": "transport",
+            "distance_km": 1.1,
+            "direction": "NW",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": -999
+          }
+        },
+        {
+          "predicted": {
+            "name": "Brooklyn Museum",
+            "type": "landmark",
+            "distance_km": 1.3,
+            "direction": "NE",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Brooklyn Museum",
+            "latitude": 40.6712062,
+            "longitude": -73.9636306,
+            "walking_distance_km": 1.27,
+            "direction": "E"
+          },
+          "validation": {
+            "candidate_score": 124.55,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.03,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Brooklyn Botanic Garden",
+            "type": "park",
+            "distance_km": 1.45,
+            "direction": "NE",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 57.0
+          }
+        },
+        {
+          "predicted": {
+            "name": "Prospect Park Zoo",
+            "type": "landmark",
+            "distance_km": 1.6,
+            "direction": "E",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Prospect Park Zoo",
+            "latitude": 40.665709,
+            "longitude": -73.9644473,
+            "walking_distance_km": 1.28,
+            "direction": "E"
+          },
+          "validation": {
+            "candidate_score": 120.2,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.32,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "New York-Presbyterian Brooklyn Methodist Hospital",
+            "type": "hospital",
+            "distance_km": 1.75,
+            "direction": "NW",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "NewYork-Presbyterian Brooklyn Methodist Hospital",
+            "latitude": 40.6684619,
+            "longitude": -73.9798295,
+            "walking_distance_km": 0.64,
+            "direction": "W"
+          },
+          "validation": {
+            "candidate_score": 67.59,
+            "name_similarity": 98.73417721518987,
+            "name_match": true,
+            "distance_difference_km": 1.11,
+            "within_2km": true,
+            "direction_match": true
+          }
+        }
+      ]
+    },
+    {
+      "country": "Canada",
+      "city": "Vancouver",
+      "address": "616-600 Robson St, Vancouver, BC V6B 2B9, Canadá",
+      "latitude": 49.2808868,
+      "longitude": -123.1215217,
+      "validated_pois": [
+        {
+          "predicted": {
+            "name": "Orpheum Theatre",
+            "type": "landmark",
+            "distance_km": 0.18,
+            "direction": "SE",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Orpheum",
+            "latitude": 49.2800806,
+            "longitude": -123.1204164,
+            "walking_distance_km": 0.18,
+            "direction": "SE"
+          },
+          "validation": {
+            "candidate_score": 120.0,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.0,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "Pacific Centre",
+            "type": "retail",
+            "distance_km": 0.22,
+            "direction": "NE",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "CF Pacific Centre",
+            "latitude": 49.283398,
+            "longitude": -123.1175396,
+            "walking_distance_km": 0.45,
+            "direction": "NE"
+          },
+          "validation": {
+            "candidate_score": 116.55,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.23,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "Vancouver City Centre Station",
+            "type": "transport",
+            "distance_km": 0.28,
+            "direction": "NE",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Vancouver City Centre",
+            "latitude": 49.2824692,
+            "longitude": -123.1186127,
+            "walking_distance_km": 0.33,
+            "direction": "NE"
+          },
+          "validation": {
+            "candidate_score": 119.25,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.05,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Robson Square",
+            "type": "park",
+            "distance_km": 0.32,
+            "direction": "NW",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": -8.72
+          }
+        },
+        {
+          "predicted": {
+            "name": "Vancouver Art Gallery",
+            "type": "landmark",
+            "distance_km": 0.38,
+            "direction": "NW",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Vancouver Art Gallery",
+            "latitude": 49.2829607,
+            "longitude": -123.1204715,
+            "walking_distance_km": 0.36,
+            "direction": "N"
+          },
+          "validation": {
+            "candidate_score": 124.7,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.02,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "Granville Station",
+            "type": "transport",
+            "distance_km": 0.42,
+            "direction": "NE",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Granville",
+            "latitude": 49.2832919,
+            "longitude": -123.1161335,
+            "walking_distance_km": 0.57,
+            "direction": "NE"
+          },
+          "validation": {
+            "candidate_score": 117.75,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.15,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "Christ Church Cathedral",
+            "type": "religious",
+            "distance_km": 0.45,
+            "direction": "NW",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Christ Church Cathedral",
+            "latitude": 49.28449759999999,
+            "longitude": -123.1203768,
+            "walking_distance_km": 0.54,
+            "direction": "N"
+          },
+          "validation": {
+            "candidate_score": 123.65,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.09,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Vancouver Public Library, Central Branch",
+            "type": "landmark",
+            "distance_km": 0.48,
+            "direction": "SE",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 38.05
+          }
+        },
+        {
+          "predicted": {
+            "name": "St. Paul's Hospital",
+            "type": "hospital",
+            "distance_km": 0.85,
+            "direction": "SW",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "St. Paul's Hospital",
+            "latitude": 49.2806322,
+            "longitude": -123.128009,
+            "walking_distance_km": 0.64,
+            "direction": "W"
+          },
+          "validation": {
+            "candidate_score": 121.85,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.21,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "BC Place",
+            "type": "landmark",
+            "distance_km": 0.95,
+            "direction": "SE",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": -999
+          }
+        }
+      ]
+    },
+    {
+      "country": "Canada",
+      "city": "Vancouver",
+      "address": "305-389 W 14th Ave, Vancouver, BC V5Y 1X3, Canadá",
+      "latitude": 49.2586938,
+      "longitude": -123.1127361,
+      "validated_pois": [
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Vancouver City Hall",
+            "type": "landmark",
+            "distance_km": 0.35,
+            "direction": "N",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": -29.08
+          }
+        },
+        {
+          "predicted": {
+            "name": "Mount Pleasant Park",
+            "type": "park",
+            "distance_km": 0.62,
+            "direction": "SE",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Mount Pleasant Park",
+            "latitude": 49.2570843,
+            "longitude": -123.106015,
+            "walking_distance_km": 0.68,
+            "direction": "E"
+          },
+          "validation": {
+            "candidate_score": 124.1,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.06,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "Broadway-City Hall Station",
+            "type": "transport",
+            "distance_km": 0.68,
+            "direction": "N",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Broadway-City Hall",
+            "latitude": 49.26283,
+            "longitude": -123.11453,
+            "walking_distance_km": 0.61,
+            "direction": "N"
+          },
+          "validation": {
+            "candidate_score": 118.95,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.07,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Whole Foods Market",
+            "type": "retail",
+            "distance_km": 0.88,
+            "direction": "N",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 58.5
+          }
+        },
+        {
+          "predicted": {
+            "name": "Vancouver General Hospital",
+            "type": "hospital",
+            "distance_km": 0.98,
+            "direction": "NW",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Vancouver General Hospital",
+            "latitude": 49.2616232,
+            "longitude": -123.1219112,
+            "walking_distance_km": 0.98,
+            "direction": "NW"
+          },
+          "validation": {
+            "candidate_score": 125.0,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.0,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "Jonathan Rogers Park",
+            "type": "park",
+            "distance_km": 1.15,
+            "direction": "NE",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Jonathan Rogers Park",
+            "latitude": 49.2642717,
+            "longitude": -123.1079662,
+            "walking_distance_km": 1.11,
+            "direction": "NE"
+          },
+          "validation": {
+            "candidate_score": 124.4,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.04,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "Douglas Park",
+            "type": "park",
+            "distance_km": 1.28,
+            "direction": "SW",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Douglas Park",
+            "latitude": 49.2525485,
+            "longitude": -123.1233676,
+            "walking_distance_km": 1.51,
+            "direction": "SW"
+          },
+          "validation": {
+            "candidate_score": 121.55,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.23,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Mount Pleasant Community Centre",
+            "type": "landmark",
+            "distance_km": 1.38,
+            "direction": "NE",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 58.5
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Main Street Retail District",
+            "type": "retail",
+            "distance_km": 1.48,
+            "direction": "E",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": -38.32
+          }
+        },
+        {
+          "predicted": {
+            "name": "Olympic Village Station",
+            "type": "transport",
+            "distance_km": 1.65,
+            "direction": "N",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Olympic Village Station",
+            "latitude": 49.26627999999999,
+            "longitude": -123.1154541,
+            "walking_distance_km": 1.11,
+            "direction": "N"
+          },
+          "validation": {
+            "candidate_score": 116.9,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.54,
+            "within_2km": true,
+            "direction_match": true
+          }
+        }
+      ]
+    },
+    {
+      "country": "Canada",
+      "city": "Vancouver",
+      "address": "Pipeline Rd, Vancouver, BC V6G 3E2, Canadá",
+      "latitude": 49.3033454,
+      "longitude": -123.1370093,
+      "validated_pois": [
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Stanley Park Rose Garden",
+            "type": "park",
+            "distance_km": 0.12,
+            "direction": "SE",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 52.35
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Stanley Park Pavilion",
+            "type": "landmark",
+            "distance_km": 0.18,
+            "direction": "SE",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 54.0
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Malkin Bowl",
+            "type": "landmark",
+            "distance_km": 0.28,
+            "direction": "SE",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 50.55
+          }
+        },
+        {
+          "predicted": {
+            "name": "Vancouver Aquarium",
+            "type": "landmark",
+            "distance_km": 0.48,
+            "direction": "NE",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Vancouver Aquarium",
+            "latitude": 49.3004876,
+            "longitude": -123.1308774,
+            "walking_distance_km": 1.13,
+            "direction": "SE"
+          },
+          "validation": {
+            "candidate_score": 115.25,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.65,
+            "within_2km": true,
+            "direction_match": false
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Lost Lagoon",
+            "type": "park",
+            "distance_km": 0.75,
+            "direction": "S",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 47.05
+          }
+        },
+        {
+          "predicted": {
+            "name": "Brockton Point Totem Poles",
+            "type": "landmark",
+            "distance_km": 1.15,
+            "direction": "E",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Totem Poles",
+            "latitude": 49.2992464,
+            "longitude": -123.1208492,
+            "walking_distance_km": 1.76,
+            "direction": "E"
+          },
+          "validation": {
+            "candidate_score": 110.85,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.61,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "Second Beach",
+            "type": "park",
+            "distance_km": 1.35,
+            "direction": "SW",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Second Beach",
+            "latitude": 49.29569859999999,
+            "longitude": -123.1506838,
+            "walking_distance_km": 1.98,
+            "direction": "SW"
+          },
+          "validation": {
+            "candidate_score": 115.55,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.63,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Denman Street Shopping District",
+            "type": "retail",
+            "distance_km": 1.55,
+            "direction": "SE",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 35.94
+          }
+        },
+        {
+          "predicted": {
+            "name": "Prospect Point Lookout",
+            "type": "landmark",
+            "distance_km": 1.75,
+            "direction": "NW",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Prospect Point Lookout",
+            "latitude": 49.3135967,
+            "longitude": -123.1423234,
+            "walking_distance_km": 1.54,
+            "direction": "N"
+          },
+          "validation": {
+            "candidate_score": 121.85,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.21,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Coal Harbour Seawall",
+            "type": "transport",
+            "distance_km": 1.9,
+            "direction": "SE",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 35.2
+          }
+        }
+      ]
+    },
+    {
+      "country": "Canada",
+      "city": "Vancouver",
+      "address": "1790 Denman St, Vancouver, BC V6G 0A8, Canadá",
+      "latitude": 49.2864497,
+      "longitude": -123.1437665,
+      "validated_pois": [
+        {
+          "predicted": {
+            "name": "A-maze-ing Laughter",
+            "type": "landmark",
+            "distance_km": 0.05,
+            "direction": "SW",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "A-maze-ing Laughter",
+            "latitude": 49.28759909999999,
+            "longitude": -123.1419204,
+            "walking_distance_km": 0.2,
+            "direction": "NE"
+          },
+          "validation": {
+            "candidate_score": 122.75,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.15,
+            "within_2km": true,
+            "direction_match": false
+          }
+        }
+      ]
+    },
+    {
+      "country": "Canada",
+      "city": "Vancouver",
+      "address": "2049-2075 Comox St, Vancouver, BC, Canadá",
+      "latitude": 49.2912262,
+      "longitude": -123.1442994,
+      "validated_pois": [
+        {
+          "predicted": {
+            "name": "Stanley Park (Lost Lagoon)",
+            "type": "park",
+            "distance_km": 0.12,
+            "direction": "NW",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Stanley Park Ecology Nature House on Lost Lagoon",
+            "latitude": 49.2944073,
+            "longitude": -123.1379144,
+            "walking_distance_km": 0.65,
+            "direction": "NE"
+          },
+          "validation": {
+            "candidate_score": 117.05,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.53,
+            "within_2km": true,
+            "direction_match": false
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Denman Street Retail Corridor",
+            "type": "retail",
+            "distance_km": 0.38,
+            "direction": "E",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 34.29
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "English Bay Beach",
+            "type": "landmark",
+            "distance_km": 0.58,
+            "direction": "S",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 58.65
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Morton Park",
+            "type": "landmark",
+            "distance_km": 0.62,
+            "direction": "S",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 59.1
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "West End Community Centre",
+            "type": "landmark",
+            "distance_km": 0.72,
+            "direction": "SE",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 59.1
+          }
+        },
+        {
+          "predicted": {
+            "name": "King George Secondary School",
+            "type": "school",
+            "distance_km": 0.78,
+            "direction": "SE",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "King George Secondary School",
+            "latitude": 49.28984819999999,
+            "longitude": -123.1366154,
+            "walking_distance_km": 0.76,
+            "direction": "E"
+          },
+          "validation": {
+            "candidate_score": 124.7,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.02,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "Second Beach",
+            "type": "park",
+            "distance_km": 0.98,
+            "direction": "SW",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Second Beach",
+            "latitude": 49.29569859999999,
+            "longitude": -123.1506838,
+            "walking_distance_km": 0.89,
+            "direction": "NW"
+          },
+          "validation": {
+            "candidate_score": 123.65,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.09,
+            "within_2km": true,
+            "direction_match": false
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Coal Harbour Seawall",
+            "type": "landmark",
+            "distance_km": 1.15,
+            "direction": "NE",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 6.47
+          }
+        },
+        {
+          "predicted": {
+            "name": "Vancouver Aquarium",
+            "type": "landmark",
+            "distance_km": 1.48,
+            "direction": "NW",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Vancouver Aquarium",
+            "latitude": 49.3004876,
+            "longitude": -123.1308774,
+            "walking_distance_km": 1.66,
+            "direction": "NE"
+          },
+          "validation": {
+            "candidate_score": 122.3,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.18,
+            "within_2km": true,
+            "direction_match": false
+          }
+        },
+        {
+          "predicted": {
+            "name": "St. Paul's Hospital",
+            "type": "hospital",
+            "distance_km": 1.65,
+            "direction": "SE",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "St. Paul's Hospital",
+            "latitude": 49.2806322,
+            "longitude": -123.128009,
+            "walking_distance_km": 1.84,
+            "direction": "SE"
+          },
+          "validation": {
+            "candidate_score": 122.15,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.19,
+            "within_2km": true,
+            "direction_match": true
+          }
+        }
+      ]
+    },
+    {
+      "country": "Estados Unidos",
+      "city": "Aspen",
+      "address": "301-399 E Hopkins Ave, Aspen, CO 81611, EUA",
+      "latitude": 39.1899869,
+      "longitude": -106.8213156,
+      "validated_pois": [
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Wheeler Opera House",
+            "type": "landmark",
+            "distance_km": 0.12,
+            "direction": "NW",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 57.45
+          }
+        },
+        {
+          "predicted": {
+            "name": "Wagner Park",
+            "type": "park",
+            "distance_km": 0.18,
+            "direction": "SW",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Wagner Park",
+            "latitude": 39.187791,
+            "longitude": -106.8205471,
+            "walking_distance_km": 0.46,
+            "direction": "S"
+          },
+          "validation": {
+            "candidate_score": 120.8,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.28,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "Rubey Park Transit Center",
+            "type": "transport",
+            "distance_km": 0.22,
+            "direction": "S",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Rubey Park",
+            "latitude": 39.1875054,
+            "longitude": -106.819604,
+            "walking_distance_km": 0.55,
+            "direction": "SE"
+          },
+          "validation": {
+            "candidate_score": 115.05,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.33,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Aspen Art Museum",
+            "type": "landmark",
+            "distance_km": 0.28,
+            "direction": "E",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 54.6
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Aspen City Hall",
+            "type": "landmark",
+            "distance_km": 0.32,
+            "direction": "NE",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 55.8
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Hotel Jerome",
+            "type": "landmark",
+            "distance_km": 0.38,
+            "direction": "N",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 54.25
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Silver Queen Gondola",
+            "type": "transport",
+            "distance_km": 0.45,
+            "direction": "S",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 55.8
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "The Little Nell",
+            "type": "landmark",
+            "distance_km": 0.52,
+            "direction": "S",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 55.2
+          }
+        },
+        {
+          "predicted": {
+            "name": "Paepcke Park",
+            "type": "park",
+            "distance_km": 0.58,
+            "direction": "W",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Paepcke Park",
+            "latitude": 39.190812,
+            "longitude": -106.822447,
+            "walking_distance_km": 0.16,
+            "direction": "NW"
+          },
+          "validation": {
+            "candidate_score": 118.7,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.42,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "Rio Grande Park",
+            "type": "park",
+            "distance_km": 0.65,
+            "direction": "N",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Rio Grande Park and Rugby Field",
+            "latitude": 39.1919419,
+            "longitude": -106.8174032,
+            "walking_distance_km": 0.7,
+            "direction": "NE"
+          },
+          "validation": {
+            "candidate_score": 119.25,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.05,
+            "within_2km": true,
+            "direction_match": true
+          }
+        }
+      ]
+    },
+    {
+      "country": "Estados Unidos",
+      "city": "Aspen",
+      "address": "414-406 Lacet Ln, Aspen, CO 81611, EUA",
+      "latitude": 39.1854693,
+      "longitude": -106.8110411,
+      "validated_pois": [
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Maroon Creek Road",
+            "type": "transport",
+            "distance_km": 0.1,
+            "direction": "E",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 0.67
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Aspen Highlands Village",
+            "type": "retail",
+            "distance_km": 0.25,
+            "direction": "S",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 14.15
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Willow Creek Bistro",
+            "type": "restaurant",
+            "distance_km": 0.3,
+            "direction": "S",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 13.1
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Exhibition Lift",
+            "type": "transport",
+            "distance_km": 0.35,
+            "direction": "SW",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": -999
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Thunderbowl Lift",
+            "type": "transport",
+            "distance_km": 0.45,
+            "direction": "SE",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": -30.68
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Aspen Recreation Center",
+            "type": "landmark",
+            "distance_km": 0.85,
+            "direction": "NE",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 12.75
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Iselin Park",
+            "type": "park",
+            "distance_km": 0.9,
+            "direction": "NE",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": -999
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Aspen High School",
+            "type": "school",
+            "distance_km": 1.1,
+            "direction": "NE",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 47.0
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Aspen Middle School",
+            "type": "school",
+            "distance_km": 1.25,
+            "direction": "NE",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 51.95
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Maroon Creek Club",
+            "type": "landmark",
+            "distance_km": 1.6,
+            "direction": "NE",
+            "confidence": "medium"
+          },
+          "validation": {
+            "candidate_score": -29.1
+          }
+        }
+      ]
+    },
+    {
+      "country": "Estados Unidos",
+      "city": "Aspen",
+      "address": "470 Rio Grande Pl, Aspen, CO 81611, Estados Unidos",
+      "latitude": 39.192332,
+      "longitude": -106.8178957,
+      "validated_pois": [
+        {
+          "predicted": {
+            "name": "Rio Grande Park",
+            "type": "park",
+            "distance_km": 0.05,
+            "direction": "N",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Rio Grande Park and Rugby Field",
+            "latitude": 39.1919419,
+            "longitude": -106.8174032,
+            "walking_distance_km": 0.14,
+            "direction": "SE"
+          },
+          "validation": {
+            "candidate_score": 118.65,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.09,
+            "within_2km": true,
+            "direction_match": false
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Aspen Art Museum",
+            "type": "landmark",
+            "distance_km": 0.15,
+            "direction": "E",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 52.8
+          }
+        },
+        {
+          "predicted": {
+            "name": "John Denver Sanctuary",
+            "type": "park",
+            "distance_km": 0.25,
+            "direction": "NW",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "John Denver Sanctuary",
+            "latitude": 39.192331,
+            "longitude": -106.816678,
+            "walking_distance_km": 0.15,
+            "direction": "E"
+          },
+          "validation": {
+            "candidate_score": 123.5,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.1,
+            "within_2km": true,
+            "direction_match": false
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Pitkin County Library",
+            "type": "landmark",
+            "distance_km": 0.32,
+            "direction": "SW",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 58.05
+          }
+        },
+        {
+          "predicted": {
+            "name": "Matsuhisa Aspen",
+            "type": "restaurant",
+            "distance_km": 0.4,
+            "direction": "SW",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Matsuhisa",
+            "latitude": 39.1906522,
+            "longitude": -106.8202674,
+            "walking_distance_km": 0.29,
+            "direction": "SW"
+          },
+          "validation": {
+            "candidate_score": 118.35,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.11,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Wheeler Opera House",
+            "type": "landmark",
+            "distance_km": 0.48,
+            "direction": "SW",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 58.8
+          }
+        },
+        {
+          "predicted": {
+            "name": "Wagner Park",
+            "type": "park",
+            "distance_km": 0.55,
+            "direction": "SW",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Wagner Park",
+            "latitude": 39.187791,
+            "longitude": -106.8205471,
+            "walking_distance_km": 0.6,
+            "direction": "SW"
+          },
+          "validation": {
+            "candidate_score": 124.25,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.05,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "City Market",
+            "type": "retail",
+            "distance_km": 0.62,
+            "direction": "SE",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 58.2
+          }
+        },
+        {
+          "predicted": {
+            "name": "Rubey Park Transit Center",
+            "type": "transport",
+            "distance_km": 0.68,
+            "direction": "S",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Rubey Park",
+            "latitude": 39.1875054,
+            "longitude": -106.819604,
+            "walking_distance_km": 0.66,
+            "direction": "S"
+          },
+          "validation": {
+            "candidate_score": 119.7,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.02,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Silver Queen Gondola",
+            "type": "transport",
+            "distance_km": 0.82,
+            "direction": "S",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 58.8
+          }
+        }
+      ]
+    },
+    {
+      "country": "Estados Unidos",
+      "city": "Aspen",
+      "address": "586-590 N Mill St, Aspen, CO 81611, EUA",
+      "latitude": 39.1943052,
+      "longitude": -106.8196529,
+      "validated_pois": [
+        {
+          "predicted": {
+            "name": "Rio Grande Trail",
+            "type": "park",
+            "distance_km": 0.12,
+            "direction": "N",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Rio Grande Trail",
+            "latitude": 39.1951063,
+            "longitude": -106.8193596,
+            "walking_distance_km": 0.16,
+            "direction": "N"
+          },
+          "validation": {
+            "candidate_score": 124.4,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.04,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "John Denver Sanctuary",
+            "type": "park",
+            "distance_km": 0.35,
+            "direction": "NW",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "John Denver Sanctuary",
+            "latitude": 39.192331,
+            "longitude": -106.816678,
+            "walking_distance_km": 0.42,
+            "direction": "SE"
+          },
+          "validation": {
+            "candidate_score": 123.95,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.07,
+            "within_2km": true,
+            "direction_match": false
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Aspen Art Museum",
+            "type": "landmark",
+            "distance_km": 0.55,
+            "direction": "S",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 53.25
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Wheeler Opera House",
+            "type": "landmark",
+            "distance_km": 0.65,
+            "direction": "SW",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 59.55
+          }
+        },
+        {
+          "predicted": {
+            "name": "Wagner Park",
+            "type": "park",
+            "distance_km": 0.72,
+            "direction": "SW",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Wagner Park",
+            "latitude": 39.187791,
+            "longitude": -106.8205471,
+            "walking_distance_km": 0.88,
+            "direction": "S"
+          },
+          "validation": {
+            "candidate_score": 122.6,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.16,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "City Market",
+            "type": "retail",
+            "distance_km": 0.78,
+            "direction": "SE",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 55.35
+          }
+        },
+        {
+          "predicted": {
+            "name": "Rubey Park Transit Center",
+            "type": "transport",
+            "distance_km": 0.85,
+            "direction": "S",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Rubey Park",
+            "latitude": 39.18767,
+            "longitude": -106.81925,
+            "walking_distance_km": 0.9,
+            "direction": "S"
+          },
+          "validation": {
+            "candidate_score": 119.25,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.05,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Silver Queen Gondola",
+            "type": "transport",
+            "distance_km": 0.95,
+            "direction": "S",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 57.9
+          }
+        },
+        {
+          "predicted": {
+            "name": "Aspen Center for Environmental Studies",
+            "type": "park",
+            "distance_km": 1.1,
+            "direction": "W",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Aspen Center for Environmental Studies",
+            "latitude": 39.1949808,
+            "longitude": -106.8210508,
+            "walking_distance_km": 0.16,
+            "direction": "NW"
+          },
+          "validation": {
+            "candidate_score": 110.9,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.94,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "Herron Park",
+            "type": "park",
+            "distance_km": 1.2,
+            "direction": "E",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Herron Park",
+            "latitude": 39.1897431,
+            "longitude": -106.8138601,
+            "walking_distance_km": 0.85,
+            "direction": "SE"
+          },
+          "validation": {
+            "candidate_score": 119.75,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.35,
+            "within_2km": true,
+            "direction_match": true
+          }
+        }
+      ]
+    },
+    {
+      "country": "Estados Unidos",
+      "city": "Aspen",
+      "address": "898-800 Summit St, Aspen, CO 81611, EUA",
+      "latitude": 39.1853375,
+      "longitude": -106.8218775,
+      "validated_pois": [
+        {
+          "predicted": {
+            "name": "Glory Hole Park",
+            "type": "park",
+            "distance_km": 0.28,
+            "direction": "N",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Glory Hole Park",
+            "latitude": 39.1857356,
+            "longitude": -106.815921,
+            "walking_distance_km": 0.8,
+            "direction": "E"
+          },
+          "validation": {
+            "candidate_score": 117.2,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.52,
+            "within_2km": true,
+            "direction_match": false
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Silver Queen Gondola",
+            "type": "transport",
+            "distance_km": 0.48,
+            "direction": "NW",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 59.25
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "The Little Nell",
+            "type": "landmark",
+            "distance_km": 0.52,
+            "direction": "NW",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 58.2
+          }
+        },
+        {
+          "predicted": {
+            "name": "Gorsuch Aspen",
+            "type": "retail",
+            "distance_km": 0.55,
+            "direction": "NW",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Gorsuch",
+            "latitude": 39.1864007,
+            "longitude": -106.8182416,
+            "walking_distance_km": 0.43,
+            "direction": "E"
+          },
+          "validation": {
+            "candidate_score": 118.2,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.12,
+            "within_2km": true,
+            "direction_match": false
+          }
+        },
+        {
+          "predicted": {
+            "name": "Wagner Park",
+            "type": "park",
+            "distance_km": 0.68,
+            "direction": "NW",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Wagner Park",
+            "latitude": 39.187791,
+            "longitude": -106.8205471,
+            "walking_distance_km": 0.33,
+            "direction": "NE"
+          },
+          "validation": {
+            "candidate_score": 119.75,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.35,
+            "within_2km": true,
+            "direction_match": false
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Aspen Art Museum",
+            "type": "landmark",
+            "distance_km": 0.72,
+            "direction": "N",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 59.85
+          }
+        },
+        {
+          "predicted": {
+            "name": "Rubey Park Transit Center",
+            "type": "transport",
+            "distance_km": 0.78,
+            "direction": "NW",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Rubey Park",
+            "latitude": 39.1875054,
+            "longitude": -106.819604,
+            "walking_distance_km": 0.37,
+            "direction": "NE"
+          },
+          "validation": {
+            "candidate_score": 113.85,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.41,
+            "within_2km": true,
+            "direction_match": false
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Wheeler Opera House",
+            "type": "landmark",
+            "distance_km": 0.88,
+            "direction": "NW",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 54.45
+          }
+        },
+        {
+          "predicted": {
+            "name": "Matsuhisa Aspen",
+            "type": "restaurant",
+            "distance_km": 1.05,
+            "direction": "NW",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Matsuhisa",
+            "latitude": 39.1906522,
+            "longitude": -106.8202674,
+            "walking_distance_km": 0.65,
+            "direction": "N"
+          },
+          "validation": {
+            "candidate_score": 114.0,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.4,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "Paepcke Park",
+            "type": "park",
+            "distance_km": 1.15,
+            "direction": "NW",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Paepcke Park",
+            "latitude": 39.190812,
+            "longitude": -106.822447,
+            "walking_distance_km": 0.71,
+            "direction": "N"
+          },
+          "validation": {
+            "candidate_score": 118.4,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.44,
+            "within_2km": true,
+            "direction_match": true
+          }
+        }
+      ]
+    },
+    {
+      "country": "Brasil",
+      "city": "São Paulo",
+      "address": "R. Vinte e Cinco de Março, 975-959 - Centro Histórico de São Paulo, São Paulo - SP, 01021-200",
+      "latitude": -23.5412709,
+      "longitude": -46.6327688,
+      "validated_pois": [
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Mercado Municipal de São Paulo",
+            "type": "retail",
+            "distance_km": 0.32,
+            "direction": "NE",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 52.5
+          }
+        },
+        {
+          "predicted": {
+            "name": "Estação São Bento",
+            "type": "transport",
+            "distance_km": 0.45,
+            "direction": "W",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "São Bento",
+            "latitude": -23.54438,
+            "longitude": -46.63413,
+            "walking_distance_km": 0.38,
+            "direction": "S"
+          },
+          "validation": {
+            "candidate_score": 118.95,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.07,
+            "within_2km": true,
+            "direction_match": false
+          }
+        },
+        {
+          "predicted": {
+            "name": "Mosteiro de São Bento",
+            "type": "religious",
+            "distance_km": 0.52,
+            "direction": "W",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Mosteiro de São Bento",
+            "latitude": -23.5435486,
+            "longitude": -46.6339987,
+            "walking_distance_km": 0.29,
+            "direction": "SW"
+          },
+          "validation": {
+            "candidate_score": 121.55,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.23,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "Farol Santander",
+            "type": "landmark",
+            "distance_km": 0.58,
+            "direction": "SW",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Farol Santander",
+            "latitude": -23.545691,
+            "longitude": -46.6340306,
+            "walking_distance_km": 0.55,
+            "direction": "S"
+          },
+          "validation": {
+            "candidate_score": 124.55,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.03,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "Parque Dom Pedro II",
+            "type": "park",
+            "distance_km": 0.65,
+            "direction": "SE",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Parque Dom Pedro II",
+            "latitude": -23.54604,
+            "longitude": -46.627653,
+            "walking_distance_km": 1.09,
+            "direction": "SE"
+          },
+          "validation": {
+            "candidate_score": 118.4,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.44,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Pátio do Colégio",
+            "type": "landmark",
+            "distance_km": 0.75,
+            "direction": "S",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": -999
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Catedral da Sé",
+            "type": "religious",
+            "distance_km": 0.92,
+            "direction": "S",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": -999
+          }
+        },
+        {
+          "predicted": {
+            "name": "Estação Luz",
+            "type": "transport",
+            "distance_km": 1.15,
+            "direction": "NW",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "R.Mauá / Estação da Luz",
+            "latitude": -23.535429,
+            "longitude": -46.635206,
+            "walking_distance_km": 0.94,
+            "direction": "N"
+          },
+          "validation": {
+            "candidate_score": 121.85,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.21,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "Pinacoteca de São Paulo",
+            "type": "landmark",
+            "distance_km": 1.28,
+            "direction": "NW",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Pinacoteca de São Paulo",
+            "latitude": -23.5343612,
+            "longitude": -46.633676,
+            "walking_distance_km": 1.03,
+            "direction": "N"
+          },
+          "validation": {
+            "candidate_score": 121.25,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.25,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "Rua Santa Ifigênia",
+            "type": "retail",
+            "distance_km": 1.45,
+            "direction": "W",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Lojas Santa Ifigênia",
+            "latitude": -23.5431565,
+            "longitude": -46.6348211,
+            "walking_distance_km": 0.84,
+            "direction": "SW"
+          },
+          "validation": {
+            "candidate_score": 81.47,
+            "name_similarity": 87.5,
+            "name_match": true,
+            "distance_difference_km": 0.61,
+            "within_2km": true,
+            "direction_match": true
+          }
+        }
+      ]
+    },
+    {
+      "country": "Brasil",
+      "city": "São Paulo",
+      "address": "R. César Augusto, 76 - Vila Romana, São Paulo - SP, 05044-020",
+      "latitude": -23.527676,
+      "longitude": -46.6950329,
+      "validated_pois": [
+        {
+          "predicted": {
+            "name": "Praça Cornélia",
+            "type": "park",
+            "distance_km": 0.55,
+            "direction": "NW",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Praça Cornélia",
+            "latitude": -23.5252162,
+            "longitude": -46.6903112,
+            "walking_distance_km": 0.75,
+            "direction": "NE"
+          },
+          "validation": {
+            "candidate_score": 122.0,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.2,
+            "within_2km": true,
+            "direction_match": false
+          }
+        },
+        {
+          "predicted": {
+            "name": "Hospital Metropolitano - Unidade Lapa",
+            "type": "hospital",
+            "distance_km": 0.75,
+            "direction": "NW",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Hospital e Maternidade Metropolitano - Clínica Médica",
+            "latitude": -23.5303232,
+            "longitude": -46.697756,
+            "walking_distance_km": 0.56,
+            "direction": "SW"
+          },
+          "validation": {
+            "candidate_score": 64.09,
+            "name_similarity": 83.87096774193549,
+            "name_match": false,
+            "distance_difference_km": 0.19,
+            "within_2km": true,
+            "direction_match": false
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Teatro Cacilda Becker",
+            "type": "landmark",
+            "distance_km": 0.85,
+            "direction": "SW",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 49.5
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "SESC Pompéia",
+            "type": "landmark",
+            "distance_km": 0.95,
+            "direction": "E",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 49.35
+          }
+        },
+        {
+          "predicted": {
+            "name": "Estação Lapa (CPTM)",
+            "type": "transport",
+            "distance_km": 1.05,
+            "direction": "NW",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Lapa",
+            "latitude": -23.520327,
+            "longitude": -46.69895409999999,
+            "walking_distance_km": 1.15,
+            "direction": "NW"
+          },
+          "validation": {
+            "candidate_score": 118.5,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.1,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "Estação Água Branca",
+            "type": "transport",
+            "distance_km": 1.15,
+            "direction": "NE",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Água Branca",
+            "latitude": -23.5213685,
+            "longitude": -46.6884536,
+            "walking_distance_km": 1.61,
+            "direction": "NE"
+          },
+          "validation": {
+            "candidate_score": 113.1,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.46,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "Shopping Bourbon",
+            "type": "retail",
+            "distance_km": 1.25,
+            "direction": "E",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Bourbon Shopping São Paulo",
+            "latitude": -23.5261527,
+            "longitude": -46.6813463,
+            "walking_distance_km": 1.7,
+            "direction": "E"
+          },
+          "validation": {
+            "candidate_score": 118.25,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.45,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Mercado Municipal da Lapa",
+            "type": "retail",
+            "distance_km": 1.35,
+            "direction": "NW",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 58.5
+          }
+        },
+        {
+          "predicted": {
+            "name": "Allianz Parque",
+            "type": "landmark",
+            "distance_km": 1.45,
+            "direction": "E",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Allianz Parque",
+            "latitude": -23.5276207,
+            "longitude": -46.6784662,
+            "walking_distance_km": 2.18,
+            "direction": "E"
+          },
+          "validation": {
+            "candidate_score": 114.05,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.73,
+            "within_2km": false,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "West Plaza Shopping",
+            "type": "retail",
+            "distance_km": 1.75,
+            "direction": "E",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Shopping West Plaza",
+            "latitude": -23.5271065,
+            "longitude": -46.6744199,
+            "walking_distance_km": 2.55,
+            "direction": "E"
+          },
+          "validation": {
+            "candidate_score": 83.0,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.8,
+            "within_2km": false,
+            "direction_match": true
+          }
+        }
+      ]
+    },
+    {
+      "country": "Brasil",
+      "city": "São Paulo",
+      "address": "Av. Pedro Álvares Cabral, s/n - Vila Mariana, São Paulo - SP, 04094-050",
+      "latitude": -23.5864867,
+      "longitude": -46.6581154,
+      "validated_pois": [
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Obelisco de São Paulo",
+            "type": "landmark",
+            "distance_km": 0.05,
+            "direction": "N",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": -17.89
+          }
+        }
+      ]
+    },
+    {
+      "country": "Brasil",
+      "city": "São Paulo",
+      "address": "Marginal Pinheiros, 359 - Jardim Morumbi, São Paulo - SP",
+      "latitude": -23.6241759,
+      "longitude": -46.7116402,
+      "validated_pois": [
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Ponte Morumbi",
+            "type": "landmark",
+            "distance_km": 0.45,
+            "direction": "E",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": -21.15
+          }
+        }
+      ]
+    },
+    {
+      "country": "Brasil",
+      "city": "São Paulo",
+      "address": "Av. Prof. Lineu Prestes - Butantã, São Paulo - SP, 05508-000",
+      "latitude": -23.5658132,
+      "longitude": -46.7269206,
+      "validated_pois": [
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Faculdade de Odontologia da USP",
+            "type": "school",
+            "distance_km": 0.12,
+            "direction": "NW",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": -44.54
+          }
+        },
+        {
+          "predicted": {
+            "name": "Hospital Universitário da USP",
+            "type": "hospital",
+            "distance_km": 0.38,
+            "direction": "NW",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Hospital Universitário da Universidade de São Paulo (HU/USP)",
+            "latitude": -23.5649363,
+            "longitude": -46.7405751,
+            "walking_distance_km": 1.85,
+            "direction": "W"
+          },
+          "validation": {
+            "candidate_score": 102.95,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 1.47,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "IPEN - Instituto de Pesquisas Energéticas e Nucleares",
+            "type": "industrial",
+            "distance_km": 0.52,
+            "direction": "SE",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 45.6
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Faculdade de Ciências Farmacêuticas da USP",
+            "type": "school",
+            "distance_km": 0.68,
+            "direction": "NW",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": -34.79
+          }
+        },
+        {
+          "predicted": {
+            "name": "Restaurante Central da USP",
+            "type": "restaurant",
+            "distance_km": 0.78,
+            "direction": "NE",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Bandejão Central da USP",
+            "latitude": -23.5599738,
+            "longitude": -46.7210652,
+            "walking_distance_km": 1.4,
+            "direction": "NE"
+          },
+          "validation": {
+            "candidate_score": 115.7,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.62,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Livraria da USP - Campus Capital",
+            "type": "retail",
+            "distance_km": 0.92,
+            "direction": "NE",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 37.53
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Praça do Relógio",
+            "type": "landmark",
+            "distance_km": 0.98,
+            "direction": "NE",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": -999
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "CEPEUSP - Centro de Práticas Esportivas da USP",
+            "type": "park",
+            "distance_km": 1.25,
+            "direction": "NE",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 55.8
+          }
+        },
+        {
+          "predicted": {
+            "name": "Instituto Butantan",
+            "type": "landmark",
+            "distance_km": 1.48,
+            "direction": "E",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Instituto Butantan",
+            "latitude": -23.5644621,
+            "longitude": -46.7155372,
+            "walking_distance_km": 1.65,
+            "direction": "E"
+          },
+          "validation": {
+            "candidate_score": 122.45,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.17,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "Estação Butantã",
+            "type": "transport",
+            "distance_km": 1.92,
+            "direction": "E",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Butantã",
+            "latitude": -23.57182,
+            "longitude": -46.70812,
+            "walking_distance_km": 2.99,
+            "direction": "E"
+          },
+          "validation": {
+            "candidate_score": 73.95,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 1.07,
+            "within_2km": false,
+            "direction_match": true
+          }
+        }
+      ]
+    },
+    {
+      "country": "Brasil",
+      "city": "Campina Grande",
+      "address": "R. Venâncio Neiva, 85b - Centro, Campina Grande - PB, 58400-090",
+      "latitude": -7.2187418,
+      "longitude": -35.8854092,
+      "validated_pois": [
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Praça da Bandeira",
+            "type": "park",
+            "distance_km": 0.12,
+            "direction": "NW",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": -999
+          }
+        }
+      ]
+    },
+    {
+      "country": "Brasil",
+      "city": "Campina Grande",
+      "address": "R. Absalão Emerenciano, 231-15 - Cruzeiro, Campina Grande - PB, 58415-580",
+      "latitude": -7.2509104,
+      "longitude": -35.9066501,
+      "validated_pois": [
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Praça do Cruzeiro",
+            "type": "park",
+            "distance_km": 0.35,
+            "direction": "NW",
+            "confidence": "medium"
+          },
+          "validation": {
+            "candidate_score": -10.79
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Igreja de Nossa Senhora do Perpétuo Socorro",
+            "type": "religious",
+            "distance_km": 0.52,
+            "direction": "NW",
+            "confidence": "medium"
+          },
+          "validation": {
+            "candidate_score": 42.35
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Assaí Atacadista",
+            "type": "retail",
+            "distance_km": 0.72,
+            "direction": "NE",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": -11.9
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Escola Estadual Raul Córdula",
+            "type": "school",
+            "distance_km": 0.85,
+            "direction": "W",
+            "confidence": "medium"
+          },
+          "validation": {
+            "candidate_score": 48.58
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Shopping Partage Campina Grande",
+            "type": "retail",
+            "distance_km": 0.98,
+            "direction": "NE",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 30.05
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Terminal Rodoviário Argemiro de Figueiredo",
+            "type": "transport",
+            "distance_km": 1.15,
+            "direction": "NE",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 39.65
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Hospital de Emergência e Trauma Dom Luiz Gonzaga Fernandes",
+            "type": "hospital",
+            "distance_km": 1.38,
+            "direction": "SE",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 56.6
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Unifacisa Centro Universitário",
+            "type": "school",
+            "distance_km": 1.58,
+            "direction": "SE",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": -999
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Parque da Criança",
+            "type": "park",
+            "distance_km": 1.78,
+            "direction": "NE",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": -999
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Açude Velho",
+            "type": "landmark",
+            "distance_km": 1.95,
+            "direction": "N",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": -999
+          }
+        }
+      ]
+    },
+    {
+      "country": "Brasil",
+      "city": "Campina Grande",
+      "address": "Av. Dr. Elpídio de Almeida, 215 - Catolé, Campina Grande - PB, 58410-725",
+      "latitude": -7.226974,
+      "longitude": -35.878447,
+      "validated_pois": [
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Assaí Atacadista",
+            "type": "retail",
+            "distance_km": 0.32,
+            "direction": "E",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 31.75
+          }
+        },
+        {
+          "predicted": {
+            "name": "Partage Shopping Campina Grande",
+            "type": "retail",
+            "distance_km": 0.45,
+            "direction": "SE",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Partage Shopping Campina Grande",
+            "latitude": -7.2348572,
+            "longitude": -35.8695855,
+            "walking_distance_km": 1.64,
+            "direction": "SE"
+          },
+          "validation": {
+            "candidate_score": 107.15,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 1.19,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "Colégio Motiva Catolé",
+            "type": "school",
+            "distance_km": 0.55,
+            "direction": "S",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Colégio Motiva Centro",
+            "latitude": -7.221284099999999,
+            "longitude": -35.8843701,
+            "walking_distance_km": 1.52,
+            "direction": "NW"
+          },
+          "validation": {
+            "candidate_score": 85.45,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.97,
+            "within_2km": true,
+            "direction_match": false
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Terminal Rodoviário de Campina Grande",
+            "type": "transport",
+            "distance_km": 0.65,
+            "direction": "SE",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 51.3
+          }
+        },
+        {
+          "predicted": {
+            "name": "Museu de Arte Contemporânea - MAC",
+            "type": "landmark",
+            "distance_km": 0.8,
+            "direction": "NW",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "MAC - Museu de Arte e Ciência",
+            "latitude": -7.231809,
+            "longitude": -35.874656,
+            "walking_distance_km": 0.85,
+            "direction": "SE"
+          },
+          "validation": {
+            "candidate_score": 71.84,
+            "name_similarity": 79.3103448275862,
+            "name_match": false,
+            "distance_difference_km": 0.05,
+            "within_2km": true,
+            "direction_match": false
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Parque da Criança",
+            "type": "park",
+            "distance_km": 0.9,
+            "direction": "NW",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": -999
+          }
+        },
+        {
+          "predicted": {
+            "name": "Restaurante Tábua de Carne",
+            "type": "restaurant",
+            "distance_km": 1.05,
+            "direction": "NW",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Restaurante Tábua de Carne",
+            "latitude": -7.207476199999999,
+            "longitude": -35.8750805,
+            "walking_distance_km": 2.59,
+            "direction": "N"
+          },
+          "validation": {
+            "candidate_score": 71.9,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 1.54,
+            "within_2km": false,
+            "direction_match": true
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Açude Velho",
+            "type": "landmark",
+            "distance_km": 1.2,
+            "direction": "NW",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": -999
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Unifacisa Campus Itararé",
+            "type": "school",
+            "distance_km": 1.4,
+            "direction": "S",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": -999
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Hospital de Emergência e Trauma de Campina Grande",
+            "type": "hospital",
+            "distance_km": 1.65,
+            "direction": "SW",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 47.34
+          }
+        }
+      ]
+    },
+    {
+      "country": "Brasil",
+      "city": "Campina Grande",
+      "address": "R. Dr. Severino Cruz, 491-301 - Centro, Campina Grande - PB",
+      "latitude": -7.2250527,
+      "longitude": -35.8816382,
+      "validated_pois": [
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Açude Velho",
+            "type": "landmark",
+            "distance_km": 0.05,
+            "direction": "E",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": -999
+          }
+        },
+        {
+          "predicted": {
+            "name": "Museu de Arte Popular da Paraíba",
+            "type": "landmark",
+            "distance_km": 0.28,
+            "direction": "SE",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Museu de Arte Popular da Paraíba",
+            "latitude": -7.224160599999999,
+            "longitude": -35.8788772,
+            "walking_distance_km": 0.32,
+            "direction": "E"
+          },
+          "validation": {
+            "candidate_score": 124.4,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.04,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Monumento aos Pioneiros",
+            "type": "landmark",
+            "distance_km": 0.38,
+            "direction": "NE",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": -999
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Parque da Criança",
+            "type": "park",
+            "distance_km": 0.72,
+            "direction": "SE",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": -999
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Teatro Municipal Severino Cabral",
+            "type": "landmark",
+            "distance_km": 0.85,
+            "direction": "NW",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 56.4
+          }
+        },
+        {
+          "predicted": {
+            "name": "Catedral de Nossa Senhora da Conceição",
+            "type": "religious",
+            "distance_km": 0.95,
+            "direction": "NW",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Cripta da Catedral de Nossa Senhora da Conceição",
+            "latitude": -7.2191578,
+            "longitude": -35.8812466,
+            "walking_distance_km": 0.81,
+            "direction": "N"
+          },
+          "validation": {
+            "candidate_score": 117.9,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.14,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Terminal de Integração de Passageiros",
+            "type": "transport",
+            "distance_km": 1.1,
+            "direction": "NW",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 48.19
+          }
+        },
+        {
+          "predicted": {
+            "name": "Hospital Pedro I",
+            "type": "hospital",
+            "distance_km": 1.2,
+            "direction": "SW",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Hospital Pedro I",
+            "latitude": -7.228553199999999,
+            "longitude": -35.8930045,
+            "walking_distance_km": 1.58,
+            "direction": "W"
+          },
+          "validation": {
+            "candidate_score": 119.3,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.38,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "Shopping Edson Diniz",
+            "type": "retail",
+            "distance_km": 1.35,
+            "direction": "NW",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Shopping Centro Edson Diniz",
+            "latitude": -7.219395800000001,
+            "longitude": -35.8843265,
+            "walking_distance_km": 0.85,
+            "direction": "NW"
+          },
+          "validation": {
+            "candidate_score": 117.5,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.5,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Feira Central de Campina Grande",
+            "type": "retail",
+            "distance_km": 1.85,
+            "direction": "NW",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 44.2
+          }
+        }
+      ]
+    },
+    {
+      "country": "Brasil",
+      "city": "Campina Grande",
+      "address": "R. Leniel Sucupira M Deajmeira, 288-394 - Monte Santo, Campina Grande - PB",
+      "latitude": -7.2132595,
+      "longitude": -35.9069415,
+      "validated_pois": [
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Hospital Universitário Alcides Carneiro (HUAC)",
+            "type": "hospital",
+            "distance_km": 0.58,
+            "direction": "W",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 58.25
+          }
+        }
+      ]
+    },
+    {
+      "country": "Brasil",
+      "city": "Tibau do Sul",
+      "address": "Av. Baía dos Golfinhos, 802-814, Tibau do Sul - RN, 59178-000",
+      "latitude": -6.2290625,
+      "longitude": -35.0501158,
+      "validated_pois": [
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Praça do Pescador",
+            "type": "landmark",
+            "distance_km": 0.12,
+            "direction": "NE",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 58.8
+          }
+        }
+      ]
+    },
+    {
+      "country": "Brasil",
+      "city": "Tibau do Sul",
+      "address": "Tv. Harmonia 02, Pipa (Tibau do Sul) - RN, 59178-000",
+      "latitude": -6.2431176,
+      "longitude": -35.0506577,
+      "validated_pois": [
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Avenida Baía dos Golfinhos",
+            "type": "landmark",
+            "distance_km": 0.05,
+            "direction": "E",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": -999
+          }
+        }
+      ]
+    },
+    {
+      "country": "Brasil",
+      "city": "Tibau do Sul",
+      "address": "PWWP+GP, Tibau do Sul - RN, 59178-000",
+      "latitude": -6.2537015,
+      "longitude": -35.0657486,
+      "validated_pois": [
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Chapadão de Pipa",
+            "type": "landmark",
+            "distance_km": 0.35,
+            "direction": "SE",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": -77.32
+          }
+        }
+      ]
+    },
+    {
+      "country": "Brasil",
+      "city": "Tibau do Sul",
+      "address": "Largo São Sebastião, 35-37, Tibau do Sul - RN, 59178-000",
+      "latitude": -6.2279973,
+      "longitude": -35.046775,
+      "validated_pois": [
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Largo de São Sebastião",
+            "type": "landmark",
+            "distance_km": 0.01,
+            "direction": "N",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": -999
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Avenida Baía dos Golfinhos",
+            "type": "retail",
+            "distance_km": 0.04,
+            "direction": "NW",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 13.54
+          }
+        },
+        {
+          "predicted": {
+            "name": "Praia do Centro",
+            "type": "landmark",
+            "distance_km": 0.18,
+            "direction": "NE",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Praia do Centro",
+            "latitude": -6.227351,
+            "longitude": -35.0458717,
+            "walking_distance_km": 0.13,
+            "direction": "NE"
+          },
+          "validation": {
+            "candidate_score": 124.25,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.05,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Igreja de Nossa Senhora da Guia",
+            "type": "religious",
+            "distance_km": 0.25,
+            "direction": "N",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": -166.54
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Terminal Rodoviário de Pipa",
+            "type": "transport",
+            "distance_km": 0.55,
+            "direction": "SW",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 18.06
+          }
+        },
+        {
+          "predicted": {
+            "name": "Posto de Saúde de Pipa",
+            "type": "hospital",
+            "distance_km": 0.7,
+            "direction": "W",
+            "confidence": "medium"
+          },
+          "google": {
+            "name": "Drogaria+Saúde Pipa",
+            "latitude": -6.2341726,
+            "longitude": -35.0449226,
+            "walking_distance_km": 0.79,
+            "direction": "S"
+          },
+          "validation": {
+            "candidate_score": 123.65,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.09,
+            "within_2km": true,
+            "direction_match": false
+          }
+        },
+        {
+          "predicted": {
+            "name": "Praia do Amor",
+            "type": "landmark",
+            "distance_km": 0.95,
+            "direction": "SE",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Praia do Amor",
+            "latitude": -6.2339243,
+            "longitude": -35.0401492,
+            "walking_distance_km": 1.25,
+            "direction": "SE"
+          },
+          "validation": {
+            "candidate_score": 120.5,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.3,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "Chapadão de Pipa",
+            "type": "landmark",
+            "distance_km": 1.4,
+            "direction": "S",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Pipa Chapadao",
+            "latitude": -6.236496,
+            "longitude": -35.0379504,
+            "walking_distance_km": 1.8,
+            "direction": "SE"
+          },
+          "validation": {
+            "candidate_score": 60.38,
+            "name_similarity": 82.75862068965517,
+            "name_match": false,
+            "distance_difference_km": 0.4,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "Santuário Ecológico de Pipa",
+            "type": "park",
+            "distance_km": 1.75,
+            "direction": "NW",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Santuário Ecológico de Pipa/RN",
+            "latitude": -6.2263379,
+            "longitude": -35.0655919,
+            "walking_distance_km": 2.29,
+            "direction": "W"
+          },
+          "validation": {
+            "candidate_score": 111.9,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.54,
+            "within_2km": false,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "Praia do Madeiro",
+            "type": "landmark",
+            "distance_km": 1.98,
+            "direction": "NW",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Praia do Madeiro",
+            "latitude": -6.2223972,
+            "longitude": -35.0708927,
+            "walking_distance_km": 3.3,
+            "direction": "W"
+          },
+          "validation": {
+            "candidate_score": 75.2,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 1.32,
+            "within_2km": false,
+            "direction_match": true
+          }
+        }
+      ]
+    },
+    {
+      "country": "Brasil",
+      "city": "Tibau do Sul",
+      "address": "R. das Acácias, 31, Tibau do Sul - RN, 59178-000",
+      "latitude": -6.2325947,
+      "longitude": -35.0425869,
+      "validated_pois": [
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Avenida Baía dos Golfinhos",
+            "type": "retail",
+            "distance_km": 0.15,
+            "direction": "N",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": -10.73
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Praça do Pescador",
+            "type": "landmark",
+            "distance_km": 0.35,
+            "direction": "NE",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 51.15
+          }
+        },
+        {
+          "predicted": {
+            "name": "Praia da Pipa",
+            "type": "landmark",
+            "distance_km": 0.45,
+            "direction": "NE",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Praia do Porto - Praia da Pipa",
+            "latitude": -6.2279683,
+            "longitude": -35.0495226,
+            "walking_distance_km": 1.19,
+            "direction": "NW"
+          },
+          "validation": {
+            "candidate_score": 108.9,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.74,
+            "within_2km": true,
+            "direction_match": false
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Terminal Rodoviário de Pipa",
+            "type": "transport",
+            "distance_km": 0.55,
+            "direction": "NW",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 21.06
+          }
+        },
+        {
+          "predicted": {
+            "name": "Posto de Saúde de Pipa",
+            "type": "hospital",
+            "distance_km": 0.6,
+            "direction": "W",
+            "confidence": "medium"
+          },
+          "google": {
+            "name": "Unidade Básica de Saúde de Pipa 1 - José Manoel da Costa",
+            "latitude": -6.228102100000001,
+            "longitude": -35.0534521,
+            "walking_distance_km": 1.52,
+            "direction": "NW"
+          },
+          "validation": {
+            "candidate_score": 111.2,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.92,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Escola Municipal de Pipa",
+            "type": "school",
+            "distance_km": 0.7,
+            "direction": "W",
+            "confidence": "medium"
+          },
+          "validation": {
+            "candidate_score": -999
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Praia do Amor",
+            "type": "landmark",
+            "distance_km": 0.9,
+            "direction": "SE",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 43.6
+          }
+        },
+        {
+          "predicted": {
+            "name": "Chapadão de Pipa",
+            "type": "landmark",
+            "distance_km": 1.3,
+            "direction": "SE",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Pipa Chapadao",
+            "latitude": -6.236496,
+            "longitude": -35.0379504,
+            "walking_distance_km": 1.28,
+            "direction": "SE"
+          },
+          "validation": {
+            "candidate_score": 66.08,
+            "name_similarity": 82.75862068965517,
+            "name_match": false,
+            "distance_difference_km": 0.02,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "Santuário Ecológico de Pipa",
+            "type": "park",
+            "distance_km": 1.5,
+            "direction": "NW",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Santuário Ecológico de Pipa/RN",
+            "latitude": -6.2263379,
+            "longitude": -35.0655919,
+            "walking_distance_km": 2.96,
+            "direction": "W"
+          },
+          "validation": {
+            "candidate_score": 68.1,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 1.46,
+            "within_2km": false,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "Praia do Madeiro",
+            "type": "landmark",
+            "distance_km": 1.9,
+            "direction": "NW",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Praia do Madeiro",
+            "latitude": -6.2223972,
+            "longitude": -35.0708927,
+            "walking_distance_km": 3.96,
+            "direction": "W"
+          },
+          "validation": {
+            "candidate_score": 64.1,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 2.06,
+            "within_2km": false,
+            "direction_match": true
+          }
+        }
+      ]
+    },
+    {
+      "country": "Inglaterra",
+      "city": "Londres",
+      "address": "3-15 Whitcomb St., London, Reino Unido",
+      "latitude": 51.508712,
+      "longitude": -0.130183,
+      "validated_pois": [
+        {
+          "predicted": {
+            "name": "National Gallery",
+            "type": "landmark",
+            "distance_km": 0.15,
+            "direction": "SE",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "The National Gallery",
+            "latitude": 51.50892899999999,
+            "longitude": -0.128299,
+            "walking_distance_km": 0.18,
+            "direction": "E"
+          },
+          "validation": {
+            "candidate_score": 119.55,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.03,
+            "within_2km": true,
+            "direction_match": true
+          }
+        }
+      ]
+    },
+    {
+      "country": "Inglaterra",
+      "city": "Londres",
+      "address": "50-2 Collingbourne Rd, London, Reino Unido",
+      "latitude": 51.509025,
+      "longitude": -0.23513,
+      "validated_pois": [
+        {
+          "predicted": {
+            "name": "Loftus Road Stadium",
+            "type": "landmark",
+            "distance_km": 0.32,
+            "direction": "S",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "MATRADE Loftus Road Stadium",
+            "latitude": 51.5092781,
+            "longitude": -0.2321093,
+            "walking_distance_km": 0.37,
+            "direction": "E"
+          },
+          "validation": {
+            "candidate_score": 119.25,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.05,
+            "within_2km": true,
+            "direction_match": false
+          }
+        },
+        {
+          "predicted": {
+            "name": "Phoenix Academy",
+            "type": "school",
+            "distance_km": 0.48,
+            "direction": "W",
+            "confidence": "medium"
+          },
+          "google": {
+            "name": "Phoenix Academy",
+            "latitude": 51.5128847,
+            "longitude": -0.2369576,
+            "walking_distance_km": 0.63,
+            "direction": "N"
+          },
+          "validation": {
+            "candidate_score": 122.75,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.15,
+            "within_2km": true,
+            "direction_match": false
+          }
+        },
+        {
+          "predicted": {
+            "name": "Wormholt Park",
+            "type": "park",
+            "distance_km": 0.55,
+            "direction": "NW",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Wormholt Park",
+            "latitude": 51.5106992,
+            "longitude": -0.2382724,
+            "walking_distance_km": 0.4,
+            "direction": "NW"
+          },
+          "validation": {
+            "candidate_score": 122.75,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.15,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "Shepherd's Bush Market",
+            "type": "retail",
+            "distance_km": 0.68,
+            "direction": "SE",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Shepherd’s Bush Food & Wine",
+            "latitude": 51.5020155,
+            "longitude": -0.2227187,
+            "walking_distance_km": 1.48,
+            "direction": "SE"
+          },
+          "validation": {
+            "candidate_score": 67.05,
+            "name_similarity": 81.08108108108108,
+            "name_match": false,
+            "distance_difference_km": 0.8,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "White City Underground Station",
+            "type": "transport",
+            "distance_km": 0.82,
+            "direction": "NE",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "White City",
+            "latitude": 51.51194599999999,
+            "longitude": -0.2245319,
+            "walking_distance_km": 1.06,
+            "direction": "NE"
+          },
+          "validation": {
+            "candidate_score": 116.4,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.24,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "Westfield London",
+            "type": "retail",
+            "distance_km": 0.94,
+            "direction": "E",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Westfield London",
+            "latitude": 51.50757249999999,
+            "longitude": -0.2212054,
+            "walking_distance_km": 2.06,
+            "direction": "E"
+          },
+          "validation": {
+            "candidate_score": 108.2,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 1.12,
+            "within_2km": false,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "Wood Lane Underground Station",
+            "type": "transport",
+            "distance_km": 1.02,
+            "direction": "NE",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Wood Lane",
+            "latitude": 51.5100085,
+            "longitude": -0.2242417,
+            "walking_distance_km": 1.26,
+            "direction": "E"
+          },
+          "validation": {
+            "candidate_score": 116.4,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.24,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "BBC Television Centre",
+            "type": "landmark",
+            "distance_km": 1.18,
+            "direction": "NE",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 53.95
+          }
+        },
+        {
+          "predicted": {
+            "name": "Shepherd's Bush Underground Station",
+            "type": "transport",
+            "distance_km": 1.26,
+            "direction": "SE",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Shepherd's Bush",
+            "latitude": 51.50475369999999,
+            "longitude": -0.2185212,
+            "walking_distance_km": 1.51,
+            "direction": "E"
+          },
+          "validation": {
+            "candidate_score": 116.25,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.25,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "Hammersmith Hospital",
+            "type": "hospital",
+            "distance_km": 1.42,
+            "direction": "N",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Hammersmith Hospital",
+            "latitude": 51.5166405,
+            "longitude": -0.2351389,
+            "walking_distance_km": 1.08,
+            "direction": "N"
+          },
+          "validation": {
+            "candidate_score": 119.9,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.34,
+            "within_2km": true,
+            "direction_match": true
+          }
+        }
+      ]
+    },
+    {
+      "country": "Inglaterra",
+      "city": "Londres",
+      "address": "Emma FitzGerald Walk, London W2 2UH, Reino Unido",
+      "latitude": 51.508826,
+      "longitude": -0.163524,
+      "validated_pois": [
+        {
+          "predicted": {
+            "name": "Serpentine Gallery",
+            "type": "landmark",
+            "distance_km": 0.15,
+            "direction": "NW",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Serpentine North Gallery",
+            "latitude": 51.5070403,
+            "longitude": -0.1713018,
+            "walking_distance_km": 0.7,
+            "direction": "W"
+          },
+          "validation": {
+            "candidate_score": 116.75,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.55,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "The Serpentine",
+            "type": "park",
+            "distance_km": 0.25,
+            "direction": "E",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": -999
+          }
+        },
+        {
+          "predicted": {
+            "name": "Princess Diana Memorial Fountain",
+            "type": "landmark",
+            "distance_km": 0.4,
+            "direction": "S",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Diana, Princess of Wales Memorial Fountain",
+            "latitude": 51.50495369999999,
+            "longitude": -0.1717011,
+            "walking_distance_km": 1.0,
+            "direction": "SW"
+          },
+          "validation": {
+            "candidate_score": 116.0,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.6,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Serpentine Lido",
+            "type": "park",
+            "distance_km": 0.55,
+            "direction": "SE",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 51.6
+          }
+        },
+        {
+          "predicted": {
+            "name": "Albert Memorial",
+            "type": "landmark",
+            "distance_km": 0.85,
+            "direction": "SW",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "The Albert Memorial",
+            "latitude": 51.5023516,
+            "longitude": -0.177707,
+            "walking_distance_km": 1.44,
+            "direction": "SW"
+          },
+          "validation": {
+            "candidate_score": 111.15,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.59,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "Royal Albert Hall",
+            "type": "landmark",
+            "distance_km": 1.0,
+            "direction": "SW",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Royal Albert Hall",
+            "latitude": 51.5009088,
+            "longitude": -0.177366,
+            "walking_distance_km": 1.54,
+            "direction": "SW"
+          },
+          "validation": {
+            "candidate_score": 116.9,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.54,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "Lancaster Gate Station",
+            "type": "transport",
+            "distance_km": 1.1,
+            "direction": "N",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Lancaster Gate Station",
+            "latitude": 51.5124939,
+            "longitude": -0.174881,
+            "walking_distance_km": 1.0,
+            "direction": "NW"
+          },
+          "validation": {
+            "candidate_score": 123.5,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.1,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "Science Museum",
+            "type": "landmark",
+            "distance_km": 1.3,
+            "direction": "S",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Science Museum",
+            "latitude": 51.4972216,
+            "longitude": -0.1767283,
+            "walking_distance_km": 1.88,
+            "direction": "SW"
+          },
+          "validation": {
+            "candidate_score": 116.3,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.58,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "Knightsbridge Station",
+            "type": "transport",
+            "distance_km": 1.4,
+            "direction": "SE",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Knightsbridge Station",
+            "latitude": 51.501695,
+            "longitude": -0.1603545,
+            "walking_distance_km": 1.06,
+            "direction": "S"
+          },
+          "validation": {
+            "candidate_score": 119.9,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.34,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "Harrods",
+            "type": "retail",
+            "distance_km": 1.5,
+            "direction": "SE",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Harrods",
+            "latitude": 51.49940549999999,
+            "longitude": -0.1632344,
+            "walking_distance_km": 1.46,
+            "direction": "S"
+          },
+          "validation": {
+            "candidate_score": 124.4,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.04,
+            "within_2km": true,
+            "direction_match": true
+          }
+        }
+      ]
+    },
+    {
+      "country": "Inglaterra",
+      "city": "Londres",
+      "address": "The Queen's Walk, London SE1 7PB, Reino Unido",
+      "latitude": 51.50206,
+      "longitude": -0.119699,
+      "validated_pois": [
+        {
+          "predicted": {
+            "name": "London Eye",
+            "type": "landmark",
+            "distance_km": 0.05,
+            "direction": "N",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "London Eye",
+            "latitude": 51.5031864,
+            "longitude": -0.1195192,
+            "walking_distance_km": 0.13,
+            "direction": "N"
+          },
+          "validation": {
+            "candidate_score": 123.8,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.08,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "County Hall",
+            "type": "landmark",
+            "distance_km": 0.1,
+            "direction": "S",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 57.15
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Jubilee Gardens",
+            "type": "park",
+            "distance_km": 0.15,
+            "direction": "NE",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 54.1
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Sea Life London Aquarium",
+            "type": "retail",
+            "distance_km": 0.22,
+            "direction": "SW",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 57.45
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Westminster Bridge",
+            "type": "transport",
+            "distance_km": 0.35,
+            "direction": "SW",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 39.75
+          }
+        },
+        {
+          "predicted": {
+            "name": "Giraffe Southbank",
+            "type": "restaurant",
+            "distance_km": 0.4,
+            "direction": "NE",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Giraffe",
+            "latitude": 51.5062579,
+            "longitude": -0.1170463,
+            "walking_distance_km": 0.52,
+            "direction": "N"
+          },
+          "validation": {
+            "candidate_score": 118.2,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.12,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "Waterloo Station",
+            "type": "transport",
+            "distance_km": 0.48,
+            "direction": "E",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Waterloo Station",
+            "latitude": 51.5030541,
+            "longitude": -0.115668,
+            "walking_distance_km": 0.41,
+            "direction": "E"
+          },
+          "validation": {
+            "candidate_score": 123.95,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.07,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "Southbank Centre",
+            "type": "landmark",
+            "distance_km": 0.55,
+            "direction": "NE",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Southbank Centre",
+            "latitude": 51.50602,
+            "longitude": -0.1164148,
+            "walking_distance_km": 0.62,
+            "direction": "NE"
+          },
+          "validation": {
+            "candidate_score": 123.95,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.07,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "St Thomas' Hospital",
+            "type": "hospital",
+            "distance_km": 0.62,
+            "direction": "S",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "St Thomas' Hospital",
+            "latitude": 51.4991539,
+            "longitude": -0.1188859,
+            "walking_distance_km": 0.35,
+            "direction": "S"
+          },
+          "validation": {
+            "candidate_score": 120.95,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.27,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "Big Ben",
+            "type": "landmark",
+            "distance_km": 0.75,
+            "direction": "SW",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Big Ben",
+            "latitude": 51.50072919999999,
+            "longitude": -0.1246254,
+            "walking_distance_km": 0.47,
+            "direction": "SW"
+          },
+          "validation": {
+            "candidate_score": 120.8,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.28,
+            "within_2km": true,
+            "direction_match": true
+          }
+        }
+      ]
+    },
+    {
+      "country": "Inglaterra",
+      "city": "Londres",
+      "address": "86-85 De Laune St, London SE17 3UT, Reino Unido",
+      "latitude": 51.48564,
+      "longitude": -0.107424,
+      "validated_pois": [
+        {
+          "predicted": {
+            "name": "Kennington Underground Station",
+            "type": "transport",
+            "distance_km": 0.32,
+            "direction": "NW",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Kennington",
+            "latitude": 51.48827370000001,
+            "longitude": -0.105614,
+            "walking_distance_km": 0.35,
+            "direction": "NE"
+          },
+          "validation": {
+            "candidate_score": 119.55,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.03,
+            "within_2km": true,
+            "direction_match": false
+          }
+        },
+        {
+          "predicted": {
+            "name": "The Prince of Wales",
+            "type": "restaurant",
+            "distance_km": 0.38,
+            "direction": "NW",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "The Prince of Wales",
+            "latitude": 51.4956337,
+            "longitude": -0.1038586,
+            "walking_distance_km": 1.46,
+            "direction": "N"
+          },
+          "validation": {
+            "candidate_score": 108.8,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 1.08,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "Kennington Park",
+            "type": "park",
+            "distance_km": 0.42,
+            "direction": "SE",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Kennington Park",
+            "latitude": 51.48338529999999,
+            "longitude": -0.1092608,
+            "walking_distance_km": 0.5,
+            "direction": "SW"
+          },
+          "validation": {
+            "candidate_score": 123.8,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.08,
+            "within_2km": true,
+            "direction_match": false
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "St Mary's Church, Kennington Park Road",
+            "type": "religious",
+            "distance_km": 0.48,
+            "direction": "NW",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 34.87
+          }
+        },
+        {
+          "predicted": {
+            "name": "Pasley Park",
+            "type": "park",
+            "distance_km": 0.58,
+            "direction": "SW",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Pasley Park",
+            "latitude": 51.4862244,
+            "longitude": -0.1009904,
+            "walking_distance_km": 0.64,
+            "direction": "E"
+          },
+          "validation": {
+            "candidate_score": 124.1,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.06,
+            "within_2km": true,
+            "direction_match": false
+          }
+        },
+        {
+          "predicted": {
+            "name": "The Kia Oval",
+            "type": "landmark",
+            "distance_km": 0.88,
+            "direction": "SW",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "The Kia Oval",
+            "latitude": 51.4837565,
+            "longitude": -0.1149737,
+            "walking_distance_km": 0.86,
+            "direction": "W"
+          },
+          "validation": {
+            "candidate_score": 124.7,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.02,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Walworth Road Shopping District",
+            "type": "retail",
+            "distance_km": 0.98,
+            "direction": "E",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": -25.22
+          }
+        },
+        {
+          "predicted": {
+            "name": "Elephant & Castle Station",
+            "type": "transport",
+            "distance_km": 1.28,
+            "direction": "NE",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Elephant and Castle Station",
+            "latitude": 51.4950999,
+            "longitude": -0.1005335,
+            "walking_distance_km": 1.27,
+            "direction": "NE"
+          },
+          "validation": {
+            "candidate_score": 124.85,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.01,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "Imperial War Museum",
+            "type": "landmark",
+            "distance_km": 1.58,
+            "direction": "NW",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Imperial War Museum",
+            "latitude": 51.4958366,
+            "longitude": -0.1086584,
+            "walking_distance_km": 1.54,
+            "direction": "N"
+          },
+          "validation": {
+            "candidate_score": 124.4,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.04,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "Burgess Park",
+            "type": "park",
+            "distance_km": 1.78,
+            "direction": "SE",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Burgess Park",
+            "latitude": 51.4832499,
+            "longitude": -0.0821175,
+            "walking_distance_km": 2.26,
+            "direction": "E"
+          },
+          "validation": {
+            "candidate_score": 117.8,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.48,
+            "within_2km": false,
+            "direction_match": true
+          }
+        }
+      ]
+    },
+    {
+      "country": "Países Baixos",
+      "city": "Amsterdam",
+      "address": "Rokin, Amsterdam, Países Baixos",
+      "latitude": 52.371757,
+      "longitude": 4.892806,
+      "validated_pois": [
+        {
+          "predicted": {
+            "name": "Rokin Metro Station",
+            "type": "transport",
+            "distance_km": 0.05,
+            "direction": "S",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Rokin",
+            "latitude": 52.3694312,
+            "longitude": 4.892471,
+            "walking_distance_km": 0.27,
+            "direction": "S"
+          },
+          "validation": {
+            "candidate_score": 116.7,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.22,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "Kalverstraat",
+            "type": "retail",
+            "distance_km": 0.12,
+            "direction": "W",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "UNIQLO Kalverstraat",
+            "latitude": 52.3722121,
+            "longitude": 4.8926307,
+            "walking_distance_km": 0.06,
+            "direction": "N"
+          },
+          "validation": {
+            "candidate_score": 119.1,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.06,
+            "within_2km": true,
+            "direction_match": false
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Dam Square",
+            "type": "landmark",
+            "distance_km": 0.22,
+            "direction": "N",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": -15.18
+          }
+        },
+        {
+          "predicted": {
+            "name": "Royal Palace Amsterdam",
+            "type": "landmark",
+            "distance_km": 0.32,
+            "direction": "NW",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Royal Palace Amsterdam",
+            "latitude": 52.3731835,
+            "longitude": 4.8913758,
+            "walking_distance_km": 0.23,
+            "direction": "NW"
+          },
+          "validation": {
+            "candidate_score": 123.65,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.09,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "De Bijenkorf",
+            "type": "retail",
+            "distance_km": 0.38,
+            "direction": "NE",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "de Bijenkorf Amsterdam",
+            "latitude": 52.37375309999999,
+            "longitude": 4.895270600000001,
+            "walking_distance_km": 0.4,
+            "direction": "NE"
+          },
+          "validation": {
+            "candidate_score": 119.7,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.02,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "Begijnhof",
+            "type": "religious",
+            "distance_km": 0.42,
+            "direction": "SW",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Begijnhof",
+            "latitude": 52.3694585,
+            "longitude": 4.8903539,
+            "walking_distance_km": 0.38,
+            "direction": "SW"
+          },
+          "validation": {
+            "candidate_score": 124.4,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.04,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Amsterdam Museum",
+            "type": "landmark",
+            "distance_km": 0.48,
+            "direction": "W",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 48.82
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Bloemenmarkt",
+            "type": "retail",
+            "distance_km": 0.58,
+            "direction": "S",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": -999
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Rembrandtplein",
+            "type": "landmark",
+            "distance_km": 0.72,
+            "direction": "SE",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 58.35
+          }
+        },
+        {
+          "predicted": {
+            "name": "Amsterdam Centraal Station",
+            "type": "transport",
+            "distance_km": 0.98,
+            "direction": "N",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Amsterdam Centraal",
+            "latitude": 52.3791283,
+            "longitude": 4.900272,
+            "walking_distance_km": 1.03,
+            "direction": "NE"
+          },
+          "validation": {
+            "candidate_score": 119.25,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.05,
+            "within_2km": true,
+            "direction_match": true
+          }
+        }
+      ]
+    },
+    {
+      "country": "Países Baixos",
+      "city": "Amsterdam",
+      "address": "Govert Flinckstraat 127II, 1072 EG Amsterdam, Países Baixos",
+      "latitude": 52.354877,
+      "longitude": 4.892269,
+      "validated_pois": [
+        {
+          "predicted": {
+            "name": "Sarphatipark",
+            "type": "park",
+            "distance_km": 0.18,
+            "direction": "S",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Sarphatipark",
+            "latitude": 52.354296,
+            "longitude": 4.896078699999999,
+            "walking_distance_km": 0.38,
+            "direction": "E"
+          },
+          "validation": {
+            "candidate_score": 122.0,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.2,
+            "within_2km": true,
+            "direction_match": false
+          }
+        }
+      ]
+    },
+    {
+      "country": "Países Baixos",
+      "city": "Amsterdam",
+      "address": "Heimanspad, 1073 CX Amsterdam, Países Baixos",
+      "latitude": 52.354118,
+      "longitude": 4.897775,
+      "validated_pois": [
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Amstel River",
+            "type": "landmark",
+            "distance_km": 0.15,
+            "direction": "E",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": -999
+          }
+        }
+      ]
+    },
+    {
+      "country": "Países Baixos",
+      "city": "Amsterdam",
+      "address": "Smederij 2-20, 1021 NG Amsterdam, Países Baixos",
+      "latitude": 52.381379,
+      "longitude": 4.914643,
+      "validated_pois": [
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Sixhaven",
+            "type": "transport",
+            "distance_km": 0.15,
+            "direction": "SE",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 50.25
+          }
+        },
+        {
+          "predicted": {
+            "name": "Buiksloterweg Ferry",
+            "type": "transport",
+            "distance_km": 0.45,
+            "direction": "SW",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Buiksloterweg",
+            "latitude": 52.38216000000001,
+            "longitude": 4.90299,
+            "walking_distance_km": 1.18,
+            "direction": "W"
+          },
+          "validation": {
+            "candidate_score": 109.05,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.73,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Tolhuistuin",
+            "type": "park",
+            "distance_km": 0.52,
+            "direction": "SW",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 50.55
+          }
+        },
+        {
+          "predicted": {
+            "name": "A'DAM Lookout",
+            "type": "landmark",
+            "distance_km": 0.68,
+            "direction": "W",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "A'DAM Lookout",
+            "latitude": 52.3839583,
+            "longitude": 4.9021118,
+            "walking_distance_km": 1.27,
+            "direction": "W"
+          },
+          "validation": {
+            "candidate_score": 116.15,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.59,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "EYE Film Museum",
+            "type": "landmark",
+            "distance_km": 0.78,
+            "direction": "W",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 51.3
+          }
+        }
+      ]
+    },
+    {
+      "country": "Países Baixos",
+      "city": "Amsterdam",
+      "address": "Meidoornweg 16-20, 1031 GM Amsterdam, Países Baixos",
+      "latitude": 52.387055,
+      "longitude": 4.910223,
+      "validated_pois": [
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Van der Pekstraat",
+            "type": "retail",
+            "distance_km": 0.12,
+            "direction": "W",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 54.55
+          }
+        }
+      ]
+    },
+    {
+      "country": "Inglaterra",
+      "city": "Bath",
+      "address": "Pierrepont St, Bath BA2 4AF, Reino Unido",
+      "latitude": 51.379944,
+      "longitude": -2.357126,
+      "validated_pois": [
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Parade Gardens",
+            "type": "park",
+            "distance_km": 0.12,
+            "direction": "E",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 53.2
+          }
+        },
+        {
+          "predicted": {
+            "name": "Bath Abbey",
+            "type": "religious",
+            "distance_km": 0.22,
+            "direction": "NW",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Bath Abbey",
+            "latitude": 51.3814809,
+            "longitude": -2.3587346,
+            "walking_distance_km": 0.27,
+            "direction": "NW"
+          },
+          "validation": {
+            "candidate_score": 124.25,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.05,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "The Roman Baths",
+            "type": "landmark",
+            "distance_km": 0.28,
+            "direction": "NW",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "The Roman Baths",
+            "latitude": 51.381072,
+            "longitude": -2.359619,
+            "walking_distance_km": 0.29,
+            "direction": "NW"
+          },
+          "validation": {
+            "candidate_score": 124.85,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.01,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "Bath Spa Railway Station",
+            "type": "transport",
+            "distance_km": 0.35,
+            "direction": "S",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Bath Spa",
+            "latitude": 51.37773300000001,
+            "longitude": -2.356989,
+            "walking_distance_km": 0.28,
+            "direction": "S"
+          },
+          "validation": {
+            "candidate_score": 118.95,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.07,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "SouthGate Bath",
+            "type": "retail",
+            "distance_km": 0.42,
+            "direction": "SW",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "SouthGate Bath",
+            "latitude": 51.378335,
+            "longitude": -2.359297,
+            "walking_distance_km": 0.39,
+            "direction": "SW"
+          },
+          "validation": {
+            "candidate_score": 124.55,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.03,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "Pulteney Bridge",
+            "type": "landmark",
+            "distance_km": 0.48,
+            "direction": "NE",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Pulteney Bridge",
+            "latitude": 51.38300109999999,
+            "longitude": -2.3579544,
+            "walking_distance_km": 0.39,
+            "direction": "N"
+          },
+          "validation": {
+            "candidate_score": 123.65,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.09,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Guildhall Market",
+            "type": "retail",
+            "distance_km": 0.52,
+            "direction": "N",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 52.45
+          }
+        },
+        {
+          "predicted": {
+            "name": "Victoria Art Gallery",
+            "type": "landmark",
+            "distance_km": 0.55,
+            "direction": "N",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Victoria Art Gallery",
+            "latitude": 51.3826942,
+            "longitude": -2.3586085,
+            "walking_distance_km": 0.39,
+            "direction": "N"
+          },
+          "validation": {
+            "candidate_score": 122.6,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.16,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "Theatre Royal Bath",
+            "type": "landmark",
+            "distance_km": 0.65,
+            "direction": "W",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Theatre Royal, Bath",
+            "latitude": 51.3820512,
+            "longitude": -2.3625459,
+            "walking_distance_km": 0.61,
+            "direction": "NW"
+          },
+          "validation": {
+            "candidate_score": 124.4,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.04,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "Royal Victoria Park",
+            "type": "park",
+            "distance_km": 1.15,
+            "direction": "NW",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Royal Victoria Park Bath",
+            "latitude": 51.3857066,
+            "longitude": -2.3708196,
+            "walking_distance_km": 1.41,
+            "direction": "NW"
+          },
+          "validation": {
+            "candidate_score": 116.1,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.26,
+            "within_2km": true,
+            "direction_match": true
+          }
+        }
+      ]
+    },
+    {
+      "country": "Inglaterra",
+      "city": "Bath",
+      "address": "Quarry Rock Gardens, Bath BA2 6EF, Reino Unido",
+      "latitude": 51.373304,
+      "longitude": -2.332214,
+      "validated_pois": [
+        {
+          "predicted": {
+            "name": "Bath Skyline",
+            "type": "park",
+            "distance_km": 0.15,
+            "direction": "E",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Bath Skyline",
+            "latitude": 51.37814119999999,
+            "longitude": -2.3418719,
+            "walking_distance_km": 1.37,
+            "direction": "NW"
+          },
+          "validation": {
+            "candidate_score": 106.7,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 1.22,
+            "within_2km": true,
+            "direction_match": false
+          }
+        }
+      ]
+    },
+    {
+      "country": "Inglaterra",
+      "city": "Bath",
+      "address": "Bath BA1 2LZ, Reino Unido",
+      "latitude": 51.38802,
+      "longitude": -2.376018,
+      "validated_pois": [
+        {
+          "predicted": {
+            "name": "Royal Victoria Park",
+            "type": "park",
+            "distance_km": 0.12,
+            "direction": "W",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Royal Victoria Park Bath",
+            "latitude": 51.3857066,
+            "longitude": -2.3708196,
+            "walking_distance_km": 0.68,
+            "direction": "SE"
+          },
+          "validation": {
+            "candidate_score": 111.6,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.56,
+            "within_2km": true,
+            "direction_match": false
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Royal Crescent",
+            "type": "landmark",
+            "distance_km": 0.25,
+            "direction": "NW",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 43.6
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "The Circus",
+            "type": "landmark",
+            "distance_km": 0.4,
+            "direction": "E",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 48.0
+          }
+        },
+        {
+          "predicted": {
+            "name": "Bath Assembly Rooms",
+            "type": "landmark",
+            "distance_km": 0.52,
+            "direction": "NE",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "National Trust - Bath Assembly Rooms",
+            "latitude": 51.386204,
+            "longitude": -2.3628429,
+            "walking_distance_km": 1.21,
+            "direction": "E"
+          },
+          "validation": {
+            "candidate_score": 109.65,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.69,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Jane Austen Centre",
+            "type": "landmark",
+            "distance_km": 0.65,
+            "direction": "E",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 45.7
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Milsom Street",
+            "type": "retail",
+            "distance_km": 0.8,
+            "direction": "E",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 50.25
+          }
+        },
+        {
+          "predicted": {
+            "name": "Roman Baths",
+            "type": "landmark",
+            "distance_km": 1.05,
+            "direction": "SE",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "The Roman Baths",
+            "latitude": 51.381072,
+            "longitude": -2.359619,
+            "walking_distance_km": 1.86,
+            "direction": "SE"
+          },
+          "validation": {
+            "candidate_score": 107.85,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.81,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "Bath Abbey",
+            "type": "religious",
+            "distance_km": 1.1,
+            "direction": "SE",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Bath Abbey",
+            "latitude": 51.3814809,
+            "longitude": -2.3587346,
+            "walking_distance_km": 1.85,
+            "direction": "SE"
+          },
+          "validation": {
+            "candidate_score": 113.75,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.75,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "Pulteney Bridge",
+            "type": "landmark",
+            "distance_km": 1.25,
+            "direction": "E",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Pulteney Bridge",
+            "latitude": 51.38300109999999,
+            "longitude": -2.3579544,
+            "walking_distance_km": 1.84,
+            "direction": "SE"
+          },
+          "validation": {
+            "candidate_score": 116.15,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.59,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "Bath Spa Railway Station",
+            "type": "transport",
+            "distance_km": 1.55,
+            "direction": "SE",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Bath Spa",
+            "latitude": 51.37773300000001,
+            "longitude": -2.356989,
+            "walking_distance_km": 2.22,
+            "direction": "SE"
+          },
+          "validation": {
+            "candidate_score": 109.95,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.67,
+            "within_2km": false,
+            "direction_match": true
+          }
+        }
+      ]
+    },
+    {
+      "country": "Inglaterra",
+      "city": "Bath",
+      "address": "Bristol And Bath Railway Path, Bath, Reino Unido",
+      "latitude": 51.38279,
+      "longitude": -2.384838,
+      "validated_pois": [
+        {
+          "predicted": {
+            "name": "The Boathouse",
+            "type": "restaurant",
+            "distance_km": 0.35,
+            "direction": "SW",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "The Boathouse",
+            "latitude": 51.39098749999999,
+            "longitude": -2.4081445,
+            "walking_distance_km": 2.16,
+            "direction": "NW"
+          },
+          "validation": {
+            "candidate_score": 97.85,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 1.81,
+            "within_2km": false,
+            "direction_match": false
+          }
+        }
+      ]
+    },
+    {
+      "country": "Inglaterra",
+      "city": "Bath",
+      "address": "35 Calton Gardens, Bath BA2 4QG, Reino Unido",
+      "latitude": 51.37577,
+      "longitude": -2.360877,
+      "validated_pois": [
+        {
+          "predicted": {
+            "name": "Alexandra Park",
+            "type": "park",
+            "distance_km": 0.22,
+            "direction": "S",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Alexandra Park",
+            "latitude": 51.3735768,
+            "longitude": -2.3594524,
+            "walking_distance_km": 0.86,
+            "direction": "S"
+          },
+          "validation": {
+            "candidate_score": 115.4,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.64,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "Bath Spa Railway Station",
+            "type": "transport",
+            "distance_km": 0.55,
+            "direction": "NE",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Bath Spa",
+            "latitude": 51.37773300000001,
+            "longitude": -2.356989,
+            "walking_distance_km": 0.73,
+            "direction": "NE"
+          },
+          "validation": {
+            "candidate_score": 117.3,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.18,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "status": "low_confidence_match",
+          "predicted": {
+            "name": "Widcombe Parade",
+            "type": "retail",
+            "distance_km": 0.65,
+            "direction": "E",
+            "confidence": "high"
+          },
+          "validation": {
+            "candidate_score": 52.45
+          }
+        },
+        {
+          "predicted": {
+            "name": "SouthGate Bath",
+            "type": "retail",
+            "distance_km": 0.8,
+            "direction": "N",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Clarins Boots Bath Southgate Centre",
+            "latitude": 51.3784968,
+            "longitude": -2.3588788,
+            "walking_distance_km": 0.68,
+            "direction": "NE"
+          },
+          "validation": {
+            "candidate_score": 123.2,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.12,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "The Roman Baths",
+            "type": "landmark",
+            "distance_km": 1.1,
+            "direction": "N",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "The Roman Baths",
+            "latitude": 51.381072,
+            "longitude": -2.359619,
+            "walking_distance_km": 0.96,
+            "direction": "N"
+          },
+          "validation": {
+            "candidate_score": 122.9,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.14,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "Sally Lunn's Historic Eating House",
+            "type": "restaurant",
+            "distance_km": 1.12,
+            "direction": "N",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Sally Lunn’s Historic Eating House & Museum",
+            "latitude": 51.3807534,
+            "longitude": -2.3582423,
+            "walking_distance_km": 0.95,
+            "direction": "N"
+          },
+          "validation": {
+            "candidate_score": 117.45,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.17,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "Bath Abbey",
+            "type": "religious",
+            "distance_km": 1.15,
+            "direction": "N",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Bath Abbey",
+            "latitude": 51.3814809,
+            "longitude": -2.3587346,
+            "walking_distance_km": 1.03,
+            "direction": "N"
+          },
+          "validation": {
+            "candidate_score": 123.2,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.12,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "Thermae Bath Spa",
+            "type": "landmark",
+            "distance_km": 1.2,
+            "direction": "NW",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Thermae Bath Spa",
+            "latitude": 51.3803643,
+            "longitude": -2.3615092,
+            "walking_distance_km": 0.86,
+            "direction": "N"
+          },
+          "validation": {
+            "candidate_score": 119.9,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.34,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "Pulteney Bridge",
+            "type": "landmark",
+            "distance_km": 1.45,
+            "direction": "NE",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "Pulteney Bridge",
+            "latitude": 51.38300109999999,
+            "longitude": -2.3579544,
+            "walking_distance_km": 1.35,
+            "direction": "N"
+          },
+          "validation": {
+            "candidate_score": 123.5,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.1,
+            "within_2km": true,
+            "direction_match": true
+          }
+        },
+        {
+          "predicted": {
+            "name": "The Holburne Museum",
+            "type": "landmark",
+            "distance_km": 1.85,
+            "direction": "NE",
+            "confidence": "high"
+          },
+          "google": {
+            "name": "The Holburne Museum",
+            "latitude": 51.385743,
+            "longitude": -2.3508921,
+            "walking_distance_km": 1.71,
+            "direction": "NE"
+          },
+          "validation": {
+            "candidate_score": 122.9,
+            "name_similarity": 100.0,
+            "name_match": true,
+            "distance_difference_km": 0.14,
+            "within_2km": true,
+            "direction_match": true
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "overall": {
+      "total_pois": 301,
+      "name_accuracy": 0.5316,
+      "within_2km_accuracy": 0.5083,
+      "direction_accuracy": 0.4419,
+      "mae_km": 0.355,
+      "median_error_km": 0.21,
+      "not_found_rate": 0.0,
+      "low_confidence_rate": 0.4485
+    },
+    "by_country": {
+      "Estados Unidos": {
+        "total_pois": 82,
+        "name_accuracy": 0.4756,
+        "within_2km_accuracy": 0.4756,
+        "direction_accuracy": 0.3537,
+        "mae_km": 0.298,
+        "median_error_km": 0.22,
+        "not_found_rate": 0.0,
+        "low_confidence_rate": 0.5122
+      },
+      "Canada": {
+        "total_pois": 41,
+        "name_accuracy": 0.561,
+        "within_2km_accuracy": 0.561,
+        "direction_accuracy": 0.439,
+        "mae_km": 0.215,
+        "median_error_km": 0.15,
+        "not_found_rate": 0.0,
+        "low_confidence_rate": 0.439
+      },
+      "Brasil": {
+        "total_pois": 87,
+        "name_accuracy": 0.3793,
+        "within_2km_accuracy": 0.3333,
+        "direction_accuracy": 0.3448,
+        "mae_km": 0.562,
+        "median_error_km": 0.44,
+        "not_found_rate": 0.0,
+        "low_confidence_rate": 0.5747
+      },
+      "Inglaterra": {
+        "total_pois": 73,
+        "name_accuracy": 0.7671,
+        "within_2km_accuracy": 0.726,
+        "direction_accuracy": 0.6712,
+        "mae_km": 0.336,
+        "median_error_km": 0.17,
+        "not_found_rate": 0.0,
+        "low_confidence_rate": 0.2192
+      },
+      "Países Baixos": {
+        "total_pois": 18,
+        "name_accuracy": 0.5,
+        "within_2km_accuracy": 0.5,
+        "direction_accuracy": 0.3889,
+        "mae_km": 0.222,
+        "median_error_km": 0.09,
+        "not_found_rate": 0.0,
+        "low_confidence_rate": 0.5
+      }
+    },
+    "by_city": {
+      "Bath": {
+        "total_pois": 32,
+        "name_accuracy": 0.7812,
+        "within_2km_accuracy": 0.7188,
+        "direction_accuracy": 0.6875,
+        "mae_km": 0.39,
+        "median_error_km": 0.17,
+        "not_found_rate": 0.0,
+        "low_confidence_rate": 0.2188
+      },
+      "Londres": {
+        "total_pois": 41,
+        "name_accuracy": 0.7561,
+        "within_2km_accuracy": 0.7317,
+        "direction_accuracy": 0.6585,
+        "mae_km": 0.294,
+        "median_error_km": 0.195,
+        "not_found_rate": 0.0,
+        "low_confidence_rate": 0.2195
+      },
+      "New York": {
+        "total_pois": 32,
+        "name_accuracy": 0.5625,
+        "within_2km_accuracy": 0.5625,
+        "direction_accuracy": 0.4688,
+        "mae_km": 0.349,
+        "median_error_km": 0.22,
+        "not_found_rate": 0.0,
+        "low_confidence_rate": 0.4062
+      },
+      "Vancouver": {
+        "total_pois": 41,
+        "name_accuracy": 0.561,
+        "within_2km_accuracy": 0.561,
+        "direction_accuracy": 0.439,
+        "mae_km": 0.215,
+        "median_error_km": 0.15,
+        "not_found_rate": 0.0,
+        "low_confidence_rate": 0.439
+      },
+      "São Paulo": {
+        "total_pois": 32,
+        "name_accuracy": 0.5312,
+        "within_2km_accuracy": 0.4688,
+        "direction_accuracy": 0.4688,
+        "mae_km": 0.45,
+        "median_error_km": 0.345,
+        "not_found_rate": 0.0,
+        "low_confidence_rate": 0.4375
+      },
+      "Amsterdam": {
+        "total_pois": 18,
+        "name_accuracy": 0.5,
+        "within_2km_accuracy": 0.5,
+        "direction_accuracy": 0.3889,
+        "mae_km": 0.222,
+        "median_error_km": 0.09,
+        "not_found_rate": 0.0,
+        "low_confidence_rate": 0.5
+      },
+      "Aspen": {
+        "total_pois": 50,
+        "name_accuracy": 0.42,
+        "within_2km_accuracy": 0.42,
+        "direction_accuracy": 0.28,
+        "mae_km": 0.252,
+        "median_error_km": 0.16,
+        "not_found_rate": 0.0,
+        "low_confidence_rate": 0.58
+      },
+      "Tibau do Sul": {
+        "total_pois": 23,
+        "name_accuracy": 0.3913,
+        "within_2km_accuracy": 0.3043,
+        "direction_accuracy": 0.3913,
+        "mae_km": 0.718,
+        "median_error_km": 0.54,
+        "not_found_rate": 0.0,
+        "low_confidence_rate": 0.5217
+      },
+      "Campina Grande": {
+        "total_pois": 32,
+        "name_accuracy": 0.2188,
+        "within_2km_accuracy": 0.2188,
+        "direction_accuracy": 0.1875,
+        "mae_km": 0.601,
+        "median_error_km": 0.44,
+        "not_found_rate": 0.0,
+        "low_confidence_rate": 0.75
+      }
+    }
+  }
+}

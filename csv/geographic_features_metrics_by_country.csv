@@ -1,0 +1,31 @@
+model,country,true_positive,false_positive,false_negative,precision,recall,f1_score
+gemini-3-flash-preview,Brazil,29,26,6,0.527,0.829,0.644
+claude-sonnet-4-6,Brazil,33,42,10,0.44,0.767,0.559
+gemini-3.1-flash-lite,Brazil,23,28,9,0.451,0.719,0.554
+deepseek-v4-flash,Brazil,19,21,10,0.475,0.655,0.551
+gpt-4.1,Brazil,20,22,11,0.476,0.645,0.548
+deepseek-v4-pro,Brazil,13,18,14,0.419,0.481,0.448
+gemini-3.1-flash-lite,Canada,17,1,8,0.944,0.68,0.791
+gemini-3-flash-preview,Canada,17,3,6,0.85,0.739,0.791
+gpt-4.1,Canada,14,4,8,0.778,0.636,0.7   
+claude-sonnet-4-6,Canada,15,10,8,0.6,0.652,0.625    
+deepseek-v4-flash,Canada,12,7,9,0.632,0.571,0.6 
+deepseek-v4-pro,Canada,9,3,10,0.75,0.474,0.581  
+claude-sonnet-4-6,Netherlands,18,7,15,0.72,0.545,0.621  
+gemini-3.1-flash-lite,Netherlands,15,4,15,0.789,0.5,0.612   
+gemini-3-flash-preview,Netherlands,15,3,18,0.833,0.455,0.588    
+deepseek-v4-flash,Netherlands,10,1,17,0.909,0.37,0.526  
+gpt-4.1,Netherlands,11,4,16,0.733,0.407,0.524   
+deepseek-v4-pro,Netherlands,6,3,20,0.667,0.231,0.343    
+claude-sonnet-4-6,United Kingdom,40,10,14,0.8,0.741,0.769   
+gemini-3-flash-preview,United Kingdom,33,6,14,0.846,0.702,0.767 
+gemini-3.1-flash-lite,United Kingdom,29,6,16,0.829,0.644,0.725  
+gpt-4.1,United Kingdom,25,5,19,0.833,0.568,0.676    
+deepseek-v4-pro,United Kingdom,18,4,20,0.818,0.474,0.6  
+deepseek-v4-flash,United Kingdom,18,8,21,0.692,0.462,0.554  
+gemini-3-flash-preview,United States,29,11,12,0.725,0.707,0.716 
+claude-sonnet-4-6,United States,33,17,11,0.66,0.75,0.702    
+deepseek-v4-pro,United States,22,7,15,0.759,0.595,0.667 
+gemini-3.1-flash-lite,United States,24,11,14,0.686,0.632,0.658  
+gpt-4.1,United States,18,6,18,0.75,0.5,0.6  
+deepseek-v4-flash,United States,16,6,17,0.727,0.485,0.582   
