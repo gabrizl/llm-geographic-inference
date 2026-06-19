@@ -1,10 +1,7 @@
-
-
-
-
-**"Geographic Inference with Large Language Models: Identification of POIs and Urban Features from Addresses and Coordinates"** (Brazilian Symposium on Databases - SBBD 2026)
+# **"Geographic Inference with Large Language Models: Identification of POIs and Urban Features from Addresses and Coordinates"** (Brazilian Symposium on Databases - SBBD 2026)
 
 This repository contains the dataset, source code, and evaluation results.
+
 ---
 
 ## Abstract
