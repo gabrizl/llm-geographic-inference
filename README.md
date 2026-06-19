@@ -127,35 +127,7 @@ Generate the aggregate CSV metrics under the `csv/` folder:
   ```powershell
   python scripts/summarize_metrics_poi.py
   ```
-
----
-
-## Evaluation Results Summary
-
-Below is an overview of the benchmark results aggregated by country.
-
-### 1. POI Identification Accuracy (Within 2km)
-
-| Model | Brazil | Canada | United States | United Kingdom | Netherlands |
-| :--- | :---: | :---: | :---: | :---: | :---: |
-| **Gemini 3 Flash Preview** | **33.3%** | **56.1%** | 47.6% | **72.6%** | **50.0%** |
-| **GPT-4.1 (OpenAI)** | 30.0% | 56.0% | 48.0% | 50.0% | 40.0% |
-| **DeepSeek V4 Pro** | 19.3% | 54.0% | **59.0%** | 58.0% | 40.0% |
-| **Gemini 3.1 Flash Lite** | 27.3% | 48.0% | 49.0% | 54.0% | 42.0% |
-| **Claude 3.5 Sonnet (4.6)** | 20.0% | 45.0% | 39.0% | 50.0% | 40.0% |
-| **DeepSeek V4 Flash** | 26.7% | 42.0% | 54.0% | 58.0% | 34.0% |
-
-### 2. Geographic Features F1-Scores
-
-| Model | Brazil | Canada | United States | United Kingdom | Netherlands |
-| :--- | :---: | :---: | :---: | :---: | :---: |
-| **Gemini 3 Flash Preview** | **0.644** | 0.791 | **0.716** | 0.767 | 0.588 |
-| **Claude 3.5 Sonnet (4.6)** | 0.559 | 0.625 | 0.702 | **0.769** | **0.621** |
-| **Gemini 3.1 Flash Lite** | 0.554 | **0.791** | 0.658 | 0.725 | 0.612 |
-| **DeepSeek V4 Flash** | 0.551 | 0.600 | 0.582 | 0.554 | 0.526 |
-| **GPT-4.1 (OpenAI)** | 0.548 | 0.700 | 0.600 | 0.676 | 0.524 |
-| **DeepSeek V4 Pro** | 0.448 | 0.581 | 0.667 | 0.600 | 0.343 |
-
+  
 ---
 
 ## Citation
@@ -163,9 +135,16 @@ Below is an overview of the benchmark results aggregated by country.
 If you use this benchmark or findings in your research, please cite our SBBD 2026 short paper:
 
 ```bibtex
-@inproceedings{spatial_llm_sbbd2026,
-  title={Geographic Inference with Large Language Models: Identification of POIs and Urban Features from Addresses and Coordinates},
-  booktitle={Proceedings of the Brazilian Symposium on Databases (SBBD 2026)},
-  year={2026}
+@INPROCEEDINGS{249658,
+    AUTHOR="Gabriel Silva and Salatiel Silva and Claudio Campelo",
+    TITLE="Geographic Inference with Large Language Models: Identification of POIs and Urban Features from Addresses and Coordinates",
+    BOOKTITLE="SBBD 2026 - Short Papers () ",
+    ADDRESS="",
+    DAYS="8-11",
+    MONTH="sep",
+    YEAR="2026",
+    ABSTRACT="This paper evaluates the ability of Large Language Models (LLMs) to infer geographic features and identify points of interest (POIs) from addresses and coordinates. Nine cities of different urban sizes, distributed across three continents, were analyzed, with five addresses per city in scenarios such as urban center, residential area, green area, proximity to water and mixed area. The predictions were validated with external geospatial databases. The results indicate greater stability in feature inference than in POI identification, whose performance varies according to country and urban size; Gemini 3.1 Flash Lite leads in large and medium-sized cities, with a tie between Gemini 3 Flash Preview and DeepSeek V4 Flash in small cities.",
+    KEYWORDS="Experimentos e análises; Aprendizado de máquina, IA, gerenciamento de dados e sistemas de dados",
+    URL="http://XXXXX/249658.pdf"
 }
 ```
