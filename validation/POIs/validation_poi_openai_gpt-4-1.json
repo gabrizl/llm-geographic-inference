@@ -2,7 +2,7 @@
   "_metadata": {
     "validator": "google_maps_api",
     "provider": "unknown",
-    "model": "gpt-4.1"
+    "model": "openai_gpt-4-1"
   },
   "results": [
     {

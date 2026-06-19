@@ -2,7 +2,7 @@
   "_metadata": {
     "validator": "google_maps_api",
     "provider": "unknown",
-    "model": "gemini-3.1-flash-lite"
+    "model": "gemini-3-1-flash-lite"
   },
   "results": [
     {
